@@ -11,3 +11,4 @@ PGUP playlist-prev ; show-text "${playlist-pos-1}/${playlist-count}"
 PGDWN playlist-next ; show-text "${playlist-pos-1}/${playlist-count}"
 
 these are downloaded from this page https://www.radio.pervii.com/en/online-playlists-m3u.htm i removed things like talk and news and only left music playlists
+
