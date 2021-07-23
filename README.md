@@ -1,6 +1,8 @@
-<p>if you don't know how to use these use mpv in the terminal</p>
-<code>mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/trance.m3u</code>
-<p>or add/change m3u file association in your os to mpv and double click on any of these in your file manager</p>
+if you don't know how to use these use mpv in the terminal
+
+mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/trance.m3u
+
+or add/change m3u file association in your os to mpv and double click on any of these in your file manager
 
 to download the whole repo use the auto-generated link https://github.com/junguler/m3u-radio-music-playlists/archive/refs/heads/main.zip
 
