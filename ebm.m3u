@@ -1,24 +1,20 @@
 #EXTM3U
 #PLAYLIST:Online radio: EBM Music (www.radio.pervii.com)
-#EXTINF:-1 tvg-logo="" group-title="EBM Radio - radio.pervii.com", Schwarze Welle - Das Radio mit den besten dunklen Liedern - 128 kbit/s
+#EXTINF:-1 tvg-logo="" group-title="EBM Radio - radio.pervii.com", SCHWARZE WELLE - das Radio mit den besten Dunklen Liedern - 128 kbit/s
 http://www.schwarze-welle.de:7500
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EBM Radio - radio.pervii.com", laut.fm radio body music - 128 kbit/s
-http://stream.laut.fm/radio-body-music
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550071304.jpg" group-title="EBM Radio - radio.pervii.com", (((EBM Radio))) - 192 kbit/s
 http://87.106.138.241:7000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574570456.jpg" group-title="EBM Radio - radio.pervii.com", Synthetic FM - The radio for the Synth lovers - 192 kbit/s
-http://stream.syntheticfm.com:8040/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", Synthpop Radio Synthez.Net | 128kbs+ - 128 kbit/s
-http://air.synthez.net:8888/128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", Synthpop Radio Synthez.Net | 192kbs+ - 128 kbit/s
-http://air.synthez.net:8888/192
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", (((EBM Radio))) strange music 4 strange people - 128 kbit/s
-http://87.106.138.241:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", radiowebmelodia - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EBM Radio - radio.pervii.com", Laut.fm al dente - 128 kbit/s
+http://stream.laut.fm/al-dente
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EBM Radio - radio.pervii.com", radiowebmelodia - 192 kbit/s
 http://sc9.mystreamserver.com:8096/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", Synthpop Radio Synthez.Net | 192kbs+ - 192 kbit/s
+http://air.synthez.net:8888/192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", Synthpop Radio Synthez.Net | 96kbs+ - 192 kbit/s
 http://air.synthez.net:8888/96
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="EBM Radio - radio.pervii.com", Radio Caprice - EBM - 128 kbit/s
 http://79.111.14.76:9005
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="EBM Radio - radio.pervii.com", cuautlawebmx - 64 kbit/s
-http://192.99.6.50:9968/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="EBM Radio - radio.pervii.com", (((EBM Radio))) strange music 4 strange people - 128 kbit/s
+http://87.106.138.241:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556425422.jpg" group-title="EBM Radio - radio.pervii.com", Synthpop Radio Synthez.Net | 128kbs+ - 128 kbit/s
+http://air.synthez.net:8888/128
