@@ -1,4 +1,4 @@
-# Collection of m3u Radio Playlists, ##Updated Weekly (manually)
+# Collection of m3u Radio Playlists, Updated Weekly (manually)
 
 if you don't know how to use these, use mpv in the terminal
 
