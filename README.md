@@ -23,7 +23,7 @@ vf-add=drawbox=x=6:y=6:w=iw-12:h=ih-12:color=FFFF00@0.5
 vf-add=hue=H=0.1*PI*t
 ```
 ### I really like mpv, how do i customize keybinds?
-make a file called input.conf either at the folder your mpv.exe is or on ~/.config/mpv/ if you are *nix systems, put these inside it for using page-up and page-down for changing radio stations
+make a file called input.conf either at the folder your mpv.exe is on windows or on ~/.config/mpv/ if you are *nix systems, put these inside it for using page-up and page-down for changing radio stations
 ```
 PGUP playlist-prev ; show-text "${playlist-pos-1}/${playlist-count}"
 PGDWN playlist-next ; show-text "${playlist-pos-1}/${playlist-count}"
