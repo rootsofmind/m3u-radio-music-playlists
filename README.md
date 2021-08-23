@@ -8,7 +8,10 @@ mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/tr
 or add/change m3u file association in your os to mpv and double click on any of .m3u files in your file manager
 
 ### Mpv only shows a black window when listening to music, how to make it pretty?
-download the [visualizer](https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua) script for mpv and put it in your scripts folder
+download the [visualizer](https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua) script for mpv and put it in your scripts folder either on ~/.config/mpv on *nix systems 
+
+or C:\users\USERNAME\AppData\Roaming\mpv\ on windows
+
 put these in your mpv.conf, this is a auto-profile for all audio files
 ```
 [audio-only]
@@ -30,3 +33,13 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 
 ### Where did you find these?
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
+
+### The websites mentions these being automatically updated
+it's true but i only update this repo once every week as it satisfies my needs, you can use the link from the website instead if you are only interested in a few of those stations
+```
+mpv https://www.radio.pervii.com/top_radio_trance.m3u
+```
+if you want to download those playlist files yourself more frequently and don't want the the top_radio_ prefix behind every file use this command on bash or zsh
+```
+for filename in ./*; do mv "./$filename" "./$(echo "$filename" | sed -e 's/top_radio_//g')";  done
+```
