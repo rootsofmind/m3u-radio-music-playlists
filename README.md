@@ -39,7 +39,7 @@ it's true but i only update this repo once every week as it's enough for me, you
 ```
 mpv https://www.radio.pervii.com/top_radio_trance.m3u
 ```
-if you want to download those playlist files yourself more frequently and don't want the the top_radio_ prefix behind every file use this command on bash or zsh in the folder you downloaded them
+if you want to download those playlist files yourself more frequently and don't want the the top_radio_ prefix behind every file use this command on bash or zsh in the folder you have downloaded them
 ```
 for filename in ./*; do mv "./$filename" "./$(echo "$filename" | sed -e 's/top_radio_//g')";  done
 ```
