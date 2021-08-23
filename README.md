@@ -28,7 +28,7 @@ make a file called input.conf either at the folder your mpv.exe is or on ~/.conf
 PGUP playlist-prev ; show-text "${playlist-pos-1}/${playlist-count}"
 PGDWN playlist-next ; show-text "${playlist-pos-1}/${playlist-count}"
 ```
-### How to download all files?
+### How to download all of the files?
 use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlists/archive/refs/heads/main.zip)
 
 ### Where did you find these?
