@@ -35,7 +35,7 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
 
 ### The websites mentions these being automatically updated
-it's true but i only update this repo once every week as it's enough for me, you can use the links from the website instead if you are only interested in a few of those stations
+it's true but i only update this repo once every week as it's enough for me, you can use the links from the website instead if you are only interested in a few of those music genres
 ```
 mpv https://www.radio.pervii.com/top_radio_trance.m3u
 ```
