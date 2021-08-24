@@ -8,9 +8,9 @@ mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/tr
 or add/change m3u file association in your os to mpv and double click on any of .m3u files in your file manager
 
 ### Mpv only shows a black window when listening to music, how to make it pretty?
-download the [visualizer](https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua) script for mpv and put it in your scripts folder either on ~/.config/mpv on *nix systems 
+download the [visualizer](https://raw.githubusercontent.com/mfcc64/mpv-scripts/master/visualizer.lua) script for mpv and put it in your scripts folder either on ~/.config/mpv/scripts on *nix systems 
 
-or C:\users\USERNAME\AppData\Roaming\mpv\ on windows
+or C:\users\USERNAME\AppData\Roaming\mpv\scripts\ on windows
 
 put these in your mpv.conf, this is a auto-profile for all audio files
 ```
