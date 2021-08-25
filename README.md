@@ -28,6 +28,9 @@ make a file called input.conf either at the folder your mpv.exe is on windows or
 PGUP playlist-prev ; show-text "${playlist-pos-1}/${playlist-count}"
 PGDWN playlist-next ; show-text "${playlist-pos-1}/${playlist-count}"
 ```
+### Isn't there and easier way to use and control these?
+yes there is, use the [IPTV script](https://github.com/gthreepw00d/mpv-iptv) which comes with fuzzy finding stations, better keybinds and ...
+
 ### How to download all of the files?
 use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlists/archive/refs/heads/main.zip)
 
