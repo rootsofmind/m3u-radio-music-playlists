@@ -8,9 +8,7 @@ http://www.drums.ro:8000
 http://bpstream.hostco.de:3000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550249839.jpg" group-title="BREAKBEAT Radio - radio.pervii.com", http://szekelyradio.top:8000/ - 96 kbit/s
 http://szekely.europeserv.org:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403682921.png" group-title="BREAKBEAT Radio - radio.pervii.com", Anima Amoris &#91;IDM&#93; 160 MP3 - 160 kbit/s
-http://93.100.61.75:8016
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BREAKBEAT Radio - radio.pervii.com", Radio Caprice Breakbeat - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BREAKBEAT Radio - radio.pervii.com", Radio Caprice Breakbeat - 96 kbit/s
 http://79.120.39.202:9051
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BREAKBEAT Radio - radio.pervii.com", Force One Network Radio - 128 kbit/s
 http://37.59.38.180:5936/stream/1/
