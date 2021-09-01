@@ -1,6 +1,6 @@
 ## Collection of m3u Radio Playlists, Updated Weekly (manually)
 
-### How to use these?
+### How to listen these?
 in the terminal, do this:
 ```
 mpv https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/trance.m3u
