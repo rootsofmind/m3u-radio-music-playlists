@@ -1,0 +1,30 @@
+#EXTM3U
+#PLAYLIST:Online radio: GAY Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537548012.jpg" group-title="GAY Radio - radio.pervii.com", GAY FM - Pure Dance! - 128 kbit/s
+http://icepool.silvacast.com/GAYFM.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1562996807.jpg" group-title="GAY Radio - radio.pervii.com", Gaydiosc - 128 kbit/s
+http://stream.gaydio.co.uk/gaydiosc.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1562996807.jpg" group-title="GAY Radio - radio.pervii.com", Gaydionw - 48 kbit/s
+http://stream.gaydio.co.uk/gaydionw.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554539374.jpg" group-title="GAY Radio - radio.pervii.com", lulu.fm - 128 kbit/s
+http://85.25.217.30:80/lulufm.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554539374.jpg" group-title="GAY Radio - radio.pervii.com", Bear Radio Network 128 - 128 kbit/s
+http://107.181.227.250:8044/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1575096610.jpg" group-title="GAY Radio - radio.pervii.com", Pidi Radio Your Pride Radio - 128 kbit/s
+http://94.23.148.11:8266/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556539539.jpg" group-title="GAY Radio - radio.pervii.com", PRIDE1 LGBT Radio Germany - 128 kbit/s
+http://185.45.248.12:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556539539.jpg" group-title="GAY Radio - radio.pervii.com", Gaydio - 128 kbit/s
+http://listen.radionomy.com:80/Gaydio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1556545197.jpg" group-title="GAY Radio - radio.pervii.com", Gayinternetradio.de - 128 kbit/s
+http://streamplus26.leonex.de:18956/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1562996807.jpg" group-title="GAY Radio - radio.pervii.com", Gaydiouk - 128 kbit/s
+http://stream.gaydio.co.uk/gaydiouk.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403645463.png" group-title="GAY Radio - radio.pervii.com", Bear Radio Network 64 - 128 kbit/s
+http://107.181.227.250:8046/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/2132.jpg" group-title="GAY Radio - radio.pervii.com", VIBRATION GAYRADIO - 128 kbit/s
+http://romradio.stream2net.eu:8480/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554539374.jpg" group-title="GAY Radio - radio.pervii.com", lulu.fm DAB+ - 128 kbit/s
+http://188.138.9.183:80/lulufm-dab.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403745895.png" group-title="GAY Radio - radio.pervii.com", Gaylord College of Journalism & Mass Communication - 128 kbit/s
+mms://a1453.l987359452.c9873.g.lm.akamaistream.net/D/1453/9873/v0001/reflector:59452
