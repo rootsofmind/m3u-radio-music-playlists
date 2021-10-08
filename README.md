@@ -1,4 +1,5 @@
-## Collection of m3u Radio Playlists, Updated Weekly (manually)
+## Collection of m3u Radio Playlists, Updated daily (manually)
+i'm in a process of making updates automatic, the bash script is already written, just need to read up on how to use cron
 
 ### How to listen to these?
 in the terminal, do this:
@@ -38,7 +39,7 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
 
 ### The websites mentions these being automatically updated
-it's true but i only update this repo once every week as it's enough for me, you can use the links from the website instead if you are only interested in a few of those music genres
+it's true but i only update this repo once every day as it's enough for me, you can use the links from the website instead if you are only interested in a few of those music genres
 ```
 mpv https://www.radio.pervii.com/top_radio_trance.m3u
 ```
