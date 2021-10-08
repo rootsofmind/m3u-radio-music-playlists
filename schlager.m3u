@@ -46,12 +46,12 @@ http://stream.laut.fm/just70s
 http://streamplus40.leonex.de:32670/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1431089181.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio Pandaisia - 256 kbit/s
 http://live.radio-vhr.de/radiovhr.mp3?
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/112959.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio Sunshine 97,5 Fm Lontzen - 192 kbit/s
+http://streamlive.syndicationradio.fr:8158/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1552218888.jpg" group-title="SCHLAGER Radio - radio.pervii.com", RadioMonster.FM - Schlager - 320 kbit/s
 http://ic4.radiomonster.fm/schlager-320.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio Regenbogen Schlager - 128 kbit/s
 http://streams.regenbogen.de/rr-schlager-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/112959.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio Sunshine 97,5 Fm Lontzen - 192 kbit/s
-http://streamlive.syndicationradio.fr:8158/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/91686.jpg" group-title="SCHLAGER Radio - radio.pervii.com", memoryradio 2 - 128 kbit/s
 http://www.memoryradio.de:5000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/101301.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Schlagerparadies Webstream - 192 kbit/s
@@ -64,16 +64,16 @@ http://188.138.9.183:80/schlager.mp3
 http://188.138.9.183:80/pop.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="SCHLAGER Radio - radio.pervii.com", RP-Partyschlager - 128 kbit/s
 http://tuner.m1.fm/schlagerparty.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SCHLAGER Radio - radio.pervii.com", radio-power - 128 kbit/s
-http://stream.laut.fm/radio-power
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="SCHLAGER Radio - radio.pervii.com", Stream Name - 48 kbit/s
 http://real2.streaming-co.com:8007
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SCHLAGER Radio - radio.pervii.com", radio-power - 128 kbit/s
+http://stream.laut.fm/radio-power
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="SCHLAGER Radio - radio.pervii.com", RP-Kuschelschlager - 128 kbit/s
 http://tuner.m1.fm/kuschelschlager.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio VHR - Schlager (App default) - 192 kbit/s
-http://live.radio-vhr.de:80/vhrapp_default.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio VHR - Schlager (App low) - 64 kbit/s
 http://live.radio-vhr.de:80/vhrapp_low.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Radio VHR - Schlager (App default) - 192 kbit/s
+http://live.radio-vhr.de:80/vhrapp_default.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SCHLAGER Radio - radio.pervii.com", laut.fm german hit radio - 128 kbit/s
 http://stream.laut.fm/german-hitradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556535315.jpg" group-title="SCHLAGER Radio - radio.pervii.com", Schlager FoxGaudi - 192 kbit/s

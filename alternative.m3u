@@ -62,13 +62,13 @@ http://listen.011fm.com:80/stream15
 http://streamer3.stadtfilter.net:8406/kanalk.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1560834273.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", AudioVision: AlternativeRadio.us - Radio For The Rest Of Us - 128 kbit/s
 http://los.cdnstream.com/alt128k
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556547610.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", Punkrockers Radio - 128 kbit/s
+http://stream.punkrockers-radio.de:8000/mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", 011.FM - 90s Alternative - 192 kbit/s
 http://listen.011fm.com:80/stream17
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ALTERNATIVE Radio - radio.pervii.com", monstermusik - 128 kbit/s
 http://stream.laut.fm/monstermusik
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556547610.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", Punkrockers Radio - 128 kbit/s
-http://stream.punkrockers-radio.de:8000/mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556547610.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", Radio Shadow Rock Mix - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ALTERNATIVE Radio - radio.pervii.com", Radio Shadow Rock Mix - 128 kbit/s
 http://162.244.80.131:8052/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ALTERNATIVE Radio - radio.pervii.com", laut.fm eins - 128 kbit/s
 http://stream.laut.fm/eins
@@ -194,9 +194,9 @@ http://gr02.cdnstream.com:8190
 http://listen.radionomy.com/TEEZ-FM
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72964.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", Radio UNiCC - einzig, nicht artig ...  - www.radio-unicc.de - 128 kbit/s
 http://stream.radio-unicc.de:8000/unicc_hq.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72964.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", The RockHistory Station - 128 kbit/s
-http://192.99.170.8:5722/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/100451.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", Zeilsteen Radio - 128 kbit/s
 http://live64.zeilsteen.com:7054/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/100451.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", The RockHistory Station - 128 kbit/s
+http://192.99.170.8:5722/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/100451.jpg" group-title="ALTERNATIVE Radio - radio.pervii.com", The Lake - 320 kbit/s
 http://188.165.237.19:8627/stream/1/

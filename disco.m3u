@@ -8,10 +8,10 @@ http://91.121.104.123:8000/stream/1/
 https://s37.derstream.net/afr128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550756704.jpg" group-title="DISCO Radio - radio.pervii.com", LATINO FM EN DIRECTO (www.latinofm.es) MALAGA ANDALUCIA ESPANA SPAIN ESPANOL - 128 kbit/s
 http://185.23.192.118:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1554565085.jpg" group-title="DISCO Radio - radio.pervii.com", Radio Slask, radio, ktore warto poznac - 128 kbit/s
-http://s1.slotex.pl:7022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/24417.jpg" group-title="DISCO Radio - radio.pervii.com", Disco89 - 128 kbit/s
 http://radio2.rgradio.net:9020/disco89.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1554565085.jpg" group-title="DISCO Radio - radio.pervii.com", Radio Slask, radio, ktore warto poznac - 128 kbit/s
+http://s1.slotex.pl:7022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/7485.jpg" group-title="DISCO Radio - radio.pervii.com", Radio Stad Den Haag - 320 kbit/s
 http://94.228.133.3:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="DISCO Radio - radio.pervii.com", IP music - aacPlus@128 Kb/s - 320 kbit/s

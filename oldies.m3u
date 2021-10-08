@@ -172,8 +172,6 @@ http://103.246.18.8:4122/stream/1/
 http://abf.net-radio.fr/m2love-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550163743.jpg" group-title="OLDIES Radio - radio.pervii.com", CKAY - 128 kbit/s
 http://s1.hotdogradio.com/CKAY
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="OLDIES Radio - radio.pervii.com", RMF GOLD - 128 kbit/s
-http://rs6-krk2.rmfstream.pl/rmf_gold
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403717900.png" group-title="OLDIES Radio - radio.pervii.com", TopShelf Oldies - 192 kbit/s
 http://listen.topshelfoldies.org:8002/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550722461.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio Apollo 106.8 Fm Wiekevorst Belgie - 192 kbit/s
@@ -182,6 +180,8 @@ http://37.59.195.28:8045/stream/1/
 http://s1.voscast.com:9376/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio Regenbogen Oldies - 128 kbit/s
 http://streams.regenbogen.de/rr-oldies-128-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="OLDIES Radio - radio.pervii.com", RMF GOLD - 128 kbit/s
+http://rs6-krk2.rmfstream.pl/rmf_gold
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550070988.jpg" group-title="OLDIES Radio - radio.pervii.com", ESTEREO SULA 100.1 FM - 96 kbit/s
 http://96.31.90.115:8230
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550975806.jpg" group-title="OLDIES Radio - radio.pervii.com", Stadsradio Vlaanderen - 256 kbit/s
@@ -192,11 +192,11 @@ http://tuner.m1.fm/oldies.mp3
 http://91.121.155.140:18192/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1572749789.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio Samobor - 128 kbit/s
 http://185.150.235.162:80/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="OLDIES Radio - radio.pervii.com", Seven Inch Soul: Vintage soul tracks from the original 45 RPM vinyl. [SomaFM] - 160 kbit/s
-http://ice1.somafm.com/7soul-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537691003.jpg" group-title="OLDIES Radio - radio.pervii.com", 1260 KYA Golden Gate Great Oldies - 128 kbit/s
 http://psn1.prostreaming.net:8255/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1587723847.jpg" group-title="OLDIES Radio - radio.pervii.com", ATLANTIS UK - 128 kbit/s
 http://185.80.221.113:8558/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832353.png" group-title="OLDIES Radio - radio.pervii.com", Atlantica Oldies - 128 kbit/s
 http://40.89.141.247:8052/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1490539382.jpg" group-title="OLDIES Radio - radio.pervii.com", - - 128 kbit/s
+http://stream.zeno.fm/zx9h2b61u8quv

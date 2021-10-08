@@ -44,11 +44,11 @@ http://s1.nexuscast.com:8117
 http://79.111.14.76:9081
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549982229.jpg" group-title="HARDCORE Radio - radio.pervii.com", TeaTime.FM - 24h Happy Hardcore, Drum and Bass, UK Dance and More - 128 kbit/s
 http://aach.stream.tb-group.fm:80/tt-high.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Caprice - Post Hardcore - 128 kbit/s
+http://79.111.119.111:9087
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Caprice - Hardcore Techno - 128 kbit/s
 http://79.120.39.202:9001
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", 45area.mydns.jp - stream - - 128 kbit/s
 http://153.121.55.34:57058
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Caprice - Post Hardcore - 128 kbit/s
-http://79.111.119.111:9087
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="HARDCORE Radio - radio.pervii.com", happyhardcore - 192 kbit/s
 http://138.201.209.117:80

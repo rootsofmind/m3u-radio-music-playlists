@@ -46,14 +46,14 @@ http://192.99.17.12:4950/stream/1/
 http://109.206.96.34:8200
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", JOKEY_RADIO - 128 kbit/s
 http://195.154.217.103:8006
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
+http://217.147.162.239:8000/stream.ogg
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", ChillOutWorld - 128 kbit/s
+http://listen.radionomy.com:80/ChillOutWorld
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", JR.FM chill/Lounge Radio - 320 kbit/s
+http://149.56.157.81:5104/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", LiveDNB Atmosphere - 128 kbit/s
 http://23.239.3.207:8040
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
-http://217.147.162.239:8000/stream.ogg
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", ChillOutWorld - 128 kbit/s
-http://listen.radionomy.com:80/ChillOutWorld
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", JR.FM chill/Lounge Radio - 320 kbit/s
-http://149.56.157.81:5104/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479005085.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", RadioC2 Message - 64 kbit/s
 http://donleone.online:8448/chillhop?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Downtempo Lounge - 64k AAC Demo - DI.FM - 64 kbit/s

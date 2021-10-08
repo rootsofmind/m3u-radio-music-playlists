@@ -64,12 +64,12 @@ http://85.25.73.243:10150
 http://94.130.11.28:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551185771.jpg" group-title="FOLK Radio - radio.pervii.com", Bum Radio Kraljevo,Srbija, Serbia,64kb - 64 kbit/s
 http://217.24.17.31:8102/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="FOLK Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: MP3 128k stereo - 128 kbit/s
+http://185.125.60.6:8080
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549981065.jpg" group-title="FOLK Radio - radio.pervii.com", Radio MEFF Prilep - 128 kbit/s
 http://s32.myradiostream.com:16040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1559979681.jpg" group-title="FOLK Radio - radio.pervii.com", Krajiški Radio Dubica - 128 kbit/s
 https://shdhfract1.dhser.net/radio/8020/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="FOLK Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: MP3 128k stereo - 128 kbit/s
-http://185.125.60.6:8080
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554621864.jpg" group-title="FOLK Radio - radio.pervii.com", Radyo Akdeniz Antalya - 128 kbit/s
 http://95.173.162.188:9310
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550413420.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Horo - Ðàäèî Õîðî - 128 kbit/s

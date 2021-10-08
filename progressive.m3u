@@ -56,10 +56,10 @@ http://67.212.166.178:7024
 http://208.67.255.115:8096
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28424.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", BEST Radio (192Kbps) - 192 kbit/s
 http://stream.radiobest.eu:8000/192
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Radio Caprice Neo-Progressive Rock - 192 kbit/s
+http://79.111.119.111:9095
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Radio Caprice - Progressive Metal - 128 kbit/s
 http://79.120.77.11:9093
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Radio Caprice Neo-Progressive Rock - 128 kbit/s
-http://79.111.119.111:9095
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="PROGRESSIVE Radio - radio.pervii.com", radiosilenceone - 128 kbit/s
 http://stream.laut.fm/radiosilenceone
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1380558911.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", TrancePulse Dublin - 128 kbit/s
@@ -88,8 +88,6 @@ http://85.25.95.234:8000
 http://thassos.cdnstream.com:5030/stream2_autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549702404.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", WFTE NEPA&apos;s Progressive Voice - 128 kbit/s
 http://173.192.207.51:8020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108474.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", TanZ FM - Nastoyaschee Tancevalnoe Radio - 128 kbit/s
-http://s0.radioheart.ru:8000/tanzfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578140317.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", GFM Club - Techno, Trance, Dance, Progressive - 128 kbit/s
 http://gfm.rastream.com/gfm-clubhkgfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Radio Caprice - Progressive Psytrance - 128 kbit/s
@@ -98,9 +96,9 @@ http://79.120.39.202:9131
 http://79.111.119.111:9021
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550032286.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", psyradio * fm - alternative - 128 kbit/s
 http://komplex2.psyradio.org:8140
-#EXTINF:-1 tvg-logo="" group-title="PROGRESSIVE Radio - radio.pervii.com", The Beat Radio - 128 kbit/s
-https://c5.radioboss.fm:18024/aac
-#EXTINF:-1 tvg-logo="" group-title="PROGRESSIVE Radio - radio.pervii.com", IFIYE RADIO - h - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108474.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", TanZ FM - Nastoyaschee Tancevalnoe Radio - 128 kbit/s
+http://s0.radioheart.ru:8000/tanzfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108474.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", IFIYE RADIO - h - 192 kbit/s
 http://api.spreaker.com/listen/user/8301631/episode/latest/shoutcast.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550931363.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Pure Radio Holland - The Underground Channel - 192 kbit/s
 http://pureradio.eu:8000/low
@@ -108,6 +106,8 @@ http://pureradio.eu:8000/low
 efusionradio.dyndns.org:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/113201.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", BTX Dark Progressive - 192 kbit/s
 http://btxradio.mine.nu:8000/dark
+#EXTINF:-1 tvg-logo="" group-title="PROGRESSIVE Radio - radio.pervii.com", The Beat Radio - 192 kbit/s
+https://c5.radioboss.fm:18024/aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550415194.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Midlands Metalheads Radio - 192 kbit/s
 http://usa1-pn.mixstream.net/8054/listen.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28701.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", toxic.fm - 128 kbit/s

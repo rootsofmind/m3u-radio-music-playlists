@@ -14,10 +14,10 @@ http://51.15.152.81:8905/stream/1/
 http://media.xseu.net/MegaHit
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552784883.jpg" group-title="TOP Radio - radio.pervii.com", RadioMaxMusic Greatest Hits 256K Stream - 256 kbit/s
 http://nebula.shoutca.st:8016/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126566.jpg" group-title="TOP Radio - radio.pervii.com", BIZ Web Radio - 256 kbit/s
+http://173.192.207.51:7104/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560870086.jpg" group-title="TOP Radio - radio.pervii.com", 88.1 The Park (WSDP-FM) | Plymouth, MI USA - 128 kbit/s
 http://881thepark.pccsk12.com:80/wsdpradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126566.jpg" group-title="TOP Radio - radio.pervii.com", BIZ Web Radio - 128 kbit/s
-http://173.192.207.51:7104/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1586060722.jpg" group-title="TOP Radio - radio.pervii.com", Top Latino Radio - 128 kbit/s
 http://173.236.60.186:8028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1586060722.jpg" group-title="TOP Radio - radio.pervii.com", SuriLite Online Radio - 128 kbit/s
@@ -30,14 +30,14 @@ http://stream64.electricfm.com
 http://gr02.cdnstream.com:9090
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="TOP Radio - radio.pervii.com", &quot;AddictedToRadio.com - Channel One -Top 40 Pop Hits&quot; - 128 kbit/s
 http://208.77.21.33:9710
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550334649.jpg" group-title="TOP Radio - radio.pervii.com", A-1 Hits @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
-http://s1.distortionradio.com:80/a-1-hits-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="TOP Radio - radio.pervii.com", Powerhitz.com - The Hitlist - 128 kbit/s
 http://108.61.30.179:7000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="TOP Radio - radio.pervii.com", HIT94 FM - 96 kbit/s
-http://162.244.80.20:8490
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550334649.jpg" group-title="TOP Radio - radio.pervii.com", A-1 Hits @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
+http://s1.distortionradio.com:80/a-1-hits-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1587439307.jpg" group-title="TOP Radio - radio.pervii.com", Wolfbytes - 256 kbit/s
 http://152.14.0.12:9000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1587439307.jpg" group-title="TOP Radio - radio.pervii.com", HIT94 FM - 96 kbit/s
+http://162.244.80.20:8490
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/27402.jpg" group-title="TOP Radio - radio.pervii.com", BarakaFM - 192 kbit/s
 http://s2.myradiostream.com:5788/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403677760.png" group-title="TOP Radio - radio.pervii.com", Mágica 87.7 - 128 kbit/s
@@ -70,17 +70,23 @@ http://live.dutafm.com:8182/stream/1/
 http://strm112.1.fm/top40_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/255489.jpg" group-title="TOP Radio - radio.pervii.com", 70&apos;s Classics - 128 kbit/s
 http://192.111.140.11:8008/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/255489.jpg" group-title="TOP Radio - radio.pervii.com", Star FM - 128 kbit/s
-http://starfm.live.advailo.com/audio/mp3/icecast.audio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1551936169.jpg" group-title="TOP Radio - radio.pervii.com", 95PEN - 128 kbit/s
-http://s5.nexuscast.com:8038/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1551936169.jpg" group-title="TOP Radio - radio.pervii.com", Mix Radio One - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/255489.jpg" group-title="TOP Radio - radio.pervii.com", Mix Radio One - 128 kbit/s
 http://149.56.157.81:8800/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572021060.jpg" group-title="TOP Radio - radio.pervii.com", WWW.iM1MUSIC.NET - 128 kbit/s
 http://radio25.virtualtronics.com:8114/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="TOP Radio - radio.pervii.com", Maxi 80 Webradio France - 128 kbit/s
 http://5.135.188.130:8000/stream/5/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="TOP Radio - radio.pervii.com", Remzouille Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="TOP Radio - radio.pervii.com", Star FM - 128 kbit/s
+http://starfm.live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1551936169.jpg" group-title="TOP Radio - radio.pervii.com", 95PEN - 128 kbit/s
+http://s5.nexuscast.com:8038/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561464591.jpg" group-title="TOP Radio - radio.pervii.com", AudioVision: Hits 94 - All The Hits! - 128 kbit/s
+http://los.cdnstream.com/hits94128k
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561464591.jpg" group-title="TOP Radio - radio.pervii.com", Slammin Tunes - 64 kbit/s
+http://music.slammintunes.net:8022/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/255489.jpg" group-title="TOP Radio - radio.pervii.com", 70&apos;s Classics Mobile - 64 kbit/s
+http://192.111.140.11:8008/stream/2/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/255489.jpg" group-title="TOP Radio - radio.pervii.com", Remzouille Radio - 128 kbit/s
 http://ice1.impek.com:80/remzouille128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="TOP Radio - radio.pervii.com", Hits Mixx - 128 kbit/s
 http://ais-sa2.cdnstream1.com/1984_128.mp3
@@ -92,22 +98,16 @@ http://208.77.21.33:10630
 http://los.cdnstream.com/absolutemix64k
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="TOP Radio - radio.pervii.com", A-0 Top 40mix - 128 kbit/s
 http://ares5.radiochoice.net/1020_a0countryhits128k
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561464591.jpg" group-title="TOP Radio - radio.pervii.com", AudioVision: Hits 94 - All The Hits! - 128 kbit/s
-http://los.cdnstream.com/hits94128k
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561464591.jpg" group-title="TOP Radio - radio.pervii.com", Slammin Tunes - 64 kbit/s
-http://music.slammintunes.net:8022/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/255489.jpg" group-title="TOP Radio - radio.pervii.com", 70&apos;s Classics Mobile - 64 kbit/s
-http://192.111.140.11:8008/stream/2/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="TOP Radio - radio.pervii.com", ADR 211 70&apos;S Music Today - 128 kbit/s
+http://144.217.115.101:8120/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="TOP Radio - radio.pervii.com", GrooveHitzRadio.com - 128 kbit/s
+http://199.195.194.140:8003/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1595006227.jpg" group-title="TOP Radio - radio.pervii.com", Top Rock Radio - 128 kbit/s
 https://listen.switchradio.co.uk/jim
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1553409376.jpg" group-title="TOP Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
 http://donleone.online:8448/pop_rock?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="TOP Radio - radio.pervii.com", Best Net Radio - Poppin Top 40 - 128 kbit/s
 http://bigrradio-edge1.cdnstream.com/5163_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="TOP Radio - radio.pervii.com", ADR 211 70&apos;S Music Today - 128 kbit/s
-http://144.217.115.101:8120/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="TOP Radio - radio.pervii.com", GrooveHitzRadio.com - 128 kbit/s
-http://199.195.194.140:8003/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="TOP Radio - radio.pervii.com", 91.5 Energy FM - DWKY - 32 kbit/s
 mms://us02.dagupan.com/energyfm-metromanila
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="TOP Radio - radio.pervii.com", EXA FM 92.5 QUITO ECUADOR - 128 kbit/s

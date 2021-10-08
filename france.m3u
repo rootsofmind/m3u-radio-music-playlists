@@ -118,10 +118,10 @@ http://cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3
 http://listen.radionomy.com/wiccaradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1552461468.jpg" group-title="FRENCH Radio - radio.pervii.com", RenkFM - 64 kbit/s
 http://dinle.renk-fm.com:7062
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1552461468.jpg" group-title="FRENCH Radio - radio.pervii.com", Hank&apos;s Old Time Radio - 32 kbit/s
-http://176.31.98.109:4962/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556677626.jpg" group-title="FRENCH Radio - radio.pervii.com", ANAMBRA BROADCASTING SERVICE - 64 kbit/s
 http://sirius.shoutca.st:8044/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556677626.jpg" group-title="FRENCH Radio - radio.pervii.com", Hank&apos;s Old Time Radio - 32 kbit/s
+http://176.31.98.109:4962/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553416001.jpg" group-title="FRENCH Radio - radio.pervii.com", MOROW - 128 kbit/s
 https://stream.fr.morow.com/morow_med.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1576307602.jpg" group-title="FRENCH Radio - radio.pervii.com", @Magic-Radio - 192 kbit/s
@@ -134,8 +134,6 @@ https://simulatorradio.stream/stream
 https://pr1cen101.emisionlocal.com/proxy/ondabierzo?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561050605.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Flash Montpellier Cevennes Mediterranee - 128 kbit/s
 http://37.187.16.224:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="FRENCH Radio - radio.pervii.com", Hotmixradio 80 - 128 kbit/s
-http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550940340.jpg" group-title="FRENCH Radio - radio.pervii.com", More Radio Hastings AAC - 128 kbit/s
 http://5.39.68.114:8092/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="FRENCH Radio - radio.pervii.com", DI Radio Digital impulse  - Country - 320 kbit/s
@@ -146,6 +144,8 @@ http://radiart.eu:10018/live
 http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550195606.jpg" group-title="FRENCH Radio - radio.pervii.com", Djam Radio - 128 kbit/s
 http://ledjamradio.ice.infomaniak.ch/ledjamradio.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="FRENCH Radio - radio.pervii.com", Hotmixradio 80 - 128 kbit/s
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550051481.jpg" group-title="FRENCH Radio - radio.pervii.com", Bob&apos;s Ska Radio - 128 kbit/s
 http://51.255.235.165:5528/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550681587.jpg" group-title="FRENCH Radio - radio.pervii.com", Evangelism Radio - 128 kbit/s
@@ -176,12 +176,12 @@ http://stream.radiogandia.com:8080/dial
 http://176.31.107.8:9019/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="FRENCH Radio - radio.pervii.com", Maxi 80 Webradio France - 128 kbit/s
 http://5.135.188.130:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537455356.jpg" group-title="FRENCH Radio - radio.pervii.com", Chante France Emotion - 128 kbit/s
-http://stream1.evasionfm.com/cf-emotion
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403654980.png" group-title="FRENCH Radio - radio.pervii.com", Vibration [Powered by Infomaniak.net] - 128 kbit/s
 http://broadcast.infomaniak.ch/vibration-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403654980.png" group-title="FRENCH Radio - radio.pervii.com", 103fm - 128 kbit/s
 http://91.121.205.70:14348/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537455356.jpg" group-title="FRENCH Radio - radio.pervii.com", Chante France Emotion - 128 kbit/s
+http://stream1.evasionfm.com/cf-emotion
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551874657.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Firat Fm 87.3 - 128 kbit/s
 http://yayin.firatfm.com:3065/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550203438.jpg" group-title="FRENCH Radio - radio.pervii.com", RADIO SLOBOMIR - 128 kbit/s
@@ -196,7 +196,7 @@ http://listen.radionomy.com/A1900-Classical
 http://srv2.streaming-ingenierie.fr:8134/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551330663.jpg" group-title="FRENCH Radio - radio.pervii.com", ClassiqueXIX - 128 kbit/s
 http://listen.radionomy.com/Classique-XIX
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="FRENCH Radio - radio.pervii.com", FREQUENCE 3 DANCE [Powered by IKOULA] - 160 kbit/s
-http://abf.net-radio.fr/m2hit-256.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="FRENCH Radio - radio.pervii.com", Quran Radio - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551330663.jpg" group-title="FRENCH Radio - radio.pervii.com", Quran Radio - 64 kbit/s
 http://62.210.106.9:8012
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551330663.jpg" group-title="FRENCH Radio - radio.pervii.com", Big FM Costa Blanca - 128 kbit/s
+http://94.23.205.82:16186

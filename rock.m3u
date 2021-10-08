@@ -70,10 +70,10 @@ http://194.88.105.64:8840/stream/1/
 http://eu6.fastcast4u.com:5306/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1552117164.jpg" group-title="ROCK Radio - radio.pervii.com", 99.1 La Perrona (KXTA-FM) - 128 kbit/s
 http://ic2.christiannetcast.com/kxta-fm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/27885.jpg" group-title="ROCK Radio - radio.pervii.com", ..:: New York Jewish Radio ::.. - 128 kbit/s
-http://173.193.205.96:9016
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550683668.jpg" group-title="ROCK Radio - radio.pervii.com", Rock Radio - 128 kbit/s
 http://poznan5-4.radio.pionier.net.pl:8000/tuba8-1.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/27885.jpg" group-title="ROCK Radio - radio.pervii.com", ..:: New York Jewish Radio ::.. - 128 kbit/s
+http://173.193.205.96:9016
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550756704.jpg" group-title="ROCK Radio - radio.pervii.com", LATINO FM EN DIRECTO (www.latinofm.es) MALAGA ANDALUCIA ESPANA SPAIN ESPANOL - 128 kbit/s
 http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="ROCK Radio - radio.pervii.com", LiteFavorites.com - Today&#039;s Hits &amp; Yesterday&#039;s Favorites - 128 kbit/s
@@ -132,20 +132,20 @@ http://146.71.124.10:8130/stream/1/
 http://209.9.238.6:6042
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576389451.jpg" group-title="ROCK Radio - radio.pervii.com", Oldies Internet Radio - 128 kbit/s
 http://162.244.81.98:8140/listen
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576389451.jpg" group-title="ROCK Radio - radio.pervii.com", 100%PROGRESSIVEROCK - 128 kbit/s
+http://listen.radionomy.com/100-PROGRESSIVEROCK
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1576315820.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Nova Era FM - Porangatu GO - 128 kbit/s
 http://centova.radios.pt:9478
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1576315820.jpg" group-title="ROCK Radio - radio.pervii.com", 100%PROGRESSIVEROCK - 128 kbit/s
-http://listen.radionomy.com/100-PROGRESSIVEROCK
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553527072.jpg" group-title="ROCK Radio - radio.pervii.com", ANTENNE VORARLBERG - Rock - 128 kbit/s
 http://webradio.antennevorarlberg.at:80/rock
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/97181.jpg" group-title="ROCK Radio - radio.pervii.com", La Grosse Radio Metal - Hard Heavy - From Paris - www.LaGrosseRadio.com - 192 kbit/s
 http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1552627707.jpg" group-title="ROCK Radio - radio.pervii.com", BurnFM - musik intensiv! - 128 kbit/s
 http://s3.radionetz.de:8000/burn-fm.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554562352.jpg" group-title="ROCK Radio - radio.pervii.com", ANTENA ROCK - 128 kbit/s
-http://live.antenazagreb.hr:8019/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/106274.jpg" group-title="ROCK Radio - radio.pervii.com", 100.5 Fm Radio 105 Aktuel Bombarder - Bitola - Macedonia - 64 kbit/s
 http://radio105.makbots.com:21010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554562352.jpg" group-title="ROCK Radio - radio.pervii.com", ANTENA ROCK - 64 kbit/s
+http://live.antenazagreb.hr:8019/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1574511752.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Boa Nova - 64 kbit/s
 http://srv39.brasilstream.com.br:8592/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550064542.jpg" group-title="ROCK Radio - radio.pervii.com", Austrian Rock Radio - 128 kbit/s
@@ -156,32 +156,32 @@ http://radio.studiob.rs:8004
 http://s1.voscast.com:9038/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/97181.jpg" group-title="ROCK Radio - radio.pervii.com", La Grosse Radio Rock Alternative - Pop Hits Legends Indie - From Paris - www.lagrosseradio.com - 192 kbit/s
 http://hd.lagrosseradio.info:8000/lagrosseradio-rock-192.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403512588.png" group-title="ROCK Radio - radio.pervii.com", NETROCK101THEANIMAL - 128 kbit/s
-http://listen.radionomy.com:80/NETROCK101THEANIMAL
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550051434.jpg" group-title="ROCK Radio - radio.pervii.com", ProgRock.com 192Kbps Stream - 192 kbit/s
 http://74.82.59.197:8264/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561898418.jpg" group-title="ROCK Radio - radio.pervii.com", VALE DO SOL FM - 128 kbit/s
 http://paineldj.com.br:11738/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403512588.png" group-title="ROCK Radio - radio.pervii.com", NETROCK101THEANIMAL - 128 kbit/s
+http://listen.radionomy.com:80/NETROCK101THEANIMAL
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Regenbogen Classic Rock - 128 kbit/s
+http://streams.regenbogen.de/rr-classicrock-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="ROCK Radio - radio.pervii.com", wunschradio.fm Top100 - 320 kbit/s
 http://server14.radiostreamserver.de:80/wunschradio-top100.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550331006.jpg" group-title="ROCK Radio - radio.pervii.com", Unnamed Server - 320 kbit/s
 http://5.39.68.114:8094/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Regenbogen Classic Rock - 128 kbit/s
-http://streams.regenbogen.de/rr-classicrock-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553221488.jpg" group-title="ROCK Radio - radio.pervii.com", DONAU 3 FM - 128 kbit/s
 http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553221488.jpg" group-title="ROCK Radio - radio.pervii.com", Rockserwis.fm - 128 kbit/s
 http://radio.rockserwis.fm:80/live.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403875921.png" group-title="ROCK Radio - radio.pervii.com", pobrejohnny - 128 kbit/s
-http://www.suenas.net:8090/pobrejohnny
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="ROCK Radio - radio.pervii.com", Radio VHR - 128 kbit/s
-http://live.radio-vhr.de:80/radiovhr.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="ROCK Radio - radio.pervii.com", NAXI ROCK RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
 http://178.253.200.250:8180
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550048549.jpg" group-title="ROCK Radio - radio.pervii.com", Krautrock-World - 128 kbit/s
 http://94.249.254.14:7592/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549981065.jpg" group-title="ROCK Radio - radio.pervii.com", Radio MEFF Prilep - 128 kbit/s
 http://s32.myradiostream.com:16040/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403875921.png" group-title="ROCK Radio - radio.pervii.com", pobrejohnny - 128 kbit/s
+http://www.suenas.net:8090/pobrejohnny
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="ROCK Radio - radio.pervii.com", Radio VHR - 128 kbit/s
+http://live.radio-vhr.de:80/radiovhr.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549696786.jpg" group-title="ROCK Radio - radio.pervii.com", Streaming by Securenet Systems - 128 kbit/s
 http://ice3.securenetsystems.net:80/WDAY
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1554814528.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Zeleni val - 192 kbit/s

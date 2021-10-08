@@ -14,13 +14,13 @@ http://uk1.internet-radio.com:8004/stream/1/
 http://5.39.82.157:8054/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="CHILLOUT Radio - radio.pervii.com", DI Radio Digital Impulse - Ambient and Chillout - 320 kbit/s
 http://orion.shoutca.st:8994/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550032286.jpg" group-title="CHILLOUT Radio - radio.pervii.com", psyradio * fm - chillout - 128 kbit/s
-http://komplex2.psyradio.org:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", playmystic - 128 kbit/s
 http://stream.laut.fm/playmystic
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", Ambient Radio .org - Deeply Beautiful Chillout Music - A Heavenly World of Sound - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550032286.jpg" group-title="CHILLOUT Radio - radio.pervii.com", psyradio * fm - chillout - 128 kbit/s
+http://komplex2.psyradio.org:8020/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550032286.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Ambient Radio .org - Deeply Beautiful Chillout Music - A Heavenly World of Sound - 128 kbit/s
 http://uk2.internet-radio.com:31491
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", ART OF MUSIC • Web Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550032286.jpg" group-title="CHILLOUT Radio - radio.pervii.com", ART OF MUSIC • Web Radio - 128 kbit/s
 http://46.105.111.94:8024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699645.png" group-title="CHILLOUT Radio - radio.pervii.com", Cool Coffe - 128 kbit/s
 https://coolcoffee.online/stream-mp3-CoolCoffee_autodj
@@ -42,12 +42,12 @@ http://rs9-krk2-cyfronet.rmfstream.pl/rmf_chillout
 http://s1.slotex.pl:7328/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="CHILLOUT Radio - radio.pervii.com", ChilloutFM - 128 kbit/s
 http://tuner.m1.fm/chillout.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="CHILLOUT Radio - radio.pervii.com", StarDust Space Radio - http://www.stardustradio.space/ - 128 kbit/s
+http://cast.stardustradio.space:8000/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403512234.png" group-title="CHILLOUT Radio - radio.pervii.com", HBR1 - Dream Factory - 128 kbit/s
 http://radio.hbr1.com:19800/ambient.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", laut.fm jahfari - 128 kbit/s
 http://stream.laut.fm/jahfari
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", StarDust Space Radio - http://www.stardustradio.space/ - 128 kbit/s
-http://cast.stardustradio.space:8000/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Lounge Motion FM - MotionFM.com - 128 kbit/s
 https://vm.motionfm.com/motionthree_aacp?=1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561797568.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Radio ZET Chilli - 128 kbit/s
@@ -58,12 +58,12 @@ http://air.chillout.zone:8000/radio
 http://radio.kuums.lv:5555/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", Abstrait - 128 kbit/s
 http://stream.laut.fm/abstrait
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", RadioSon.ru: Ambient Chillout Radio channel. - 128 kbit/s
+http://www.radioson.ru:8009/ChilloutAnten.Radioson.ru.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/98616.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Toksyna.FM Chillout &amp; More - 128 kbit/s
 http://s01.toksyna.fm:8050/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82832.jpg" group-title="CHILLOUT Radio - radio.pervii.com", TDI Radio Chillout MP3 - 128 kbit/s
 http://streaming11.tdiradio.com:8000/chillout.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82832.jpg" group-title="CHILLOUT Radio - radio.pervii.com", RadioSon.ru: Ambient Chillout Radio channel. - 128 kbit/s
-http://www.radioson.ru:8009/ChilloutAnten.Radioson.ru.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82832.jpg" group-title="CHILLOUT Radio - radio.pervii.com", White Noise Radio - 64 kbit/s
 http://109.74.196.48:8267/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82832.jpg" group-title="CHILLOUT Radio - radio.pervii.com", LFOD - Pi Radio - 128 kbit/s
@@ -76,14 +76,16 @@ http://s8.pop-stream.de:8440
 http://mp3channels.webradio.antenne.de/chillout.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Kaaosradio 24h Chill - 128 kbit/s
 http://stream.kaaosradio.fi:8000/chill
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="CHILLOUT Radio - radio.pervii.com", RADIO Reeperbahn - Lounge - 128 kbit/s
-http://ice.radio-reeperbahn.de:8000/stream2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", epicsoundsfm - 128 kbit/s
 http://stream.laut.fm/epicsoundsfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", RADIO Reeperbahn - Lounge - 128 kbit/s
+http://ice.radio-reeperbahn.de:8000/stream2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259996.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Costa Del Mar - Chillout - 96 kbit/s
 https://radio4.cdm-radio.com:18020/stream-mp3-Chill
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1426449734.jpg" group-title="CHILLOUT Radio - radio.pervii.com", 1.FM - Chillout Lounge Radio - 128 kbit/s
 http://strm112.1.fm:80/chilloutlounge_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1426449734.jpg" group-title="CHILLOUT Radio - radio.pervii.com", ChillOutWorld - 128 kbit/s
+http://listen.radionomy.com:80/ChillOutWorld
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403598241.png" group-title="CHILLOUT Radio - radio.pervii.com", x  x  x  x  x  EROS RADIO!  x  x  x  x  x EROS RADIO EUROPE - 128 kbit/s
 http://91.226.88.219:8090
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="CHILLOUT Radio - radio.pervii.com", HearMe - Ambient Chillout - 128 kbit/s
@@ -92,9 +94,7 @@ http://hearme.fm:8673/stream
 http://www.radioson.ru:8009/ChillClassic.RadioSon.ru.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
 http://217.147.162.239:8000/stream.ogg
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="CHILLOUT Radio - radio.pervii.com", ChillOutWorld - 128 kbit/s
-http://listen.radionomy.com:80/ChillOutWorld
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479005620.jpg" group-title="CHILLOUT Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479005620.jpg" group-title="CHILLOUT Radio - radio.pervii.com", RadioC2 Message - 192 kbit/s
 http://donleone.online:8448/chillout?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479005620.jpg" group-title="CHILLOUT Radio - radio.pervii.com", StreamFinder.com Stream - 128 kbit/s
 http://184.154.145.114:8067
@@ -104,9 +104,9 @@ http://strm112.1.fm:80/costadelmarchillout_mobile_mp3
 http://158.69.195.195:18404/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1555082589.jpg" group-title="CHILLOUT Radio - radio.pervii.com", SELF HOSTED Chill Acoustic - 128 kbit/s
 http://51.38.82.196:8000/stream/1126/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1574356283.jpg" group-title="CHILLOUT Radio - radio.pervii.com", DASDING Chillout - 128 kbit/s
+http://swr-swr-raka10.cast.addradio.de/swr/swr/raka10/mp3/128/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="CHILLOUT Radio - radio.pervii.com", Wow music Chillout - 128 kbit/s
 http://stream.vyshka24.ru/wowchillout
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CHILLOUT Radio - radio.pervii.com", eurosmoothjazz - 128 kbit/s
 http://stream.laut.fm/eurosmoothjazz
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1574356283.jpg" group-title="CHILLOUT Radio - radio.pervii.com", DASDING Chillout - 128 kbit/s
-http://swr-swr-raka10.cast.addradio.de/swr/swr/raka10/mp3/128/stream.mp3

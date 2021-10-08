@@ -62,10 +62,10 @@ http://173.193.205.96:8256
 http://s3.free-shoutcast.com:18194/mixxfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1572619596.jpg" group-title="LATIN Radio - radio.pervii.com", TENIENTIKO.COM RADIO - 128 kbit/s
 http://192.99.8.192:2296/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1572619596.jpg" group-title="LATIN Radio - radio.pervii.com", KCSN Latin Alt 88.5 HD2 - from Cal. State, Northridge - 128 kbit/s
-http://130.166.82.14:8002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572836535.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Zote - 128 kbit/s
 http://192.99.41.102:5664/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572836535.jpg" group-title="LATIN Radio - radio.pervii.com", KCSN Latin Alt 88.5 HD2 - from Cal. State, Northridge - 128 kbit/s
+http://130.166.82.14:8002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572836535.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Hit Latino - 128 kbit/s
 http://146.71.118.218:8050/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559915152.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO UNO CHABAS - FM 99.1 - 128 kbit/s
@@ -194,9 +194,9 @@ http://37.152.88.215:8600
 http://server1.dainusradio.com:9884/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559915152.jpg" group-title="LATIN Radio - radio.pervii.com", Que Onda Seattle Radio - 128 kbit/s
 http://192.99.4.210:3820/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559915152.jpg" group-title="LATIN Radio - radio.pervii.com", Frequence Orange - 192 kbit/s
+http://94.23.213.103:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Caprice Latin Jazz - 128 kbit/s
 http://79.111.119.111:9055
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Frequence Orange - 192 kbit/s
-http://94.23.213.103:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403887932.png" group-title="LATIN Radio - radio.pervii.com", Radio Nueva Coya FM - 128 kbit/s
 http://104.131.18.232:8158/stream/1/
