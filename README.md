@@ -1,5 +1,5 @@
 ## Collection of m3u Radio Playlists, Updated daily (manually)
-this repo now includes two extra files made by me, `---everyhting.m3u` combines all streams alphabetically, `---randomized.m3u` is everything but every line is randomized, both files have extra informations and thumbnail links removed as they would have been quite large if i didn't do that, it was 1.2 mb but after i removed extra stuff they are 250kb now, these 2 files will also get updated as i push updates for other files as the process is almost automatic at this point and runs using a bash script, i'm in the process of pushing updates automatically here coming pretty soon too.
+this repo now includes two extra files made by me, `---everyhting.m3u` combines all streams alphabetically, `---randomized.m3u` is everything but every line is randomized with each update pushed, both files have extra informations and thumbnail links removed as they would have been quite large if i didn't do that, it was 1.2 mb but after i removed extra stuff they are 250kb now, these 2 files will also get updated as i push updates for other files as the process is almost automatic at this point and runs using a bash script, i'm in the process of pushing updates automatically here coming pretty soon too.
 
 ### How to listen to these?
 in the terminal, do this:
