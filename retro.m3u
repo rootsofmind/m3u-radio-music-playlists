@@ -82,13 +82,13 @@ http://149.56.183.178:8300/stream/1/
 http://www.radioson.ru:8009/radio-7.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", RetroMusic San Justo(SF) - 96 kbit/s
 http://178.32.146.184:5938
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", EXITOS 103.1 - 96 kbit/s
-http://ur58.lorini.net:50004/EXITOS1031FM.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", EKR - RETRO ROCK (East Kent Radio Digital Network) - 96 kbit/s
 http://149.255.59.3:8081/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", CGM UK DemoScene Radio - 8 &amp; 16bit retro chip &amp; module music - 96 kbit/s
 http://www.lmp.d2g.com:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549885043.jpg" group-title="RETRO Radio - radio.pervii.com", fantastico fm - 96 kbit/s
 http://servidor.ilive.com.ar:9294
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549885043.jpg" group-title="RETRO Radio - radio.pervii.com", EXITOS 103.1 - 96 kbit/s
+http://ur58.lorini.net:50004/EXITOS1031FM.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423953.jpg" group-title="RETRO Radio - radio.pervii.com", Radio FG Vlaanderen - 192 kbit/s
 http://radiofg.impek.com/fga

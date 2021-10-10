@@ -56,34 +56,34 @@ http://mp3.stream.tb-group.fm:80/ht.mp3
 http://163.172.7.220:8006/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537528329.jpg" group-title="HOUSE Radio - radio.pervii.com", Radio Play Emotions - Music for work and relax - 128 kbit/s
 http://5.39.82.157:8054/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="HOUSE Radio - radio.pervii.com", 16Bit.FM CAFE Channel - 192 kbit/s
-http://16bitfm.com:8000/cafe_mp3_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1457892621.jpg" group-title="HOUSE Radio - radio.pervii.com", Music Factory | Athens | Greece - 128 kbit/s
 https://i4.streams.ovh/sc/musicfactory/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1457892621.jpg" group-title="HOUSE Radio - radio.pervii.com", RCL26House&amp;Deep - 128 kbit/s
 http://listen.radionomy.com/RCL26House-Deep
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="HOUSE Radio - radio.pervii.com", 16Bit.FM CAFE Channel - 192 kbit/s
+http://16bitfm.com:8000/cafe_mp3_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1554052500.jpg" group-title="HOUSE Radio - radio.pervii.com", Deep Soulful House Music - 128 kbit/s
 http://ic2256.c786.fast-serv.com:80/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="HOUSE Radio - radio.pervii.com", bigFM DEEP & TECH HOUSE (nitroX DJ-MIX) - 128 kbit/s
 http://streams.bigfm.de/bigfm-nitroxdeep-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="HOUSE Radio - radio.pervii.com", Hard House UK - Hard House - Hard Trance - Hard NRG - www.hardhouseuk.net - NOT HardStyle - 128 kbit/s
 http://streams.netmindz.net:80/hhuk.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550327057.jpg" group-title="HOUSE Radio - radio.pervii.com", Radio Party Groove - 192 kbit/s
+http://stream15.top-ix.org:80/partygroove
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="HOUSE Radio - radio.pervii.com", Beat Blender: A late night blend of deep-house &amp; downtempo chill. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/beatblender-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550032286.jpg" group-title="HOUSE Radio - radio.pervii.com", psyradio * fm - alternative - 128 kbit/s
 http://komplex2.psyradio.org:8040/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550327057.jpg" group-title="HOUSE Radio - radio.pervii.com", Radio Party Groove - 192 kbit/s
-http://stream15.top-ix.org:80/partygroove
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="HOUSE Radio - radio.pervii.com", poploungecafe - 128 kbit/s
 http://stream.laut.fm/poploungecafe
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/112087.jpg" group-title="HOUSE Radio - radio.pervii.com", Deep Mix Moscow Radio - 24 kbit/s
 http://radio.deepmix.ru:8028/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537612480.jpg" group-title="HOUSE Radio - radio.pervii.com", PRODJ Radio - 320 kbit/s
+http://live.prodjradio.net:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="HOUSE Radio - radio.pervii.com", LOLLIRADIO DANCE - Dance & House Hits - Italy Italia - 128 kbit/s
 https://dance.lolliradio.net
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563162515.jpg" group-title="HOUSE Radio - radio.pervii.com", OnlineDJRadio - 192 kbit/s
 http://play.onlinedjradio.com:8000/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537612480.jpg" group-title="HOUSE Radio - radio.pervii.com", PRODJ Radio - 320 kbit/s
-http://live.prodjradio.net:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="HOUSE Radio - radio.pervii.com", The Trip: [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/thetrip-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554905361.jpg" group-title="HOUSE Radio - radio.pervii.com", House Music Radio uk - 128 kbit/s
@@ -98,14 +98,14 @@ http://server1.radiodanz.com:8010/stream/1/
 http://mux.mtl.djfmradio.com/djfm3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537590741.jpg" group-title="HOUSE Radio - radio.pervii.com", *** STRICTLY HOUSE - UPFRONT CHANNEL *** - 128 kbit/s
 http://radio.strictly.house:9506/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="HOUSE Radio - radio.pervii.com", ClubMix Radio Romania [128kbps] - 128 kbit/s
+http://live.radioclubmix.ro:9999/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="HOUSE Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
 https://vm.motionfm.com/motionone_free
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="HOUSE Radio - radio.pervii.com", ART OF MUSIC • Web Radio - 128 kbit/s
 http://46.105.111.94:8024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537588883.jpg" group-title="HOUSE Radio - radio.pervii.com", Radioparty.pl - House - 128 kbit/s
 http://s2.radioparty.pl:8000/house
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="HOUSE Radio - radio.pervii.com", ClubMix Radio Romania [128kbps] - 128 kbit/s
-http://live.radioclubmix.ro:9999/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550413628.jpg" group-title="HOUSE Radio - radio.pervii.com", Aegean Lounge Radio - 192 kbit/s
 http://91.121.78.191:8469/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550413628.jpg" group-title="HOUSE Radio - radio.pervii.com", !Cmp3.eu - Bounce, dance, clubbing, trap, house, fidget, electro, edm - 192 kbit/s
@@ -184,8 +184,6 @@ http://188.138.198.247:8002/stream/1/
 http://149.202.22.75:8134/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HOUSE Radio - radio.pervii.com", Danceradio - 128 kbit/s
 http://stream.danceradio.nl:9920
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HOUSE Radio - radio.pervii.com", House Heads UK Radio - Birmingham - 128 kbit/s
-http://s36.myradiostream.com:13028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HOUSE Radio - radio.pervii.com", DJ ARCH SOULFUL HOUSE/CLASSICS RADIO - 192 kbit/s
 http://139.162.242.244:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HOUSE Radio - radio.pervii.com", Audioasyl - 320 kbit/s
@@ -200,3 +198,5 @@ http://91.121.195.222:4858/stream/1/
 http://uk5.internet-radio.com:8306/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1555245587.jpg" group-title="HOUSE Radio - radio.pervii.com", Radio Dijaspora: Club Mix - 128 kbit/s
 http://94.249.254.11:9050/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556642436.jpg" group-title="HOUSE Radio - radio.pervii.com", House Station Radio - 128 kbit/s
+http://94.23.6.107:8178/stream/1/

@@ -82,13 +82,13 @@ http://aac-64.streamthejazzgroove.com/stream
 http://ags.abinet.com:8800/dr.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550163587.jpg" group-title="VARIOUS Radio - radio.pervii.com", Midwest Radio - 64 kbit/s
 http://edge-audio-02-gos1.sharp-stream.com/midwestfmie2.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552390309.jpg" group-title="VARIOUS Radio - radio.pervii.com", CRo Zurnal - 128 kbit/s
-http://icecast8.play.cz:80/cro1-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537443554.jpg" group-title="VARIOUS Radio - radio.pervii.com", SHOW RADYO - 96 kbit/s
 http://46.20.3.229:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1551605390.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Renasterea - 64 kbit/s
 http://radiorenasterea.ro:8000/renasterea.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454751.jpg" group-title="VARIOUS Radio - radio.pervii.com", KLCC-FM - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552390309.jpg" group-title="VARIOUS Radio - radio.pervii.com", CRo Zurnal - 128 kbit/s
+http://icecast8.play.cz:80/cro1-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454751.jpg" group-title="VARIOUS Radio - radio.pervii.com", KLCC-FM - 128 kbit/s
 http://tektite.streamguys1.com:5020/klcc.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561911793.jpg" group-title="VARIOUS Radio - radio.pervii.com", Caicara - 96 kbit/s
 http://cast4.audiostream.com.br:8654/mp3
@@ -114,14 +114,14 @@ http://tuner.m1.fm/charts.mp3
 http://89.219.35.26:8000/radions
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537521875.jpg" group-title="VARIOUS Radio - radio.pervii.com", Mix FM - 128 kbit/s
 http://live3.istoikona.com:8127/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="VARIOUS Radio - radio.pervii.com", I Love Mashup by ilovemusic.de - 128 kbit/s
-http://138.201.252.232:80/iloveradio5.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1584883718.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Atravankado - 128 kbit/s
 http://37.59.37.139:13608/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650547.png" group-title="VARIOUS Radio - radio.pervii.com", Sfera FM - 128 kbit/s
-http://phileradio.com:8193/sfera
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="VARIOUS Radio - radio.pervii.com", I Love Mashup by ilovemusic.de - 128 kbit/s
+http://138.201.252.232:80/iloveradio5.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1575817775.jpg" group-title="VARIOUS Radio - radio.pervii.com", WGTS 64K - 128 kbit/s
 http://ic2.christiannetcast.com/wgts-fm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650547.png" group-title="VARIOUS Radio - radio.pervii.com", Sfera FM - 128 kbit/s
+http://phileradio.com:8193/sfera
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403495767.png" group-title="VARIOUS Radio - radio.pervii.com", Sabras Radio - 128 kbit/s
 http://radio.canstream.co.uk:8025/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10492.jpg" group-title="VARIOUS Radio - radio.pervii.com", Nacionalnaya radiokompaniya Ukrainy - 128 kbit/s
@@ -144,10 +144,10 @@ http://sc2.streamwithq.com:8118/stream/1/
 http://64.78.234.165:8000/stream/9/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1551547980.jpg" group-title="VARIOUS Radio - radio.pervii.com", 3ABN Radio English - 128 kbit/s
 http://war.str3am.com:7180/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552117579.jpg" group-title="VARIOUS Radio - radio.pervii.com", FREEDOM2 - 96 kbit/s
-http://stric6.streamakaci.com:80/freedom2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561801570.jpg" group-title="VARIOUS Radio - radio.pervii.com", DOMINICA BROADCASING CORPORATION - 96 kbit/s
 http://38.96.148.26:6930/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552117579.jpg" group-title="VARIOUS Radio - radio.pervii.com", FREEDOM2 - 96 kbit/s
+http://stric6.streamakaci.com:80/freedom2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537593286.jpg" group-title="VARIOUS Radio - radio.pervii.com", RADYO VIVA - 128 kbit/s
 http://46.20.3.231/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549625748.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Kraków - 96 kbit/s
@@ -160,10 +160,10 @@ http://radio.ukr.radio:8000/ur2-mp3
 http://62.80.190.246:8000/NRK128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1571647636.jpg" group-title="VARIOUS Radio - radio.pervii.com", RadyoD - 128 kbit/s
 https://radyo.duhnet.tv/radyod
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572836410.jpg" group-title="VARIOUS Radio - radio.pervii.com", La Konsentida 100.1 Fm - 128 kbit/s
-https://radiohd.streaminghd.co:7406/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561764691.jpg" group-title="VARIOUS Radio - radio.pervii.com", Bubba 1 - 48 kbit/s
 http://bar.streamguys1.com/BubbaOne.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572836410.jpg" group-title="VARIOUS Radio - radio.pervii.com", La Konsentida 100.1 Fm - 48 kbit/s
+https://radiohd.streaminghd.co:7406/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", KNVBC - Revival Radio - 48 kbit/s
 http://stream.knvbc.com:8000/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1574572160.jpg" group-title="VARIOUS Radio - radio.pervii.com", KBOO 90.7fm Portland, Oregon, USA - 192kbps - 192 kbit/s
@@ -192,11 +192,11 @@ http://media.kassfm.co.ke:8006/live
 http://server.menara-fm.com:10280/menarafmbali
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554815819.jpg" group-title="VARIOUS Radio - radio.pervii.com", Navro&#039;z FM - 32 kbit/s
 http://navruzfm.uz:9000/navruz_low
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554815819.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Antena M - 128 kbit/s
-http://radioservis.me:8010/antenamlive
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554815819.jpg" group-title="VARIOUS Radio - radio.pervii.com", Contact, la radio enjoy - 128 kbit/s
-http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110204.jpg" group-title="VARIOUS Radio - radio.pervii.com", WRCJ-FM - 128 kbit/s
 http://pnj-01.stream101.com:9035/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110204.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Antena M - 128 kbit/s
+http://radioservis.me:8010/antenamlive
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110204.jpg" group-title="VARIOUS Radio - radio.pervii.com", Contact, la radio enjoy - 128 kbit/s
+http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561762526.jpg" group-title="VARIOUS Radio - radio.pervii.com", EFM - 128 kbit/s
 https://atimeonline.smartclick.co.th/efm

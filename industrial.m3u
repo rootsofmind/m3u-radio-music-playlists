@@ -22,11 +22,11 @@ http://server2.wfku.net:8000/mac
 http://83.137.145.141:14280
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="INDUSTRIAL Radio - radio.pervii.com", Synergy Sounds Radio - 128 kbit/s
 http://91.121.82.33:19350/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="INDUSTRIAL Radio - radio.pervii.com", Radio TranceDelica - 128 kbit/s
+http://radio-tochka.com:6440
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="INDUSTRIAL Radio - radio.pervii.com", Lord Lloigor`s Stream - 192 kbit/s
 http://liquiddoom.net:8000/lloigor
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1553409376.jpg" group-title="INDUSTRIAL Radio - radio.pervii.com", RadioC2 Message - 64 kbit/s
 http://donleone.online:8448/industrial?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="INDUSTRIAL Radio - radio.pervii.com", Unspecified name - 160 kbit/s
 http://server2.wfku.net:8000/wfku.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="INDUSTRIAL Radio - radio.pervii.com", Radio TranceDelica - 128 kbit/s
-http://radio-tochka.com:6440
