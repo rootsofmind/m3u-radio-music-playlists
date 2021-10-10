@@ -46,10 +46,10 @@ http://79.120.77.11:9009
 http://23.82.11.88:1028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403512637.png" group-title="SYMPHONIC Radio - radio.pervii.com", Public Domain Classical - 128 kbit/s
 http://relay.publicdomainproject.org/classical.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/3787.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Unnamed Server - 320 kbit/s
-http://149.255.59.162:8018
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", CALMRADIO.COM - Jazz Piano - 128 kbit/s
 http://23.82.11.88:30728/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/3787.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Unnamed Server - 320 kbit/s
+http://149.255.59.162:8018
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice Classical Piano - 128 kbit/s
 http://79.120.39.202:9069
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Piano Jazz&#47;Strade - 128 kbit/s
@@ -64,12 +64,12 @@ http://149.255.59.3:8029/stream/1/
 http://198.245.50.150:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", CALM RADIO - SOLO PIANO - Sampler - 128 kbit/s
 http://23.82.11.88:1228/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Symphony - 128 kbit/s
+http://79.111.14.76:9079
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice Symphonic Rock - 128 kbit/s
 http://79.120.39.202:9067
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", A.1.ONE.SYMPHONY - 128 kbit/s
 http://listen.radionomy.com/A1ONESYMPHONY
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Symphony - 128 kbit/s
-http://79.111.14.76:9079
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Symphonic Black Metal - 128 kbit/s
 http://79.111.119.111:9005
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Piano Di Notte - 128 kbit/s

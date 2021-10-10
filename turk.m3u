@@ -24,12 +24,12 @@ http://95.173.162.182:9884
 http://bozkurtlarfm.canliyayinda.com:4040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550038695.jpg" group-title="TURK Radio - radio.pervii.com", Arabesk TURKIYE - 128 kbit/s
 http://arabeskturkiye.xyz:9312
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="TURK Radio - radio.pervii.com", bigFM bigSES - 128 kbit/s
+http://streams.bigfm.de/bigfm-turkey-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550934683.jpg" group-title="TURK Radio - radio.pervii.com", Radyo 3 HiLAL - 64 kbit/s
 http://185.16.61.132:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550934683.jpg" group-title="TURK Radio - radio.pervii.com", RADYO KORDELYA - 24 kbit/s
 http://38.96.148.39:8488
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="TURK Radio - radio.pervii.com", bigFM bigSES - 128 kbit/s
-http://streams.bigfm.de/bigfm-turkey-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552046300.jpg" group-title="TURK Radio - radio.pervii.com", MEDYA FM - 128 kbit/s
 http://46.20.4.2:9390/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/29517.jpg" group-title="TURK Radio - radio.pervii.com", RADYO FM23 ELAZIĞ - 128 kbit/s
