@@ -24,12 +24,12 @@ http://s1.distortionradio.com:80/aggression-64
 http://81.18.165.235:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="HARDCORE Radio - radio.pervii.com", N.D.S. Musicag Hit-Radio - 128 kbit/s
 http://stream.laut.fm/nds-musicag-hitradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403673702.png" group-title="HARDCORE Radio - radio.pervii.com", Freak Beats Tekno Radio - 64 kbit/s
-http://51.255.127.128:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561199762.jpg" group-title="HARDCORE Radio - radio.pervii.com", Bedroom DJ Radio Makina/UK Hardcore - 128 kbit/s
 http://46.28.49.164:7145
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549966319.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Twilight draait de mooiste hitsss - 256 kbit/s
 http://81.18.165.234:8000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403673702.png" group-title="HARDCORE Radio - radio.pervii.com", Freak Beats Tekno Radio - 64 kbit/s
+http://51.255.127.128:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Caprice - Hardcore Metal - 128 kbit/s
 http://79.111.14.76:9081
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="HARDCORE Radio - radio.pervii.com", 1RadioFM  Metal  Thrash  Hardcore - 128 kbit/s
@@ -48,9 +48,9 @@ http://83.137.145.141:14280
 http://138.201.209.117:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Caprice - Hardcore Techno - 128 kbit/s
 http://79.120.39.202:9001
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", 45area.mydns.jp - stream - - 128 kbit/s
+http://153.121.55.34:57058
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="HARDCORE Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
 http://donleone.online:8448/hardcore?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="HARDCORE Radio - radio.pervii.com", Liquid Hardcore and Speedcore Radio - 192 kbit/s
 http://liquiddoom.net:8000/hardcore
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="HARDCORE Radio - radio.pervii.com", 45area.mydns.jp - stream - - 128 kbit/s
-http://153.121.55.34:57058
