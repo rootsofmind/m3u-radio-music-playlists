@@ -26,11 +26,11 @@ https://orf-live.ors-shoutcast.at/vbg-q2a
 http://server1.harmonyradio.be:8052/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1563530458.jpg" group-title="70S Radio - radio.pervii.com", KTL-Oldieradio - 128 kbit/s
 http://streamplus36.leonex.de:24844/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/22140.jpg" group-title="70S Radio - radio.pervii.com", Harmony Radio [Belgium]  www.harmonyradio.be - 128 kbit/s
-http://server1.harmonyradio.be:8000/harmonyradio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634483.png" group-title="70S Radio - radio.pervii.com", Radio Caroline 319 - Breskens NL - 320 - 320 kbit/s
 http://www.rcgoldserver.eu:8270/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634483.png" group-title="70S Radio - radio.pervii.com", EASY ROCK PARADISE - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/22140.jpg" group-title="70S Radio - radio.pervii.com", Harmony Radio [Belgium]  www.harmonyradio.be - 128 kbit/s
+http://server1.harmonyradio.be:8000/harmonyradio.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/22140.jpg" group-title="70S Radio - radio.pervii.com", EASY ROCK PARADISE - 128 kbit/s
 http://107.170.166.187:8300/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1553415257.jpg" group-title="70S Radio - radio.pervii.com", 1 Oldies Paradise - 128 kbit/s
 http://107.170.166.187:8000/stream/1/
@@ -110,6 +110,10 @@ http://46.105.126.68:6390/stream/1/
 http://uplink.intronic.nl/goldenflash
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1431089181.jpg" group-title="70S Radio - radio.pervii.com", OLDIES 192 FM - Schlager &amp; Pop - 192 kbit/s
 http://streamplus40.leonex.de:32670/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28424.jpg" group-title="70S Radio - radio.pervii.com", Classic Rock Florida - WSHE Miami / Ft Laud  Shes Only Rock&#039;n Roll South Florida Radio - 192 kbit/s
+http://208.67.255.115:8094
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549710386.jpg" group-title="70S Radio - radio.pervii.com", Oldies Paradise 48k AAC Stereo Stream - 192 kbit/s
+http://78.129.227.10:8260/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/22140.jpg" group-title="70S Radio - radio.pervii.com", Harmony Radio [Belgium] AAC+ - 192 kbit/s
 http://server1.harmonyradio.be:8060/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403713162.png" group-title="70S Radio - radio.pervii.com", LA CATEDRAL DE LA SALSA &quot;RADIO&quot; - 128 kbit/s
@@ -120,14 +124,12 @@ http://50.78.91.214:8804/stream/1/
 http://162.244.80.106:8024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1572619596.jpg" group-title="70S Radio - radio.pervii.com", TENIENTIKO.COM RADIO - 128 kbit/s
 http://192.99.8.192:2296/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28424.jpg" group-title="70S Radio - radio.pervii.com", Classic Rock Florida - WSHE Miami / Ft Laud  Shes Only Rock&#039;n Roll South Florida Radio - 192 kbit/s
-http://208.67.255.115:8094
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549710386.jpg" group-title="70S Radio - radio.pervii.com", Oldies Paradise 48k AAC Stereo Stream - 192 kbit/s
-http://78.129.227.10:8260/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549710386.jpg" group-title="70S Radio - radio.pervii.com", Hits 70 and 80 By Marcelo Nunez USA 2021 - 128 kbit/s
-http://51.15.152.81:8139/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259273.jpg" group-title="70S Radio - radio.pervii.com", A_A 70s - 128 kbit/s
 http://195.154.250.208:8000/stream/6/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259273.jpg" group-title="70S Radio - radio.pervii.com", Hits 70 and 80 By Marcelo Nunez USA 2021 - 128 kbit/s
+http://51.15.152.81:8139/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576236151.jpg" group-title="70S Radio - radio.pervii.com", Nova 70s from Radio Nova - 128 kbit/s
+http://stream.audioxi.com/NOVA?=3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561118183.jpg" group-title="70S Radio - radio.pervii.com", Radio0511 - 192 kbit/s
 http://stream.radio0511.com:8880/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561118183.jpg" group-title="70S Radio - radio.pervii.com", AllTime70s80sGreatest - 128 kbit/s
@@ -136,9 +138,9 @@ http://listen.radionomy.com:80/RadioDynamite
 http://stream.laut.fm/halloween-hit-radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="70S Radio - radio.pervii.com", Belter Radio - 64 kbit/s
 http://uk2.internet-radio.com:30163/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576236151.jpg" group-title="70S Radio - radio.pervii.com", Nova 70s from Radio Nova - 128 kbit/s
-http://stream.audioxi.com/NOVA?=3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576236151.jpg" group-title="70S Radio - radio.pervii.com", 70s Unlimited - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589169.png" group-title="70S Radio - radio.pervii.com", Life 100.9 FM - 64 kbit/s
+http://tunein.gvstream.net:9036
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589169.png" group-title="70S Radio - radio.pervii.com", 70s Unlimited - 128 kbit/s
 http://los.cdnstream.com/1120_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1562993550.jpg" group-title="70S Radio - radio.pervii.com", 4 Decades Radio - 192 kbit/s
 http://82.94.166.107:8003/stream/1/
@@ -148,8 +150,10 @@ http://centauri.shoutca.st:9049/autodj
 http://www.cartwall.at:7210
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556703019.jpg" group-title="70S Radio - radio.pervii.com", Radio Tamara - 128 kbit/s
 http://217.21.199.146:8006/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589169.png" group-title="70S Radio - radio.pervii.com", Life 100.9 FM - 128 kbit/s
-http://tunein.gvstream.net:9036
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550248934.jpg" group-title="70S Radio - radio.pervii.com", Cleansing 70&#039;s - 128 kbit/s
+http://sl-2396.cdnstream.com/1466_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550248934.jpg" group-title="70S Radio - radio.pervii.com", RadioTwist Canada - 192 kbit/s
+http://91.121.202.224:11602/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550034280.jpg" group-title="70S Radio - radio.pervii.com", ORF Radio Burgenland - 128 kbit/s
 https://orf-live.ors-shoutcast.at/bgl-q1a
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28693.jpg" group-title="70S Radio - radio.pervii.com", Bide&amp;Musique - variete alternative francophone 60-70-80 - alternate french oldies - live from Paris France 24h/24 - no ads - 128 kbit/s
@@ -158,11 +162,9 @@ http://137.74.117.147:9100/stream/1/
 http://194.88.105.64:8528/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561196094.jpg" group-title="70S Radio - radio.pervii.com", CRIK FM - The Lynx Classic Hits - 128 kbit/s
 http://listen.shoutcast.com:80/CRIKFM-TheLynxClassicHits
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550248934.jpg" group-title="70S Radio - radio.pervii.com", Cleansing 70&#039;s - 128 kbit/s
-http://sl-2396.cdnstream.com/1466_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550248934.jpg" group-title="70S Radio - radio.pervii.com", RadioTwist Canada - 192 kbit/s
-http://91.121.202.224:11602/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550248934.jpg" group-title="70S Radio - radio.pervii.com", Coast FM - Tenerife - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560948736.jpg" group-title="70S Radio - radio.pervii.com", Olympia Classics Greatest Hits Best Of 60s 70s 80s &amp; 90s - 192 kbit/s
+http://classics01.olympia-classics.nl:80/classics
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560948736.jpg" group-title="70S Radio - radio.pervii.com", Coast FM - Tenerife - 192 kbit/s
 http://92.48.87.11:8192/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1571495031.jpg" group-title="70S Radio - radio.pervii.com", Ideaal FM - 192 kbit/s
 http://server-27.stream-server.nl:8564/stream/1/
@@ -172,9 +174,9 @@ http://91.121.174.141:29274/stream/1/
 http://85.195.88.149:28212/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1485873331.jpg" group-title="70S Radio - radio.pervii.com", Costa Del Mar - Funky - 128 kbit/s
 http://stream.cdm-funky.com:8008/stream-AAC-Funk_autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560948736.jpg" group-title="70S Radio - radio.pervii.com", Olympia Classics Greatest Hits Best Of 60s 70s 80s &amp; 90s - 192 kbit/s
-http://classics01.olympia-classics.nl:80/classics
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560948736.jpg" group-title="70S Radio - radio.pervii.com", Studio 2000 Vintage - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="70S Radio - radio.pervii.com", GotRadio - The 70&#039;s - 128 kbit/s
+http://gr02.cdnstream.com:8610
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="70S Radio - radio.pervii.com", Studio 2000 Vintage - 128 kbit/s
 http://s3.shoutitaly.com:8042/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560904281.jpg" group-title="70S Radio - radio.pervii.com", 997 Bridge FM Brisbane - 128 kbit/s
 http://198.74.51.37:9332/stream/1/
@@ -184,12 +186,12 @@ http://5.135.154.69:14494/stream/1/
 http://uk7.internet-radio.com:8168/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1574525189.jpg" group-title="70S Radio - radio.pervii.com", ICE RADIO WALDKRAIBURG Dein Cooler Internet Radiosender Aus Oberbayern - 128 kbit/s
 http://server29785.streamplus.de:10730/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="70S Radio - radio.pervii.com", GotRadio - The 70&#039;s - 128 kbit/s
-http://gr02.cdnstream.com:8610
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="70S Radio - radio.pervii.com", Popradio Ostfriesland - 192 kbit/s
-http://62.113.206.180:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1608363167.jpg" group-title="70S Radio - radio.pervii.com", Radio Fiesta FM - 320 kbit/s
 http://31.201.197.5:8009/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573476.png" group-title="70S Radio - radio.pervii.com", Popradio Ostfriesland - 192 kbit/s
+http://62.113.206.180:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28424.jpg" group-title="70S Radio - radio.pervii.com", WSHE MIAMI / FT LAUDERDALE-CLASSIC ROCK FLORIDA SHE - 192 kbit/s
+http://208.67.255.115:8096
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561462815.jpg" group-title="70S Radio - radio.pervii.com", Radio Goldance by Radio L&apos;Olgiata - 128 kbit/s
 http://188.165.192.5:8128/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="70S Radio - radio.pervii.com", Stream Name - 48 kbit/s
@@ -198,5 +200,3 @@ http://real2.streaming-co.com:8007
 http://178.33.135.244:2802/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550194964.jpg" group-title="70S Radio - radio.pervii.com", Flex-Radio - 256 kbit/s
 http://213.202.241.199:8384/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550194964.jpg" group-title="70S Radio - radio.pervii.com", Hits4you.nl - 192 kbit/s
-http://212.83.172.11:8570/stream/1/

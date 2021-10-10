@@ -34,10 +34,10 @@ http://79.120.39.202:9071
 http://stream.freshrock.net:8000/128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556541501.jpg" group-title="PUNK Radio - radio.pervii.com", The RockHistory Station - 128 kbit/s
 http://192.99.170.8:5722/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556543441.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Nightingale Dieselpunk - 128 kbit/s
-http://streams.radioriel.org:8040/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813366.png" group-title="PUNK Radio - radio.pervii.com", 12punks - 192 kbit/s
 http://88.99.44.17:80
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556543441.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Nightingale Dieselpunk - 128 kbit/s
+http://streams.radioriel.org:8040/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice Pop Punk - 128 kbit/s
 http://79.111.14.76:9035
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice - Russian Punk - 128 kbit/s

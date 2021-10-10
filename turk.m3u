@@ -44,16 +44,16 @@ http://38.96.148.39:8588
 http://sunucu.radyodinle.com:2727/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/90723.jpg" group-title="TURK Radio - radio.pervii.com", YUNUS FM - 96 kbit/s
 http://95.173.162.184:7350/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102600.jpg" group-title="TURK Radio - radio.pervii.com", Turkiyem FM - 128 kbit/s
-http://51.77.72.72:8032/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549989185.jpg" group-title="TURK Radio - radio.pervii.com", Radyo Kuran - Kurani Kerim ve Turkce Meali - RadyoKuran.Net - 64 kbit/s
 http://yayin.liderhost.net:8555/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549989185.jpg" group-title="TURK Radio - radio.pervii.com", Cemre FM - 160 kbit/s
 http://yayin2.canliyayin.org:8002/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549989185.jpg" group-title="TURK Radio - radio.pervii.com", DAMGA FM - 96 kbit/s
-http://95.173.162.183:9818/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102600.jpg" group-title="TURK Radio - radio.pervii.com", Turkiyem FM - 128 kbit/s
+http://51.77.72.72:8032/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1571203993.jpg" group-title="TURK Radio - radio.pervii.com", London Turkish Radio - 128 kbit/s
 http://s2.radio.co/s899a861e2/listen
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1571203993.jpg" group-title="TURK Radio - radio.pervii.com", DAMGA FM - 96 kbit/s
+http://95.173.162.183:9818/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550466197.jpg" group-title="TURK Radio - radio.pervii.com", LaRadio247FM - 128 kbit/s
 https://streamyes.alsolnet.com/managament247/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550466197.jpg" group-title="TURK Radio - radio.pervii.com", JungerKulturKanal LIVE (c) Hochschule fuer Musik Karlsruhe 2017 - 256 kbit/s
@@ -66,10 +66,10 @@ http://radyo.ahiska.net:8063/stream/1/
 http://37.59.205.232:9346/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403854880.png" group-title="TURK Radio - radio.pervii.com", RADYO JUKE - 64 kbit/s
 http://144.76.186.208:9990/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403854880.png" group-title="TURK Radio - radio.pervii.com", ÖZ FM - 99.3 - 64 kbit/s
-http://95.173.184.248:9914/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403854880.png" group-title="TURK Radio - radio.pervii.com", Nigde Tempo Fm 104.0 Nigde Turkey - 96 kbit/s
 http://yayin1.canliyayin.org:8344
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403854880.png" group-title="TURK Radio - radio.pervii.com", ÖZ FM - 99.3 - 64 kbit/s
+http://95.173.184.248:9914/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1571541410.jpg" group-title="TURK Radio - radio.pervii.com", Radyo Mod Stream - 128 kbit/s
 http://radyomo2.80.yayin.com.tr/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1571541410.jpg" group-title="TURK Radio - radio.pervii.com", 3 Nisan Radyo - 160 kbit/s
@@ -80,21 +80,21 @@ http://radyorumelim.canliyayinda.com:8690/stream/1/
 http://159.253.39.179:9976
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1571541410.jpg" group-title="TURK Radio - radio.pervii.com", www.isimsizfm.com - 192 kbit/s
 http://217.172.182.14:8888
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537591032.jpg" group-title="TURK Radio - radio.pervii.com", AKDENIZ FM - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1571541410.jpg" group-title="TURK Radio - radio.pervii.com", Radyo Turku - 96 kbit/s
+http://radioturku.com:9400/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1571541410.jpg" group-title="TURK Radio - radio.pervii.com", CAPITAL TURK 107.1 FM - 96 kbit/s
+http://159.253.37.137:9960
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1571541410.jpg" group-title="TURK Radio - radio.pervii.com", Radyo58 OtoDj - 64 kbit/s
+http://95.173.184.50:9976
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537591032.jpg" group-title="TURK Radio - radio.pervii.com", AKDENIZ FM - 64 kbit/s
 http://sunucu2.radyolarburada.com:8040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403619575.png" group-title="TURK Radio - radio.pervii.com", Radyo Lojik, Turkiye - 128 kbit/s
 http://178.170.102.185:8102
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403619575.png" group-title="TURK Radio - radio.pervii.com", Radyo Turku - 96 kbit/s
-http://radioturku.com:9400/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403619575.png" group-title="TURK Radio - radio.pervii.com", CAPITAL TURK 107.1 FM - 96 kbit/s
-http://159.253.37.137:9960
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403619575.png" group-title="TURK Radio - radio.pervii.com", Radyo58 OtoDj - 64 kbit/s
-http://95.173.184.50:9976
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403619575.png" group-title="TURK Radio - radio.pervii.com", CD KALITESINDE TURKCE POP MUZIK - TURKISH POP MUSIC IN CD QUALITY - 128 kbit/s
-http://mamasfm.com:4500/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1573315278.jpg" group-title="TURK Radio - radio.pervii.com", Voice of Turkey - World - 48 kbit/s
 mms://212.156.63.102/RDVOT
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1573315278.jpg" group-title="TURK Radio - radio.pervii.com", TRT Radyo 4 - 48 kbit/s
 mms://212.156.63.102/RADYO4
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1573315278.jpg" group-title="TURK Radio - radio.pervii.com", mms://84.16.252.120/slowturk - 48 kbit/s
 mms://84.16.252.120/slowturk
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1573315278.jpg" group-title="TURK Radio - radio.pervii.com", CD KALITESINDE TURKCE POP MUZIK - TURKISH POP MUSIC IN CD QUALITY - 128 kbit/s
+http://mamasfm.com:4500/stream/1/

@@ -32,10 +32,10 @@ http://200.58.101.247:8000
 http://web.bolognauno.it:9944/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553342015.jpg" group-title="SPORT Radio - radio.pervii.com", AM 680 WOGO - 128 kbit/s
 http://ic1.sslstream.com/wogo-am?
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561154248.jpg" group-title="SPORT Radio - radio.pervii.com", ESPN Pensacola (WEBY) - 32 kbit/s
-http://mega5.radioserver.co.uk:8026
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528504.jpg" group-title="SPORT Radio - radio.pervii.com", Centro Suono Sport 101.5 - 64 kbit/s
 http://www.radiocentrosuono.it:8000/rcss
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561154248.jpg" group-title="SPORT Radio - radio.pervii.com", ESPN Pensacola (WEBY) - 32 kbit/s
+http://mega5.radioserver.co.uk:8026
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1563164463.jpg" group-title="SPORT Radio - radio.pervii.com", talkSPORT 2 World - 128 kbit/s
 http://radio.talksport.com/stream2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/30695.jpg" group-title="SPORT Radio - radio.pervii.com", WCCP-105.5FM - 128 kbit/s
@@ -68,7 +68,9 @@ http://malagafm.streaming-pro.com:8130/malagafmmobile
 http://37.252.123.97:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1574069574.jpg" group-title="SPORT Radio - radio.pervii.com", Fox Sports 1400 Spartanburg - 96 kbit/s
 http://5.135.154.91:8188
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550507991.jpg" group-title="SPORT Radio - radio.pervii.com", ESPN 103.9FM/1490AM - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1574069574.jpg" group-title="SPORT Radio - radio.pervii.com", Goreans Portal Radio - 320 kbit/s
+http://51.15.7.194:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550507991.jpg" group-title="SPORT Radio - radio.pervii.com", ESPN 103.9FM/1490AM - 320 kbit/s
 http://ctcstream.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="SPORT Radio - radio.pervii.com", RADIO NOW HQ 99.1 FM PALMA DE MALLORCA BALEARES ESPA - 128 kbit/s
 http://37.152.88.215:8600
@@ -78,12 +80,12 @@ http://62.210.141.243:8348/stream/1/
 http://66.55.143.197:9055
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="SPORT Radio - radio.pervii.com", WBCF Radio - 192 kbit/s
 http://192.99.8.192:5094/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="SPORT Radio - radio.pervii.com", Goreans Portal Radio - 320 kbit/s
-http://51.15.7.194:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563177046.jpg" group-title="SPORT Radio - radio.pervii.com", Radio Punto Zero Tre Venezie - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563177046.jpg" group-title="SPORT Radio - radio.pervii.com", Radio Punto Zero Tre Venezie - 192 kbit/s
 http://88.150.144.252:8120
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563177046.jpg" group-title="SPORT Radio - radio.pervii.com", Global Sport SUISSE - 96 kbit/s
 http://live7.avf.ch:8000/globalfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563177046.jpg" group-title="SPORT Radio - radio.pervii.com", KFJB Sports - 64 kbit/s
+http://173.193.205.96:8172/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563177046.jpg" group-title="SPORT Radio - radio.pervii.com", Global Sport VAUD - 320 kbit/s
 http://live9.avf.ch:8000/globalfmdabvd
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="SPORT Radio - radio.pervii.com", Adler Mannheim - 128 kbit/s
@@ -102,8 +104,6 @@ http://radio.streamings.gr:8009/live
 http://142.4.217.133:9140/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1574571391.jpg" group-title="SPORT Radio - radio.pervii.com", Radio Man&#224; Man&#224; Sport 90.9  - 64 kbit/s
 http://5.39.95.59:8904
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1574571391.jpg" group-title="SPORT Radio - radio.pervii.com", KFJB Sports - 64 kbit/s
-http://173.193.205.96:8172/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1574571391.jpg" group-title="SPORT Radio - radio.pervii.com", Globall Sport Suisse - 320 kbit/s
 http://live9.avf.ch:8000/globalfm160
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1574571391.jpg" group-title="SPORT Radio - radio.pervii.com", UDA RADIO - 64 kbit/s
@@ -142,18 +142,20 @@ http://38.96.175.24:6882
 http://s6.voscast.com:10654/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1574070012.jpg" group-title="SPORT Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
 http://dix393.de:9011
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1573966955.jpg" group-title="SPORT Radio - radio.pervii.com", Sport Fm - 128 kbit/s
+http://sportfm.live24.gr/sportfm7712
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72130.jpg" group-title="SPORT Radio - radio.pervii.com", Radio Zenit - Sankt-Peterburg 89.7 FM - 128 kbit/s
 http://ic5.101.ru:8000\/v15_1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573974383.jpg" group-title="SPORT Radio - radio.pervii.com", KCLV - 128 kbit/s
 mms://premiere.lasvegasnevada.gov:443/KCLV-Live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573974383.jpg" group-title="SPORT Radio - radio.pervii.com", 103.5 Radio Uudised - 96 kbit/s
-http://www.er.ee/utoim/ra/Eesti_Raadio_uudised.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79405.jpg" group-title="SPORT Radio - radio.pervii.com", KKLE 1550 AM - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79405.jpg" group-title="SPORT Radio - radio.pervii.com", KKLE 1550 AM - 128 kbit/s
 mms://69.24.212.14:8080
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/58668.jpg" group-title="SPORT Radio - radio.pervii.com", BBC 5 Live Sports Extra - 32 kbit/s
-mms://wmlive.bbc.net.uk/wms/bbc_ami/radio5/5spxtra_bb_live_int_ep1_sw0?BBC-UID
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/79405.jpg" group-title="SPORT Radio - radio.pervii.com", 103.5 Radio Uudised - 96 kbit/s
+http://www.er.ee/utoim/ra/Eesti_Raadio_uudised.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302924622.jpg" group-title="SPORT Radio - radio.pervii.com", Radio R.S.A - 96 kbit/s
 mms://onair10.xdevel.com/radiospazioapertolive
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/58668.jpg" group-title="SPORT Radio - radio.pervii.com", BBC 5 Live Sports Extra - 32 kbit/s
+mms://wmlive.bbc.net.uk/wms/bbc_ami/radio5/5spxtra_bb_live_int_ep1_sw0?BBC-UID
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550418485.jpg" group-title="SPORT Radio - radio.pervii.com", Radio Agricultura MP3 - 128 kbit/s
 http://redirector.dps.live/agricultura/mp3/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1573395046.jpg" group-title="SPORT Radio - radio.pervii.com", Libero 107.4 - 32 kbit/s
@@ -164,5 +166,3 @@ mms://live.onestreaming.com/athletic
 https://playerservices.streamtheworld.com/api/livestream-redirect/CKSTAMAAC.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1573915490.jpg" group-title="SPORT Radio - radio.pervii.com", Radio Sport 1332 AM - 32 kbit/s
 mms://ac1.streaming.net.nz/trn-radiosport-akl
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1573966955.jpg" group-title="SPORT Radio - radio.pervii.com", Sport Fm - 128 kbit/s
-http://sportfm.live24.gr/sportfm7712

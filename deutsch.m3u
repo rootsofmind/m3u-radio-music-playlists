@@ -82,10 +82,10 @@ http://213.239.219.50:80/robinsonfm.mp3
 http://hirschmilch.de:7000/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/104070.jpg" group-title="DEUTSCH Radio - radio.pervii.com", DEFJAY - The place to be in RnB! - 128 kbit/s
 http://icepool.silvacast.com/DEFJAY.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1563530458.jpg" group-title="DEUTSCH Radio - radio.pervii.com", KTL-Oldieradio - 128 kbit/s
-http://streamplus36.leonex.de:24844/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549471292.jpg" group-title="DEUTSCH Radio - radio.pervii.com", RADIO MACKICA - NARODNA - 128 kbit/s
 http://cast2.name.ba:8153/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1563530458.jpg" group-title="DEUTSCH Radio - radio.pervii.com", KTL-Oldieradio - 128 kbit/s
+http://streamplus36.leonex.de:24844/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/23058.jpg" group-title="DEUTSCH Radio - radio.pervii.com", RussianFM.de | 24/7h - 128 kbit/s
 http://radio.russianfm.de:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/23058.jpg" group-title="DEUTSCH Radio - radio.pervii.com", JamendoLounge - 128 kbit/s
@@ -108,14 +108,14 @@ http://swr-swr4-bw.cast.addradio.de/swr/swr4/bw/mp3/128/stream.mp3
 http://yayin1.yayindakiler.com:3024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561032143.jpg" group-title="DEUTSCH Radio - radio.pervii.com", LATINO FM - 160 kbit/s
 http://213.239.219.50:80/latinofm.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403511921.png" group-title="DEUTSCH Radio - radio.pervii.com", D A N C E G R O O V E . R A D I O - W E P L A Y . Y O U R . I M A G I N A T I O N . . . ! DanceGroove - 128 kbit/s
-http://88.99.132.20:12160
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="DEUTSCH Radio - radio.pervii.com", wunschradio.fm Top100 - 320 kbit/s
 http://radiostreamserver.de:80/wunschradio-top100.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403511921.png" group-title="DEUTSCH Radio - radio.pervii.com", D A N C E G R O O V E . R A D I O - W E P L A Y . Y O U R . I M A G I N A T I O N . . . ! DanceGroove - 128 kbit/s
+http://88.99.132.20:12160
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403511921.png" group-title="DEUTSCH Radio - radio.pervii.com", SR2 - 128 kbit/s
+http://sr.audiostream.io/sr/1010/mp3/128/sr2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549421878.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Power Radio - 128 kbit/s
 http://stream.power-radio.de:8020/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549421878.jpg" group-title="DEUTSCH Radio - radio.pervii.com", SR2 - 128 kbit/s
-http://sr.audiostream.io/sr/1010/mp3/128/sr2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403608035.png" group-title="DEUTSCH Radio - radio.pervii.com", COUNTRY 108 - Your Country Music Station! - 128 kbit/s
 http://icepool.silvacast.com/COUNTRY108.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403641281.png" group-title="DEUTSCH Radio - radio.pervii.com", Das Radio der von Neil Young Getöteten - 128 kbit/s
@@ -124,12 +124,12 @@ http://streamplus3.leonex.de:11216/stream/1/
 http://sr3c2.akacast.akamaistream.net/7/124/142688/v1/gnl.akacast.akamaistream.net/sr3c2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1552299586.jpg" group-title="DEUTSCH Radio - radio.pervii.com", SR3 - 128 kbit/s
 http://sr.audiostream.io/sr/1011/mp3/128/sr3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561881132.jpg" group-title="DEUTSCH Radio - radio.pervii.com", AKUSTIK - 128 kbit/s
-http://46.20.7.102:80/stream/389/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403743340.png" group-title="DEUTSCH Radio - radio.pervii.com", Radio STUDIO M Teslic - 387 53 410 090 - 96 kbit/s
 http://188.40.62.20:8014
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537690903.jpg" group-title="DEUTSCH Radio - radio.pervii.com", musicalradio.de .at .ch - 320 kbit/s
 http://server15.radiostreamserver.de:80/musicalradio.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561881132.jpg" group-title="DEUTSCH Radio - radio.pervii.com", AKUSTIK - 128 kbit/s
+http://46.20.7.102:80/stream/389/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12472.jpg" group-title="DEUTSCH Radio - radio.pervii.com", MDR SPUTNIK - 128 kbit/s
 http://mdr-284330-0.cast.mdr.de/mdr/284330/0/mp3/high/stream.mp3?ar-distributor=f0a1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="DEUTSCH Radio - radio.pervii.com", Radio Shadowplay - 128 kbit/s
@@ -156,12 +156,12 @@ http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
 http://countrymusic24.powerstream.de:9000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550030676.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Unspecified name - 128 kbit/s
 http://fr1.amfmph.com:8130/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550030676.jpg" group-title="DEUTSCH Radio - radio.pervii.com", { Radio Sarzamine Eshgh } SMS: +46768956657 - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: MP3 128k stereo - 128 kbit/s
+http://185.125.60.6:8080
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="DEUTSCH Radio - radio.pervii.com", { Radio Sarzamine Eshgh } SMS: +46768956657 - 128 kbit/s
 http://getall.info:9000/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Maxi 80 Webradio France - 128 kbit/s
 http://5.135.188.130:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: MP3 128k stereo - 128 kbit/s
-http://185.125.60.6:8080
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403609467.png" group-title="DEUTSCH Radio - radio.pervii.com", radio B2 Deutschland - 128 kbit/s
 http://mp3ad.radiob2.c.nmdn.net/ps-radiob2national/livestream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radio Regenbogen 80er - 128 kbit/s
@@ -170,10 +170,10 @@ http://streams.regenbogen.de/rr-80er-128-mp3
 http://mp3channels.webradio.de/weihnachts-hits
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="DEUTSCH Radio - radio.pervii.com", bigFM Oldschool - 128 kbit/s
 http://streams.bigfm.de/bigfm-oldschool-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5551.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radio Hazzard of Darkness. The Best Radio on Air - 192 kbit/s
-http://hazzardstream.de:7777/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550032443.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Ballermann Radio - 128 kbit/s
 http://tunein.bmr-radio.de
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5551.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radio Hazzard of Darkness. The Best Radio on Air - 192 kbit/s
+http://hazzardstream.de:7777/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554621864.jpg" group-title="DEUTSCH Radio - radio.pervii.com", Radyo Akdeniz Antalya - 128 kbit/s
 http://95.173.162.188:9310
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="DEUTSCH Radio - radio.pervii.com", Rock The Blues - 128 kbit/s
