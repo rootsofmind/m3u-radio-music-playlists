@@ -1,5 +1,5 @@
 ## Collection of m3u Radio Playlists, Updated daily (manually)
-i'm in a process of making updates automatic, the bash script is already written, just need to read up on how to use cron
+added extra files, `---everyhting.m3u` combines all streams alphabetically, `---randomized.m3u` is everything but every line is randomized, both file remove extra informations and thumbnail informations as they would have been quite large if i didn't do that, it was 1.2 mb but after remove extra stuff they are 250kb now, these files will also get update as i push updates for other files as the process is almost automatic at this point.
 
 ### How to listen to these?
 in the terminal, do this:
