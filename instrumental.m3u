@@ -32,10 +32,10 @@ http://sanfm.ru:8000/pop
 http://www.radioson.ru:8009/Instrumental-Jazz.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634281.png" group-title="INSTRUMENTAL Radio - radio.pervii.com", TROPICALISIMA.FM INSTRUMENTAL 2 - 128 kbit/s
 http://23.237.150.178:9002/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", SanFM.ru New Hits Station - 128 kbit/s
-http://178.218.221.73:8000/pop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", SanFM.ru Drum and bass - 128 kbit/s
 http://sanfm.ru:8000/drum_nonstop
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", SanFM.ru New Hits Station - 128 kbit/s
+http://178.218.221.73:8000/pop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", SanFM.ru Alternative - 96 kbit/s
 http://sanfm.ru:8000/alternative
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", Radio Crestin Aripi Spre Cer Instrumental - 128 kbit/s

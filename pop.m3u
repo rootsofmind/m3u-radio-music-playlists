@@ -190,13 +190,13 @@ https://kathy.torontocast.com:3060/stream/1/
 http://arabella.stream.kapper.net:8005/arabellaaustropop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", ROBINSON FM - 160 kbit/s
 http://213.239.219.50:80/robinsonfm.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio BeO mp3 128kbit - 128 kbit/s
-http://87.237.169.123:8000/radiobeo.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555047590.jpg" group-title="POP Radio - radio.pervii.com", Cadena DIAL Gandia - 128 kbit/s
 http://stream.radiogandia.com:8080/dial
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555047590.jpg" group-title="POP Radio - radio.pervii.com", Radio BeO mp3 128kbit - 128 kbit/s
+http://87.237.169.123:8000/radiobeo.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 128 kbit/s
+http://online.volgogradfm.ru:8000/99i1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550040955.jpg" group-title="POP Radio - radio.pervii.com", Radio Jura - 96 kbit/s
 http://stream2.radio90.pl:8000/jura_96kbps_stereo.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 96 kbit/s
-http://online.volgogradfm.ru:8000/99i1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/23720.jpg" group-title="POP Radio - radio.pervii.com", ItaloDance Pilot - 128 kbit/s
 http://s1.slotex.pl:7694/stream/1/

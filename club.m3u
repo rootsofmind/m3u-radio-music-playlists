@@ -158,10 +158,10 @@ http://109.206.96.34:8095
 http://cmr-hosting.com:8030/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", ..::: RADIO FIBRA ROMANIA...HIT CLUBBING STATION :::.. - 128 kbit/s
 http://188.165.152.44:9000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561499756.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Club Network - 192 kbit/s
-http://nr9.newradio.it:9438/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403700852.png" group-title="CLUB Radio - radio.pervii.com", Wally Byam Airstream Club Streaming - 64 kbit/s
 http://199.195.194.140:8010
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561499756.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Club Network - 192 kbit/s
+http://nr9.newradio.it:9438/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Caprice - Club Dance - 128 kbit/s
 http://79.111.119.111:9099
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1571752579.jpg" group-title="CLUB Radio - radio.pervii.com", Generation Dorothee - 128 kbit/s
@@ -190,10 +190,10 @@ http://live1.radioexpert.ro:8889/
 http://listen.radionomy.com:80/Club80DJS
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="CLUB Radio - radio.pervii.com", ClubMix Radio Romania [64kbps] - 128 kbit/s
 http://live.radioclubmix.ro:9999/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="CLUB Radio - radio.pervii.com", SL Heat Club - 128 kbit/s
-http://70.35.201.123:7188/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403638563.png" group-title="CLUB Radio - radio.pervii.com", G One Radio - 128 kbit/s
 http://www.radioking.com/play/g-one-radio/977
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403638563.png" group-title="CLUB Radio - radio.pervii.com", SL Heat Club - 128 kbit/s
+http://70.35.201.123:7188/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555984246.jpg" group-title="CLUB Radio - radio.pervii.com", RoyalClub - 320 kbps - royalradio.ru - 128 kbit/s
 http://193.33.170.218:8000/RoyalPop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555984246.jpg" group-title="CLUB Radio - radio.pervii.com", Royal Radio Club - 128 kbit/s

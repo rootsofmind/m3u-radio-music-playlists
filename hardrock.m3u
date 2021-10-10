@@ -26,13 +26,13 @@ http://regiocast.hoerradar.de/deltaradio-foehnfrisur-mp3-hq
 http://listen-ca.uturnradio.com:80/classic_rock
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550746950.jpg" group-title="HARDROCK Radio - radio.pervii.com", BeRock Online Radio - 192 kbit/s
 http://solid55.streamupsolutions.com:30013/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1571881131.jpg" group-title="HARDROCK Radio - radio.pervii.com", Deranged Radio - 256 kbit/s
-http://68.168.101.146:8423/autodj?=1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="HARDROCK Radio - radio.pervii.com", bang - 128 kbit/s
 http://stream.laut.fm/bang
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="HARDROCK Radio - radio.pervii.com", DI Radio Digital Impulse - Hard Rock &amp; Heavy Metal - 320 kbit/s
 http://orion.shoutca.st:8165/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1574059738.jpg" group-title="HARDROCK Radio - radio.pervii.com", Metal Heart Radio - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1571881131.jpg" group-title="HARDROCK Radio - radio.pervii.com", Deranged Radio - 256 kbit/s
+http://68.168.101.146:8423/autodj?=1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1574059738.jpg" group-title="HARDROCK Radio - radio.pervii.com", Metal Heart Radio - 256 kbit/s
 http://fr.radio-streamhosting.com:8000/metalheartradio128mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1574059738.jpg" group-title="HARDROCK Radio - radio.pervii.com", Rock Velvet - 192 kbit/s
 http://cast.iplayradio.net:8060/autodj
@@ -40,13 +40,13 @@ http://cast.iplayradio.net:8060/autodj
 http://212.96.160.160:7988
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537694872.jpg" group-title="HARDROCK Radio - radio.pervii.com", rockXradio : Canada&apos;s Internet Radio Station - 128 kbit/s
 http://158.69.227.214:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556533405.jpg" group-title="HARDROCK Radio - radio.pervii.com", Punksender n.e.V. - 128 kbit/s
+http://83.125.45.214:8000/punk
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1586962131.jpg" group-title="HARDROCK Radio - radio.pervii.com", Rockaway Radio - 320 kbit/s
 http://192.99.170.8:5096/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1586962131.jpg" group-title="HARDROCK Radio - radio.pervii.com", 100%HARDROCK - 128 kbit/s
 http://listen.radionomy.com/100-HARD-ROCK
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556533405.jpg" group-title="HARDROCK Radio - radio.pervii.com", Punksender n.e.V. - 128 kbit/s
-http://83.125.45.214:8000/punk
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556533405.jpg" group-title="HARDROCK Radio - radio.pervii.com", ClassicRock&amp;HardRock - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1586962131.jpg" group-title="HARDROCK Radio - radio.pervii.com", ClassicRock&amp;HardRock - 128 kbit/s
 http://listen.radionomy.com:80/ClassicRock-HardRock
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550479885.jpg" group-title="HARDROCK Radio - radio.pervii.com", Radio Kolobrzeg - 192 kbit/s
 http://graj.radiokolobrzeg.pl:8000/stream/1/
@@ -56,15 +56,15 @@ http://s2.stationplaylist.com:9462/stream/1/
 http://74.208.228.74:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560873956.jpg" group-title="HARDROCK Radio - radio.pervii.com", Freedom Rock Radio - 128 kbit/s
 http://173.208.177.90:9322/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556703425.jpg" group-title="HARDROCK Radio - radio.pervii.com", I.R.O. - 128 kbit/s
+http://stadsradio-iro.be:3001/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1577163050.jpg" group-title="HARDROCK Radio - radio.pervii.com", KSHP-DB - 128 kbit/s
 http://s2.myradiostream.com:7178/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1577163050.jpg" group-title="HARDROCK Radio - radio.pervii.com", HardRockin80s.com - 128k 3G/4G - 235,000 tracks of the best 80s rock and metal - 128 kbit/s
 http://74.208.105.119:8018
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1577163050.jpg" group-title="HARDROCK Radio - radio.pervii.com", ADR 210 Classic Rock - 128 kbit/s
 http://144.217.115.101:8114/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556703425.jpg" group-title="HARDROCK Radio - radio.pervii.com", I.R.O. - 128 kbit/s
-http://stadsradio-iro.be:3001/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556703425.jpg" group-title="HARDROCK Radio - radio.pervii.com", Nuclear Rock Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1577163050.jpg" group-title="HARDROCK Radio - radio.pervii.com", Nuclear Rock Radio - 128 kbit/s
 http://83.170.76.46:8048/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550682306.jpg" group-title="HARDROCK Radio - radio.pervii.com", ChristianHardRock.Net - 32 kbit/s
 https://shoutcast.christianrock.net/stream/4/

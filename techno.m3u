@@ -64,12 +64,12 @@ http://s1.radionetz.de:8000/purefm-hh.mp3
 http://deepspaceradio2.streamguys1.com:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1593394559.jpg" group-title="TECHNO Radio - radio.pervii.com", ABC Dance - 192 kbit/s
 https://listen.radioking.com/radio/324967/stream/374263?=1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="TECHNO Radio - radio.pervii.com", 16Bit.FM MAIN channel - 192 kbit/s
+http://16bitfm.com:8000/main_mp3_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="TECHNO Radio - radio.pervii.com", DI Radio Digital Impulse - DKR TecHouse - 320 kbit/s
 http://orion.shoutca.st:8243/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550026560.jpg" group-title="TECHNO Radio - radio.pervii.com", Techno.FM - 192 kbit/s
 http://stream.techno.fm/radio.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="TECHNO Radio - radio.pervii.com", 16Bit.FM MAIN channel - 192 kbit/s
-http://16bitfm.com:8000/main_mp3_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/3648.jpg" group-title="TECHNO Radio - radio.pervii.com", Groove Salad [SomaFM] - 192 kbit/s
 http://ice1.somafm.com/groovesalad-64-aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108213.jpg" group-title="TECHNO Radio - radio.pervii.com", Basslover - www.basslover.de - 192 kbit/s
@@ -80,10 +80,10 @@ http://188.138.198.247:8002/stream/1/
 http://eu2.fastcast4u.com:3364
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1555204244.jpg" group-title="TECHNO Radio - radio.pervii.com", Radio Sputnik NL - 192 kbit/s
 http://radiosputnik.nl:8002
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1555204244.jpg" group-title="TECHNO Radio - radio.pervii.com", Audioasyl - 320 kbit/s
+http://stream.audioasyl.net:8000/audioasyl
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1578286099.jpg" group-title="TECHNO Radio - radio.pervii.com", Moon Mission Recordings, Tokyo Deep and Electronic - 128 kbit/s
 http://uk5.internet-radio.com:8306/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1578286099.jpg" group-title="TECHNO Radio - radio.pervii.com", Audioasyl - 320 kbit/s
-http://stream.audioasyl.net:8000/audioasyl
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403807548.png" group-title="TECHNO Radio - radio.pervii.com", CUBASE-FM - 128 kbit/s
 http://85.195.88.149:10928/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537590741.jpg" group-title="TECHNO Radio - radio.pervii.com", *** STRICTLY HOUSE - TECH CHANNEL *** - 128 kbit/s
@@ -96,16 +96,18 @@ http://89.163.209.218:9000/stream/1/
 http://radio.soullive.ru:8000/soul128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556409460.jpg" group-title="TECHNO Radio - radio.pervii.com", 00o EKO DES GARRIGUES o00 live radio from montpellier [f][128k][mp3] - 128 kbit/s
 http://91.121.159.124:8000/eko-des-garrigues-128k.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556409460.jpg" group-title="TECHNO Radio - radio.pervii.com", ViBE FM - PURE UNDERGROUND! - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="TECHNO Radio - radio.pervii.com", Nautic Radio - Technomania - electro,progressive,deephouse,techhouse,minimal,techno,acid,schranz - 320 kbit/s
+http://83.137.145.141:14240
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="TECHNO Radio - radio.pervii.com", ViBE FM - PURE UNDERGROUND! - 128 kbit/s
 http://icepool.silvacast.com/PULSFM.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="TECHNO Radio - radio.pervii.com", esounds - 128 kbit/s
 http://stream.laut.fm/esounds
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="TECHNO Radio - radio.pervii.com", Radio Caprice - Minimal Techno - 128 kbit/s
 http://79.120.39.202:9005
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="TECHNO Radio - radio.pervii.com", Nautic Radio - Technomania - electro,progressive,deephouse,techhouse,minimal,techno,acid,schranz - 320 kbit/s
-http://83.137.145.141:14240
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="TECHNO Radio - radio.pervii.com", CoolBeats Radio - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="TECHNO Radio - radio.pervii.com", CoolBeats Radio - 128 kbit/s
 http://67.212.166.178:7024
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="TECHNO Radio - radio.pervii.com", Youppala - 128 kbit/s
+http://sc4.mystreamserver.com:8012
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650071.png" group-title="TECHNO Radio - radio.pervii.com", DB9Radio - 320 kbit/s
 http://eu6.fastcast4u.com:5195/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650071.png" group-title="TECHNO Radio - radio.pervii.com", Paradise radio 101,6 - 160 kbit/s
@@ -122,9 +124,9 @@ http://secure.live-streams.nl:80/live
 http://s1.sonicabroadcast.com:1025/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559578336.jpg" group-title="TECHNO Radio - radio.pervii.com", ClubTime.FM - 24h Deep-, Tech- and Minimal House and Techno - 192 kbit/s
 http://mp3.stream.tb-group.fm/clt.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="TECHNO Radio - radio.pervii.com", Youppala - 128 kbit/s
-http://sc4.mystreamserver.com:8012
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="TECHNO Radio - radio.pervii.com", Loca Fm Tenerife - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="TECHNO Radio - radio.pervii.com", dbFM Radio - 192 kbit/s
+http://51.38.39.244:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="TECHNO Radio - radio.pervii.com", Loca Fm Tenerife - 128 kbit/s
 http://5.39.76.68:8006
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403649995.png" group-title="TECHNO Radio - radio.pervii.com", FNOOB TECHNO RADIO 320 - 320 kbit/s
 http://play.fnoobtechno.com:2199/stream/2/
@@ -140,8 +142,6 @@ http://media.brokenpla.net:8000/live
 http://www.nightline-radio.de:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403673702.png" group-title="TECHNO Radio - radio.pervii.com", Freak Beats Tekno Radio - 64 kbit/s
 http://51.255.127.128:8010
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="TECHNO Radio - radio.pervii.com", dbFM Radio - 64 kbit/s
-http://51.38.39.244:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556440842.jpg" group-title="TECHNO Radio - radio.pervii.com", DanceControl Radio - 64 kbit/s
 http://94.177.160.64:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556440842.jpg" group-title="TECHNO Radio - radio.pervii.com", PirateRevival AutoDJ - 128 kbit/s
@@ -150,6 +150,8 @@ http://87.117.201.160:8400
 http://minimalradio.de:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556528724.jpg" group-title="TECHNO Radio - radio.pervii.com", ERDE Audio (www.Euer - Radio.DE) - 192 kbit/s
 http://stream365.de:9666
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556528724.jpg" group-title="TECHNO Radio - radio.pervii.com", ..::: RADIO FIBRA ROMANIA...HIT CLUBBING STATION :::.. - 128 kbit/s
+http://188.165.152.44:9000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556528724.jpg" group-title="TECHNO Radio - radio.pervii.com", UDMI Radio - 128 kbit/s
 http://142.4.215.64:8008/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479007130.jpg" group-title="TECHNO Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
@@ -164,8 +166,10 @@ http://fullspectrumradio.com:8000
 http://91.121.118.99:8129
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448814112.jpg" group-title="TECHNO Radio - radio.pervii.com", sonus.fm - 192 kbit/s
 http://www.sonus.fm:8000/stream/3/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448814112.jpg" group-title="TECHNO Radio - radio.pervii.com", ..::: RADIO FIBRA ROMANIA...HIT CLUBBING STATION :::.. - 128 kbit/s
-http://188.165.152.44:9000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556528724.jpg" group-title="TECHNO Radio - radio.pervii.com", Euer Radio [320k mp3] - 320 kbit/s
+http://s2.euer.tv/audio320
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="TECHNO Radio - radio.pervii.com", Radio Caprice - Hardcore Techno - 128 kbit/s
+http://79.120.39.202:9001
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403795273.png" group-title="TECHNO Radio - radio.pervii.com", BASS RADIO - [www.bassradio.fm] - 128 kbit/s
 http://198.15.94.34:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="TECHNO Radio - radio.pervii.com", pure fm - Frankfurts Stadtradio - 128 kbit/s
@@ -190,13 +194,9 @@ http://btxradio.mine.nu:8000/techno
 http://212.83.172.11:8504/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578140317.jpg" group-title="TECHNO Radio - radio.pervii.com", GFM Club - Techno, Trance, Dance, Progressive - 192 kbit/s
 http://gfm.rastream.com/gfm-clubhkgfm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556528724.jpg" group-title="TECHNO Radio - radio.pervii.com", Euer Radio [320k mp3] - 320 kbit/s
-http://s2.euer.tv/audio320
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="TECHNO Radio - radio.pervii.com", Radio Caprice - Hardcore Techno - 128 kbit/s
-http://79.120.39.202:9001
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1555204244.jpg" group-title="TECHNO Radio - radio.pervii.com", RadioSputnik.nl - 192 kbit/s
+http://www.radiosputnik.nl:8002
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550931363.jpg" group-title="TECHNO Radio - radio.pervii.com", Pure Radio Holland - The Underground Channel - 192 kbit/s
+http://pureradio.eu:8000/low
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403638563.png" group-title="TECHNO Radio - radio.pervii.com", G One Radio - 128 kbit/s
 http://www.radioking.com/play/g-one-radio/977
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403638563.png" group-title="TECHNO Radio - radio.pervii.com", Modulate FM - 320 kbit/s
-http://5.152.208.98:8138/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="TECHNO Radio - radio.pervii.com", classixtechno - 128 kbit/s
-http://stream.laut.fm/classixtechno
