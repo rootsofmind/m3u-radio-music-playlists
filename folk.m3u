@@ -38,10 +38,10 @@ http://live.notafm.hu:8000/notafm.mp3
 http://proxima.shoutca.st:9045/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537444540.jpg" group-title="FOLK Radio - radio.pervii.com", Ok Radio - 192 kbit/s
 http://live3.okradio.net:8002/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550043601.jpg" group-title="FOLK Radio - radio.pervii.com", iFM Narodni Radio Topola Oplenac - 192 kbit/s
-http://91.228.254.72:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1576248100.jpg" group-title="FOLK Radio - radio.pervii.com", Pukas - 192 kbit/s
 http://82.135.234.195:8000/pukas.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550043601.jpg" group-title="FOLK Radio - radio.pervii.com", iFM Narodni Radio Topola Oplenac - 192 kbit/s
+http://91.228.254.72:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403562291.png" group-title="FOLK Radio - radio.pervii.com", ..:: RADiO LuDNiCA :: Original Croatian Internet Radio :: mjuza.net ::.. - 128 kbit/s
 http://192.111.140.6:8222/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403409233.png" group-title="FOLK Radio - radio.pervii.com", liveIreland Radio - 128 kbit/s
@@ -54,10 +54,10 @@ http://s32.myradiostream.com:16040/stream/1/
 http://188.40.62.20:8014
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550056909.jpg" group-title="FOLK Radio - radio.pervii.com", Regionalni BB Radio - Srbija - 128 kbit/s
 http://89.36.216.228:8383/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="FOLK Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: MP3 128k stereo - 128 kbit/s
-http://185.125.60.6:8080
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551185771.jpg" group-title="FOLK Radio - radio.pervii.com", Bum Radio Kraljevo,Srbija, Serbia,64kb - 64 kbit/s
 http://217.24.17.31:8102/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549632080.jpg" group-title="FOLK Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: MP3 128k stereo - 128 kbit/s
+http://185.125.60.6:8080
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554621864.jpg" group-title="FOLK Radio - radio.pervii.com", Radyo Akdeniz Antalya - 128 kbit/s
 http://95.173.162.188:9310
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102207.jpg" group-title="FOLK Radio - radio.pervii.com", RADIO IN BEOGRAD - 64 kbit/s
@@ -70,14 +70,14 @@ http://stream002.radio.hu/mr7.mp3
 http://azuraserv3.live-streams.nl:8040/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="FOLK Radio - radio.pervii.com", celtic-sounds - 128 kbit/s
 http://stream.laut.fm/celtic-sounds
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550461986.jpg" group-title="FOLK Radio - radio.pervii.com", RADIO M Plus - 128 kbit/s
-http://94.130.11.28:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1554950210.jpg" group-title="FOLK Radio - radio.pervii.com", National FM - 128 kbit/s
+http://5.2.255.163:8001
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551809081.jpg" group-title="FOLK Radio - radio.pervii.com", KAXE-KBXE - 128 kbit/s
 http://live.str3am.com:2750/kaxe
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552302483.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Klas - 64 kbit/s
 http://136.243.12.82:9014
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1554950210.jpg" group-title="FOLK Radio - radio.pervii.com", National FM - 128 kbit/s
-http://5.2.255.163:8001
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550461986.jpg" group-title="FOLK Radio - radio.pervii.com", RADIO M Plus - 128 kbit/s
+http://94.130.11.28:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550054480.jpg" group-title="FOLK Radio - radio.pervii.com", Radio HaRokdim | Powered By eCast.co.il - 128 kbit/s
 http://shoutcast.ilcast.com:8938/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="FOLK Radio - radio.pervii.com", Club Music Radio - FOLK - 320 kbit/s
@@ -92,10 +92,10 @@ http://server-24.stream-server.nl:8554/stream/1/
 http://acacia.digipal.stream:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403697346.png" group-title="FOLK Radio - radio.pervii.com", Relax Radio Folk - 128 kbit/s
 http://79.98.108.170:8060
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="FOLK Radio - radio.pervii.com", CALM RADIO - CELTIC - Sampler - 128 kbit/s
-http://23.82.11.88:3028/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559822200.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Puls Luxembourg - 128 kbit/s
 http://82.145.43.92:8312/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="FOLK Radio - radio.pervii.com", CALM RADIO - CELTIC - Sampler - 128 kbit/s
+http://23.82.11.88:3028/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550246575.jpg" group-title="FOLK Radio - radio.pervii.com", RADIO ZELENGRAD strim 1 - 128 kbit/s
 https://usa5.fastcast4u.com/proxy/pddonlcc?mp=/2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550246575.jpg" group-title="FOLK Radio - radio.pervii.com", Radio DAK - HD1 - 192 kbit/s
@@ -120,10 +120,10 @@ http://85.195.72.226:11008/stream/1/
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556550956.jpg" group-title="FOLK Radio - radio.pervii.com", ..:: Visper-Radio.com ::.. - 128 kbit/s
 http://radiostream.optiklink.com:8100/live.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549965478.jpg" group-title="FOLK Radio - radio.pervii.com", Armenian Net Radio - 128 kbit/s
-http://s1.armnetradio.com:8550/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1572768561.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Gbg folk - 128 kbit/s
 http://62.210.188.38:8050/stream/2/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549965478.jpg" group-title="FOLK Radio - radio.pervii.com", Armenian Net Radio - 128 kbit/s
+http://s1.armnetradio.com:8550/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561866722.jpg" group-title="FOLK Radio - radio.pervii.com", Favorit FM - 128 kbit/s
 http://91.250.252.251:8001
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549471596.jpg" group-title="FOLK Radio - radio.pervii.com", Piratenfamilie Radio NL - 192 kbit/s
@@ -138,13 +138,13 @@ http://radio.shoutcast.mk:8024/
 http://radio.folkbg.net:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561042862.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Folk - 128 kbit/s
 http://gra.radio.kielce.pl:8000/frmp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="FOLK Radio - radio.pervii.com", FREQUENCE 3 - WORLD [Powered by IKOULA] - 160 kbit/s
-http://abf.net-radio.fr/m2funk-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1551606375.jpg" group-title="FOLK Radio - radio.pervii.com", Antena Radio Jelah - 96 kbit/s
 http://85.25.135.86:23601
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="FOLK Radio - radio.pervii.com", Folk Forward: Indie Folk, Alt-folk and the occasional folk classics. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/folkfwd-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403771866.png" group-title="FOLK Radio - radio.pervii.com", CORPORACION LATINA - Radio Calor Huancayo - Peru, Jauja, Lima, La Oroya, Pichanaqui - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="FOLK Radio - radio.pervii.com", FREQUENCE 3 - WORLD [Powered by IKOULA] - 160 kbit/s
+http://abf.net-radio.fr/m2funk-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403771866.png" group-title="FOLK Radio - radio.pervii.com", CORPORACION LATINA - Radio Calor Huancayo - Peru, Jauja, Lima, La Oroya, Pichanaqui - 160 kbit/s
 http://corporacionlatina.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403825044.png" group-title="FOLK Radio - radio.pervii.com", Irish Country Radio - 128 kbit/s
 http://79.143.187.96:8020/stream/1/
@@ -182,17 +182,13 @@ http://64.95.243.43:8026/stream/1/
 http://clasicradio.ro:7700/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561044669.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Readymix - 320 kbit/s
 http://server-26.stream-server.nl:8522/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561044669.jpg" group-title="FOLK Radio - radio.pervii.com", WwW.RadioFolkPeru.Com - Radio Andina Online (Pedidos Musicales - WhatsApp: +51951796602) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549770919.jpg" group-title="FOLK Radio - radio.pervii.com", RADIO RILA FOLK - 128 kbit/s
+http://79.98.108.176:8016
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549770919.jpg" group-title="FOLK Radio - radio.pervii.com", WwW.RadioFolkPeru.Com - Radio Andina Online (Pedidos Musicales - WhatsApp: +51951796602) - 128 kbit/s
 http://node-23.zeno.fm/baxwy8zv3gruv
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403671036.png" group-title="FOLK Radio - radio.pervii.com", RADIO LJUBAV JAGODINA HQ - 128 kbit/s
 http://ljubav128.streaming.rs:9360/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549770919.jpg" group-title="FOLK Radio - radio.pervii.com", RADIO RILA FOLK - 128 kbit/s
-http://79.98.108.176:8016
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="FOLK Radio - radio.pervii.com", ABF WORLD [Propulsed by Frequence 3 & Powered by IKOULA] - 160 kbit/s
-http://abf.net-radio.fr/m2sunshine-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550725395.jpg" group-title="FOLK Radio - radio.pervii.com", Radio BUCA :: Novi Sad :: www.bucaradio.com :: aacPlus 48k stereo - 160 kbit/s
-http://185.125.60.6:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537499555.jpg" group-title="FOLK Radio - radio.pervii.com", irish-64aac - 160 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537499555.jpg" group-title="FOLK Radio - radio.pervii.com", irish-64aac - 128 kbit/s
 https://freshgrass.streamguys1.com/irish-64aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/106274.jpg" group-title="FOLK Radio - radio.pervii.com", 100.5 Fm Radio 105 Aktuel Bombarder - Bitola - Macedonia - 64 kbit/s
 http://radio105.makbots.com:21010/stream/1/
@@ -200,3 +196,7 @@ http://radio105.makbots.com:21010/stream/1/
 http://88.150.144.252:8250
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403639967.png" group-title="FOLK Radio - radio.pervii.com", SchottenRadio - 128 kbit/s
 http://rs13.stream24.org:8700
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1572768561.jpg" group-title="FOLK Radio - radio.pervii.com", Radio Gbg Sevdah - 128 kbit/s
+http://62.210.188.38:8050/stream/4/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="FOLK Radio - radio.pervii.com", ABF WORLD [Propulsed by Frequence 3 & Powered by IKOULA] - 160 kbit/s
+http://abf.net-radio.fr/m2sunshine-128.mp3

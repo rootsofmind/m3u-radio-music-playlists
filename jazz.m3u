@@ -92,13 +92,13 @@ http://94.75.227.133:8000/stream/1/
 http://144.217.158.59:5148
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="JAZZ Radio - radio.pervii.com", jazzloft - 128 kbit/s
 http://stream.laut.fm/jazzloft
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574511266.jpg" group-title="JAZZ Radio - radio.pervii.com", My Station name - 128 kbit/s
-http://tektite.streamguys1.com:5140/wwnojazz-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403700619.png" group-title="JAZZ Radio - radio.pervii.com", Hi On Line Jazz Radio - 320 kbit/s
 http://mediaserv38.live-streams.nl:8006/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555010442.jpg" group-title="JAZZ Radio - radio.pervii.com", DINNER CROOZE - 128 kbit/s
 http://138.201.83.14:8014/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555010442.jpg" group-title="JAZZ Radio - radio.pervii.com", Lounge Radio Deluxe (VIP) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574511266.jpg" group-title="JAZZ Radio - radio.pervii.com", My Station name - 128 kbit/s
+http://tektite.streamguys1.com:5140/wwnojazz-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574511266.jpg" group-title="JAZZ Radio - radio.pervii.com", Lounge Radio Deluxe (VIP) - 128 kbit/s
 http://94.23.252.14:8147/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537443493.jpg" group-title="JAZZ Radio - radio.pervii.com", WBGO HD2 - The Jazz Bee - 96 kbit/s
 http://wbgo.streamguys.net/thejazzstream
@@ -116,26 +116,26 @@ http://23.82.11.88:30828/stream
 http://ice8.securenetsystems.net/JAZZON2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="JAZZ Radio - radio.pervii.com", CALM RADIO - JAZZ GUITAR - Sampler - 128 kbit/s
 http://23.82.11.88:13128/stream1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563629429.jpg" group-title="JAZZ Radio - radio.pervii.com", no name - 96 kbit/s
+http://wblv.streamguys1.com/live?radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553490822.jpg" group-title="JAZZ Radio - radio.pervii.com", FREQUENCE 3 - WORLD [BACKUP] - 160 kbit/s
 http://abf.net-radio.fr/m2chillout-256.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553490822.jpg" group-title="JAZZ Radio - radio.pervii.com", love soul radio - 320 kbit/s
 http://198.100.145.185:8772/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563629429.jpg" group-title="JAZZ Radio - radio.pervii.com", no name - 96 kbit/s
-http://wblv.streamguys1.com/live?radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1551594405.jpg" group-title="JAZZ Radio - radio.pervii.com", Salsa Warriors - 128 kbit/s
 http://usa7.fastcast4u.com:6031/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="JAZZ Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
-https://vm.motionfm.com/motionthree_aacp?=3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537515045.jpg" group-title="JAZZ Radio - radio.pervii.com", Radio Jazz 89.1 FM - 64 kbit/s
 http://nashe1.hostingradio.ru/jazz-64.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537515045.jpg" group-title="JAZZ Radio - radio.pervii.com", hr2 - 128 kbit/s
 http://listen.radionomy.com:80/101SMOOTHJAZZ
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="JAZZ Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motionthree_aacp?=3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="JAZZ Radio - radio.pervii.com", CALM RADIO - JAZZ VOCALISTS - Sampler - 128 kbit/s
 http://23.82.11.88:8028/stream1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="JAZZ Radio - radio.pervii.com", 95.5 Smooth Jazz Radio - 128 kbit/s
+http://144.217.158.59:5176/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="JAZZ Radio - radio.pervii.com", [RMF SMOOTH JAZZ ] - 128 kbit/s
 http://rs8-krk2-cyfronet.rmfstream.pl/SJAZZ
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="JAZZ Radio - radio.pervii.com", 95.5 Smooth Jazz Radio - 128 kbit/s
-http://144.217.158.59:5176/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="JAZZ Radio - radio.pervii.com", OkoloJazza - 256 kbit/s
 http://109.170.8.130:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1551362344.jpg" group-title="JAZZ Radio - radio.pervii.com", The Pittsburgh Jazz Channel - 256 kbit/s

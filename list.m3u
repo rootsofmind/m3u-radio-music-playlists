@@ -182,12 +182,12 @@ http://111.gr:8000/stream/1/
 http://163.172.7.220:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title=" Radio - radio.pervii.com", Radio Regenbogen Top40 - 128 kbit/s
 http://streams.regenbogen.de/rr-top40-128-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1485873236.jpg" group-title=" Radio - radio.pervii.com", FREQUENCE 3 - DANCE [BACKUP] - 256 kbit/s
+http://ice.stream.frequence3.net:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/83981.jpg" group-title=" Radio - radio.pervii.com", Zabavni Radio - 128 kbit/s
 http://217.172.184.117:8585/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1586060722.jpg" group-title=" Radio - radio.pervii.com", Top Latino Radio - 128 kbit/s
 http://173.236.60.186:8028/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1485873236.jpg" group-title=" Radio - radio.pervii.com", FREQUENCE 3 - DANCE [BACKUP] - 256 kbit/s
-http://ice.stream.frequence3.net:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403803827.png" group-title=" Radio - radio.pervii.com", Lav Radio Mix HD - Armenian Music Radio - 256 kbit/s
 http://163.172.7.220:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578468727.jpg" group-title=" Radio - radio.pervii.com", Radio Delta Lebanon - 128 kbit/s
@@ -198,5 +198,5 @@ http://78.46.149.16:8187/stream/3/
 http://live7.avf.ch:8000/ipmusic320
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561037381.jpg" group-title=" Radio - radio.pervii.com", Park Radio - 192 kbit/s
 http://51.255.127.128:8026/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561037381.jpg" group-title=" Radio - radio.pervii.com", SuriLite Online Radio - 128 kbit/s
-http://144.217.129.213:8221/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561037381.jpg" group-title=" Radio - radio.pervii.com", ChartHits.FM - Top 40 Radio - Mega Hot Music! by RauteMusik.FM - 128 kbit/s
+http://listen.radionomy.com:80/Hitkanalfm

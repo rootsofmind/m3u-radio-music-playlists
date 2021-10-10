@@ -132,10 +132,10 @@ http://85.214.231.253:8080/stream/1/
 http://209.126.97.239:443/stream/14/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403776470.png" group-title="POP Radio - radio.pervii.com", radio SOMES - traditie si folclor - 128 kbit/s
 http://185.57.81.51:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403639168.png" group-title="POP Radio - radio.pervii.com", Radio Ultra - 128 kbit/s
-http://88.80.96.25:8020
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1551188556.jpg" group-title="POP Radio - radio.pervii.com", FamilyRadio - 128 kbit/s
 http://www.clubfmserver.be:8000/family.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403639168.png" group-title="POP Radio - radio.pervii.com", Radio Ultra - 128 kbit/s
+http://88.80.96.25:8020
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/65057.jpg" group-title="POP Radio - radio.pervii.com", LALUNA - 160 kbit/s
 http://stream.m-1.fm/laluna/mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10990.jpg" group-title="POP Radio - radio.pervii.com", FUN Radio CS - 128 kbit/s
@@ -172,26 +172,24 @@ http://live.shtorm.fm:8000/mp3_club
 http://80.232.162.149:8000/rock96mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/20006.jpg" group-title="POP Radio - radio.pervii.com", I Love New Pop by ilovemusic.de - 128 kbit/s
 http://stream01.iloveradio.de/iloveradio11.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551545501.jpg" group-title="POP Radio - radio.pervii.com", Keizerstad Classics - 192 kbit/s
-http://server-06.stream-server.nl:8800/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551545501.jpg" group-title="POP Radio - radio.pervii.com", Trendy Radio Online 128kbps - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/20006.jpg" group-title="POP Radio - radio.pervii.com", Trendy Radio Online 128kbps - 128 kbit/s
 http://stream.trendyradio.pl:8000/mi
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="POP Radio - radio.pervii.com", wunschradio.fm Top100 - 320 kbit/s
 http://server14.radiostreamserver.de:80/wunschradio-top100.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551545501.jpg" group-title="POP Radio - radio.pervii.com", Keizerstad Classics - 192 kbit/s
+http://server-06.stream-server.nl:8800/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550043601.jpg" group-title="POP Radio - radio.pervii.com", iFM Narodni Radio Topola Oplenac - 192 kbit/s
+http://91.228.254.72:7000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 192 kbit/s
+http://online.volgogradfm.ru:8000/99i1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537441158.jpg" group-title="POP Radio - radio.pervii.com", Radio Aktual D - 128 kbit/s
 http://stream.radioaktual.si/AktualD
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550043601.jpg" group-title="POP Radio - radio.pervii.com", iFM Narodni Radio Topola Oplenac - 128 kbit/s
-http://91.228.254.72:7000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 128 kbit/s
-http://online.volgogradfm.ru:8000/99i1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1551164915.jpg" group-title="POP Radio - radio.pervii.com", Radio VIVA - 128 kbit/s
 http://stream.sepia.sk:8000/viva128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg" group-title="POP Radio - radio.pervii.com", J-Pop Powerplay Kawaii - 128 kbit/s
 https://kathy.torontocast.com:3060/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572889764.jpg" group-title="POP Radio - radio.pervii.com", Bylgjan - 128 kbit/s
 http://icecast.visir.is:8000/orbbylgjan.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1469653915.jpg" group-title="POP Radio - radio.pervii.com", Russkoe FM - 192 kbit/s
-http://radio.russkoe.fm:8000/russkoefm_192_mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="POP Radio - radio.pervii.com", LiteFavorites.com - Today&#039;s Hits &amp; Yesterday&#039;s Favorites - 128 kbit/s
 http://naxos.cdnstream.com/1255_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549885939.jpg" group-title="POP Radio - radio.pervii.com", DENGERIN MUSIK INDONESIA - 64 kbit/s
@@ -200,3 +198,5 @@ http://stream.denger.in:8888/dmi_autodj
 http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="POP Radio - radio.pervii.com", ANTENNE BAYERN Black Beatz - 128 kbit/s
 http://mp3channels.webradio.antenne.de/black-beatz.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1469653915.jpg" group-title="POP Radio - radio.pervii.com", Russkoe FM - 192 kbit/s
+http://radio.russkoe.fm:8000/russkoefm_192_mp3

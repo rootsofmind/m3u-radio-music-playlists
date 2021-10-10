@@ -92,32 +92,34 @@ http://stream.zenolive.com/wx4gnwf8rz4tv
 https://vm.motionfm.com/motionone_aacp?=2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", CALMRADIO.COM - Ambient Lounge - 128 kbit/s
 http://23.82.11.88:6628/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537548093.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", 1940s UK Radio Server 3 - 128 kbit/s
+http://149.255.59.162:8062
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1574356011.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Radio FM4 - 128 kbit/s
 https://orf-live.ors-shoutcast.at/fm4-q1a
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", laut.fm eins - 128 kbit/s
 http://stream.laut.fm/eins
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", Le Son Parisien [Paris, France] - 192 kbit/s
 http://stream.lesonparisien.com:80/hi
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537548093.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", 1940s UK Radio Server 3 - 192 kbit/s
-http://149.255.59.162:8062
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551053751.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Audioboxlive DJ Radio - 128 kbit/s
-http://149.56.175.167:5068/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572762976.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", 2ks-dance-radio | Eurodance and Italodance - 128 kbit/s
 http://hazel.torontocast.com:1295/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572762976.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", ART OF MUSIC • Web Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551053751.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Audioboxlive DJ Radio - 128 kbit/s
+http://149.56.175.167:5068/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551053751.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", ART OF MUSIC • Web Radio - 128 kbit/s
 http://46.105.111.94:8024/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/106414.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", ElectricFM.com - America&#039;s Real Dance! - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1551053751.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", plusfm radio - 192 kbit/s
+http://51.15.169.131:80/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/106414.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", ElectricFM.com - America&#039;s Real Dance! - 192 kbit/s
 http://stream64.electricfm.com
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561137121.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", CoreTime.FM - 24h Hardcore, Industrial, Speedcore and More - 192 kbit/s
 http://mp3.stream.tb-group.fm:80/ct.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556647216.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Original Electronic Music Radio - 128 kbit/s
 http://167.114.64.181:8454/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556647216.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", plusfm radio - 192 kbit/s
-http://51.15.169.131:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556647216.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", VKNET Radio Station 2 - 256 kbit/s
 http://78.72.52.223:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556647216.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", StarDust Space Radio - http://www.stardustradio.space/ - 128 kbit/s
 http://cast.stardustradio.space:8000/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", Laut.fm al dente - 128 kbit/s
+http://stream.laut.fm/al-dente
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", pure fm - hamburgs electronic radio - 128 kbit/s
 http://s1.radionetz.de:8000/purefm-hh.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1560960608.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", dinamo.fm legacy - 128 kbit/s
@@ -126,16 +128,14 @@ http://channels.dinamo.fm/legacy-mp3
 http://air.verdure.net:8881/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", LOLLIRADIO DANCE - Dance &amp; House Hits - Italy Italia - 128 kbit/s
 http://dance.lolliradio.net:8030
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", Laut.fm al dente - 128 kbit/s
-http://stream.laut.fm/al-dente
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Metaradio - 96 kbit/s
+http://s2.metaradio.ru:80/mradio.aacp
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549714272.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", DEEP HOUSE LOUNGE - [www.deephouselounge.com] - 128 kbit/s
 http://198.15.94.34:8030/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561118831.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", : IbizaSonica : - 128 kbit/s
 http://s3.sonicabroadcast.com:8136/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1555239849.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Pro FM 24/7 Danceclassics &amp; Dancehits - 320 kbit/s
 http://stream.pro-fm.net:8200/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1555239849.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Metaradio - 96 kbit/s
-http://s2.metaradio.ru:80/mradio.aacp
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Mission Control: Celebrating NASA and space explorers everywhere. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/missioncontrol-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", DI Radio Digital Impulse - Paradise Trance - 320 kbit/s
@@ -176,27 +176,27 @@ http://stream.laut.fm/eurodance
 http://139.162.242.244:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", Gri Balkon - 128 kbit/s
 http://37.59.28.208:8762/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", Radio MRS - 128 kbit/s
-http://play.radiomrs.com:7494/stream/1/
 #EXTINF:-1 tvg-logo="" group-title="ELECTRONIC Radio - radio.pervii.com", Interstellar Radio Station - 128 kbit/s
 http://76.127.212.202:9000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550726069.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", AmbientRadio (MRG.fm) - 128 kbit/s
-http://62.149.196.16:8888/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", wambo - 128 kbit/s
 http://stream.laut.fm/wambo
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", laut.fm pstereo - 128 kbit/s
 http://stream.laut.fm/pstereo
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ELECTRONIC Radio - radio.pervii.com", Radio MRS - 128 kbit/s
+http://play.radiomrs.com:7494/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550726069.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", AmbientRadio (MRG.fm) - 128 kbit/s
+http://62.149.196.16:8888/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550726069.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", Deep Space Radio - 128 kbit/s
+http://deepspaceradio2.streamguys1.com:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1562175256.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", #1 DANCEableRADIO - 128 kbit/s
 http://176.31.244.83:35944/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403799052.png" group-title="ELECTRONIC Radio - radio.pervii.com", Radio 92100 - Novantaduecento - 192 kbit/s
 http://91.121.174.201:8039/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403799052.png" group-title="ELECTRONIC Radio - radio.pervii.com", Deep Space Radio - 128 kbit/s
-http://deepspaceradio2.streamguys1.com:80/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403695351.png" group-title="ELECTRONIC Radio - radio.pervii.com", ElectroN - 128 kbit/s
-http://radio-electron.ru:8000/128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403695351.png" group-title="ELECTRONIC Radio - radio.pervii.com", 00o EKO DES GARRIGUES o00 live radio from montpellier [f][128k][mp3] - 128 kbit/s
-http://91.121.159.124:8000/eko-des-garrigues-128k.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403695351.png" group-title="ELECTRONIC Radio - radio.pervii.com", Radio Talsi .:: Intelligent Electronic Music ::. - 256 kbit/s
-http://radio.kuums.lv:6555/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403713989.png" group-title="ELECTRONIC Radio - radio.pervii.com", 100% Radio-Zoom.de - 128 kbit/s
 http://office.radio-zoom.de:80/192k-backup.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403713989.png" group-title="ELECTRONIC Radio - radio.pervii.com", GloballyRelaxed Stream - 128 kbit/s
+http://perseus.shoutca.st:8775/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556642436.jpg" group-title="ELECTRONIC Radio - radio.pervii.com", House Station Radio - 128 kbit/s
+http://94.23.6.107:8178/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403695351.png" group-title="ELECTRONIC Radio - radio.pervii.com", ElectroN - 128 kbit/s
+http://radio-electron.ru:8000/128

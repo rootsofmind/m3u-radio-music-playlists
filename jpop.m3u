@@ -12,10 +12,10 @@ https://igor.torontocast.com:1025/stream
 http://audio.misproductions.com/japan48kaacp
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru Relax - 96 kbit/s
 http://sanfm.ru:8000/relax
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1572709309.jpg" group-title="JPOP Radio - radio.pervii.com", Gdynia Radio - 128 kbit/s
-http://51.255.8.139:8064/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg" group-title="JPOP Radio - radio.pervii.com", J-Pop Sakura - 128 kbit/s
 https://igor.torontocast.com:1710/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1572709309.jpg" group-title="JPOP Radio - radio.pervii.com", Gdynia Radio - 128 kbit/s
+http://51.255.8.139:8064/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550032414.jpg" group-title="JPOP Radio - radio.pervii.com", JPHiP Radio - 128 kbit/s
 http://5.79.86.161:8800
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru Pop - 128 kbit/s
@@ -26,12 +26,12 @@ http://radios.viaflux.com:1360/live.aac
 http://178.218.221.73:8000/relax
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", Otaku no Radio! - 128 kbit/s
 http://radio.otakunopodcast.com:8000/otakunoradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru New Hits Station - 128 kbit/s
-http://178.218.221.73:8000/pop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru Drum and bass - 128 kbit/s
 http://sanfm.ru:8000/drum_nonstop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru Alternative - 96 kbit/s
 http://sanfm.ru:8000/alternative
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru New Hits Station - 128 kbit/s
+http://178.218.221.73:8000/pop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="JPOP Radio - radio.pervii.com", SanFM.ru New Alternative Station - 96 kbit/s
 http://178.218.221.73:8000/alternative
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561224706.jpg" group-title="JPOP Radio - radio.pervii.com", Friends Forever - 128 kbit/s
