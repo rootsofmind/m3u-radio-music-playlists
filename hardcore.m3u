@@ -48,9 +48,9 @@ http://83.137.145.141:14280
 http://138.201.209.117:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Caprice - Hardcore Techno - 128 kbit/s
 http://79.120.39.202:9001
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="HARDCORE Radio - radio.pervii.com", 45area.mydns.jp - stream - - 128 kbit/s
-http://153.121.55.34:57058
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="HARDCORE Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
 http://donleone.online:8448/hardcore?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="HARDCORE Radio - radio.pervii.com", Liquid Hardcore and Speedcore Radio - 192 kbit/s
 http://liquiddoom.net:8000/hardcore
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="HARDCORE Radio - radio.pervii.com", 45area.mydns.jp - stream - - 128 kbit/s
+http://153.121.55.34:57058

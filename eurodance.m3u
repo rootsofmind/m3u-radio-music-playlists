@@ -24,18 +24,18 @@ http://79.120.39.202:9003
 http://mp3.hitradiort1.c.nmdn.net/rt1eurodancewl/livestream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550330651.jpg" group-title="EURODANCE Radio - radio.pervii.com", Hitradio Polska - 128 kbit/s
 http://51.255.8.139:9090/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1435600096.jpg" group-title="EURODANCE Radio - radio.pervii.com", BeirutNights.com Radio (AAC RELAY) Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
-http://s2.byblosnights.com:6190
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537460413.jpg" group-title="EURODANCE Radio - radio.pervii.com", Top Trash Station - 128 kbit/s
 http://94.130.133.39/toptrashstation.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1435600096.jpg" group-title="EURODANCE Radio - radio.pervii.com", BeirutNights.com Radio (AAC RELAY) Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
+http://s2.byblosnights.com:6190
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="EURODANCE Radio - radio.pervii.com", Radio Studio Souto - Eurodance 90s - 128 kbit/s
 https://centova5.transmissaodigital.com:20016/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559903485.jpg" group-title="EURODANCE Radio - radio.pervii.com", Hitradio (Twoje radio, Twoje przeboje) - 128 kbit/s
 http://51.255.8.139:9090
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559903485.jpg" group-title="EURODANCE Radio - radio.pervii.com", RADIO.IPIP.CZ: FreestyleFM - 128 kbit/s
-http://sc.ipip.cz:8044
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="EURODANCE Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
 http://donleone.online:8448/classic_eurodance?testpass
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="EURODANCE Radio - radio.pervii.com", RADIO.IPIP.CZ: FreestyleFM - 128 kbit/s
+http://sc.ipip.cz:8044
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/74349.jpg" group-title="EURODANCE Radio - radio.pervii.com", FFH EURODANCE - 128 kbit/s
 http://mp3.ffh.de/ffhchannels/hqeurodance.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1468605501.jpg" group-title="EURODANCE Radio - radio.pervii.com", 90s Eurodance - 128 kbit/s

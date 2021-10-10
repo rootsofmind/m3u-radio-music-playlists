@@ -48,27 +48,27 @@ http://ice1.somafm.com/digitalis-128-mp3
 http://195.154.250.208:8000/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559811036.jpg" group-title="INDIE Radio - radio.pervii.com", TheIndieBlend - 128 kbit/s
 http://listen.radionomy.com:80/TheIndieBlend
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549706701.jpg" group-title="INDIE Radio - radio.pervii.com", 100Hitz - Indie - 128 kbit/s
+http://gr02.cdnstream.com:8360
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403589051.png" group-title="INDIE Radio - radio.pervii.com", Radio Efimera - 128 kbit/s
 http://173.247.242.245:8080/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", indiegoestohollywood - 128 kbit/s
 http://stream.laut.fm/indiegoestohollywood
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1559956509.jpg" group-title="INDIE Radio - radio.pervii.com", KOOL ROCK RADIO - 128 kbit/s
 http://stream.infomagia.com:8015/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549706701.jpg" group-title="INDIE Radio - radio.pervii.com", 100Hitz - Indie - 128 kbit/s
-http://gr02.cdnstream.com:8360
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549706701.jpg" group-title="INDIE Radio - radio.pervii.com", KNWD Radio The Demon - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1559956509.jpg" group-title="INDIE Radio - radio.pervii.com", KNWD Radio The Demon - 128 kbit/s
 http://46.105.122.141:10900/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549706701.jpg" group-title="INDIE Radio - radio.pervii.com", Brum Radio - Birmingham - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1559956509.jpg" group-title="INDIE Radio - radio.pervii.com", Brum Radio - Birmingham - 128 kbit/s
 http://uk3.internet-radio.com:11168/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1560955829.jpg" group-title="INDIE Radio - radio.pervii.com", Y-Not Radio - 128 kbit/s
+http://kmr.iad.streamguys1.com:80/ynot
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560873956.jpg" group-title="INDIE Radio - radio.pervii.com", Guerrilla Radio - 128 kbit/s
 http://s2.stationplaylist.com:9462/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="INDIE Radio - radio.pervii.com", The Indie Show - 128 kbit/s
 http://199.101.51.168:8008/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="INDIE Radio - radio.pervii.com", MEDIATICA.FM - 128 kbit/s
 http://192.99.8.170:9144/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1560955829.jpg" group-title="INDIE Radio - radio.pervii.com", Y-Not Radio - 128 kbit/s
-http://kmr.iad.streamguys1.com:80/ynot
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1560955829.jpg" group-title="INDIE Radio - radio.pervii.com", Radyo K.İ - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="INDIE Radio - radio.pervii.com", Radyo K.İ - 128 kbit/s
 http://radyoki.kocaeli.edu.tr:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662035.png" group-title="INDIE Radio - radio.pervii.com", IndieSF.com - 128 kbit/s
 http://144.217.233.87:8618
@@ -76,6 +76,8 @@ http://144.217.233.87:8618
 http://sc4.mystreamserver.com:8012
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="INDIE Radio - radio.pervii.com", Bear Radio Network 128 - 128 kbit/s
 http://107.181.227.250:8044/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="INDIE Radio - radio.pervii.com", RADIO ROKKO - Copyleft Pop Station - Italian WebRadio - www.radiorokko.com - 128 kbit/s
+http://144.217.203.229:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", mehrgags - 128 kbit/s
 http://stream.laut.fm/mehrgags
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1584706581.jpg" group-title="INDIE Radio - radio.pervii.com", Arzuk Radio - 96 kbit/s
@@ -84,8 +86,8 @@ http://quasar.shoutca.st:8426/stream/1/
 http://gr02.cdnstream.com:8330
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="INDIE Radio - radio.pervii.com", SONGCAST RADIO - Alternative - 128 kbit/s
 http://songcastradio.com:9010/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="INDIE Radio - radio.pervii.com", RADIO ROKKO - Copyleft Pop Station - Italian WebRadio - www.radiorokko.com - 128 kbit/s
-http://144.217.203.229:80
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555083491.jpg" group-title="INDIE Radio - radio.pervii.com", Rosa Scotia Radio | Commercial Free Indie Pop - 320 kbit/s
+http://167.114.64.181:8329/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Regenbogen Indie-Rock - 128 kbit/s
 http://streams.regenbogen.de/rr-indierock-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="INDIE Radio - radio.pervii.com", Lonely Oak radio - 256 kbit/s
@@ -104,9 +106,9 @@ http://79.111.119.111:9111
 http://91.121.165.88:8196/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="INDIE Radio - radio.pervii.com", We On Radio - 128 kbit/s
 http://149.56.157.81:8728/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555083491.jpg" group-title="INDIE Radio - radio.pervii.com", Rosa Scotia Radio | Commercial Free Indie Pop - 320 kbit/s
-http://167.114.64.181:8329/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122014.jpg" group-title="INDIE Radio - radio.pervii.com", WMNF HD-2 - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Caprice - Indie Folk - 128 kbit/s
+http://79.111.14.76:9117
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122014.jpg" group-title="INDIE Radio - radio.pervii.com", WMNF HD-2 - 128 kbit/s
 http://stream.wmnf.org:8000/wmnf_hd2
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572867676.jpg" group-title="INDIE Radio - radio.pervii.com", Adictivo Radio - 192 kbit/s
 http://46.105.120.165:9504/stream/1/
@@ -116,8 +118,8 @@ http://107.181.227.250:8046/stream/1/
 http://149.56.157.81:8800/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403654346.png" group-title="INDIE Radio - radio.pervii.com", RadioBue.it - 128 kbit/s
 http://147.162.19.241:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Caprice - Indie Folk - 128 kbit/s
-http://79.111.14.76:9117
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662011.png" group-title="INDIE Radio - radio.pervii.com", ** Hot 107 Jamz** - 128 kbit/s
+http://149.56.157.81:8788/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1455416021.jpg" group-title="INDIE Radio - radio.pervii.com", radio stelle rubate - 128 kbit/s
 http://stream.zeno.fm/2smkqkhe8tzuv
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Caprice - Indie&#47;Twee Pop - 128 kbit/s
@@ -140,11 +142,11 @@ http://206.244.84.72:8000/stream/1/
 http://87.117.193.47:8060
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", XRQK Las Vegas - 128 kbit/s
 http://162.244.80.139:8075
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662011.png" group-title="INDIE Radio - radio.pervii.com", ** Hot 107 Jamz** - 128 kbit/s
-http://149.56.157.81:8788/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662011.png" group-title="INDIE Radio - radio.pervii.com", Indie Central Radio - Unapologetically Indie - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", BlastFM Indie Radio Station - 256 kbit/s
+http://46.101.24.19:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", Indie Central Radio - Unapologetically Indie - 256 kbit/s
 http://192.254.215.245:8003/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403414537.png" group-title="INDIE Radio - radio.pervii.com", WPTS-FM Live (20bps mono) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403414537.png" group-title="INDIE Radio - radio.pervii.com", WPTS-FM Live (20bps mono) - 256 kbit/s
 http://audio.wpts.pitt.edu:8000/wpts_live_20m.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403414537.png" group-title="INDIE Radio - radio.pervii.com", Radio Alpa - 192 kbit/s
 http://80.14.189.61:8000/stream/1/
@@ -160,8 +162,6 @@ http://listen.radionomy.com:80/LaParrandera
 http://ice3.somafm.com/indiepop-64-aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", KNJO Thousand Oaks - 128 kbit/s
 http://162.244.80.139:8073
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", BlastFM Indie Radio Station - 256 kbit/s
-http://46.101.24.19:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", Laut.fm pop klub - 128 kbit/s
 http://stream.laut.fm/popklub
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537517064.jpg" group-title="INDIE Radio - radio.pervii.com", Soundstorm-radio.com Relax Radio - Electronic Pop Indie World - 128 kbit/s

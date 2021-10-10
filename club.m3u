@@ -76,12 +76,12 @@ http://s1.radionetz.de:8000/purefm-hh.mp3
 https://listen.radioking.com/radio/324967/stream/374263?=1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572741740.jpg" group-title="CLUB Radio - radio.pervii.com", Clube FM - 64 kbit/s
 http://209.126.97.239:443/stream/36/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572741740.jpg" group-title="CLUB Radio - radio.pervii.com", Rádio Clube de Marabá - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CLUB Radio - radio.pervii.com", Club 85 - 128 kbit/s
+http://stream.laut.fm/club85
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CLUB Radio - radio.pervii.com", Rádio Clube de Marabá - 96 kbit/s
 http://hts02.kshost.com.br:8842/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550729012.jpg" group-title="CLUB Radio - radio.pervii.com", Radio HiT Mix Romania - Te scoate din Normal - 128 kbit/s
 http://137.74.148.249:8989/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CLUB Radio - radio.pervii.com", Club 85 - 128 kbit/s
-http://stream.laut.fm/club85
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", Club Music Radio - POP &amp; DANCE - 320 kbit/s
 http://cmr-hosting.com:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", Club Music Radio - ITALO DISCO - 320 kbit/s
@@ -90,10 +90,10 @@ http://cmr-hosting.com:8050/stream/1/
 http://ipip.clubradio.cz:7996
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/65934.jpg" group-title="CLUB Radio - radio.pervii.com", RussianRoulette / LONDON / RUSSIAN TOP 100 *HOUSE*ELECTRO*POP*RNB*CLUB*DISCO 90s REMIXES - 128 kbit/s
 http://149.202.22.75:8134/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1555245587.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Dijaspora: Club Mix - 128 kbit/s
-http://94.249.254.11:9050/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CLUB Radio - radio.pervii.com", laut.fm pocketradio - 128 kbit/s
 http://stream.laut.fm/pocketradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1555245587.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Dijaspora: Club Mix - 128 kbit/s
+http://94.249.254.11:9050/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551523757.jpg" group-title="CLUB Radio - radio.pervii.com", kronehit clubland - 128 kbit/s
 http://onair.krone.at/kronehit-clubland.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1578031942.jpg" group-title="CLUB Radio - radio.pervii.com", 90s90s - ClubHits - 192 kbit/s
@@ -114,50 +114,54 @@ http://radio.soullive.ru:8000/soul128
 http://streams.bigfm.de/bigfm-urbanclubbeats-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594524669.jpg" group-title="CLUB Radio - radio.pervii.com", clubradiohitkeller - 128 kbit/s
 http://server30799.streamplus.de:10032
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594524669.jpg" group-title="CLUB Radio - radio.pervii.com", Club Radio One - 128 kbit/s
+http://all.rmin.co.uk:8000/rmin.mp3?
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594524669.jpg" group-title="CLUB Radio - radio.pervii.com", Devil-Sound-Club - 128 kbit/s
+http://listen.radionomy.com:80/Devil-Sound-Club
 #EXTINF:-1 tvg-logo="" group-title="CLUB Radio - radio.pervii.com", Radio Club 80 HD - 320 kbit/s
 http://play.enhd.co:7024
-#EXTINF:-1 tvg-logo="" group-title="CLUB Radio - radio.pervii.com", Club Radio One - 128 kbit/s
-http://all.rmin.co.uk:8000/rmin.mp3?
-#EXTINF:-1 tvg-logo="" group-title="CLUB Radio - radio.pervii.com", Devil-Sound-Club - 128 kbit/s
-http://listen.radionomy.com:80/Devil-Sound-Club
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Studio Souto - Clube da Crianca - 56 kbit/s
-https://centova5.transmissaodigital.com:20011/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555142906.jpg" group-title="CLUB Radio - radio.pervii.com", stlclubradio.com - 128 kbit/s
-http://91.121.134.23:8276/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553429775.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Expert Romania - www.RadioExpert.ro - 128 kbit/s
 http://live1.radioexpert.ro:8889/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="CLUB Radio - radio.pervii.com", yugotopia-beat-club - 128 kbit/s
 http://stream.laut.fm/yugotopia-beat-club
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559578336.jpg" group-title="CLUB Radio - radio.pervii.com", ClubTime.FM - 24h Deep-, Tech- and Minimal House and Techno - 192 kbit/s
-http://mp3.stream.tb-group.fm/clt.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102594.jpg" group-title="CLUB Radio - radio.pervii.com", ClubbersFM FM  Dance in The mirror - 128 kbit/s
-http://5.196.250.109:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1555120575.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Studio Souto - Clube da Crianca - 56 kbit/s
+https://centova5.transmissaodigital.com:20011/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555142906.jpg" group-title="CLUB Radio - radio.pervii.com", stlclubradio.com - 128 kbit/s
+http://91.121.134.23:8276/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10921.jpg" group-title="CLUB Radio - radio.pervii.com", depiratenclub - 192 kbit/s
 http://server2.streamcontrol.eu:20144/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10921.jpg" group-title="CLUB Radio - radio.pervii.com", Magic FM Club 80s - Your Source For All Things Club 80s! - 128 kbit/s
 http://158.69.114.190:8014/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10921.jpg" group-title="CLUB Radio - radio.pervii.com", Intense Radio - We love Dance - 192 kbit/s
 http://secure.live-streams.nl:80/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561199762.jpg" group-title="CLUB Radio - radio.pervii.com", Bedroom-dj Scouse/Bounce/Club - 320 kbit/s
-http://46.28.49.164:7663/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", Club Music Radio - ExYU POP-ROCK - 320 kbit/s
-http://cmr-hosting.com:8080/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Caprice - Russian Club Dance - 128 kbit/s
-http://79.120.77.11:9033
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559578336.jpg" group-title="CLUB Radio - radio.pervii.com", ClubTime.FM - 24h Deep-, Tech- and Minimal House and Techno - 192 kbit/s
+http://mp3.stream.tb-group.fm/clt.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102594.jpg" group-title="CLUB Radio - radio.pervii.com", ClubbersFM FM  Dance in The mirror - 128 kbit/s
+http://5.196.250.109:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832128.png" group-title="CLUB Radio - radio.pervii.com", DigitalClubRadio - 192 kbit/s
 http://149.202.22.75:8024/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561199762.jpg" group-title="CLUB Radio - radio.pervii.com", Bedroom-dj Scouse/Bounce/Club - 320 kbit/s
+http://46.28.49.164:7663/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Caprice - Russian Club Dance - 128 kbit/s
+http://79.120.77.11:9033
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", Club Music Radio - ExYU POP-ROCK - 320 kbit/s
+http://cmr-hosting.com:8080/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28051.jpg" group-title="CLUB Radio - radio.pervii.com", Super Club-Radio International  (www.superclub-radio.de) Besuchen Sie auch unsere LIVE- TV-Sendungen   mit Sir Barry und Graf Kotti - 128 kbit/s
 http://s11.pop-stream.de:11160
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550497534.jpg" group-title="CLUB Radio - radio.pervii.com", RADIO.IPIP.CZ: Calimeroclub Radio - 128 kbit/s
 http://sc.ipip.cz:8052
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550497534.jpg" group-title="CLUB Radio - radio.pervii.com", ..::: RADIO FIBRA ROMANIA...HIT CLUBBING STATION :::.. - 128 kbit/s
-http://188.165.152.44:9000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550497534.jpg" group-title="CLUB Radio - radio.pervii.com", Divine Club Worldwide Radio - 64 kbit/s
-http://68.168.101.146:8555
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="CLUB Radio - radio.pervii.com", NAXI CLUBBING RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 48k - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="CLUB Radio - radio.pervii.com", NAXI CLUBBING RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 48k - 128 kbit/s
 http://109.206.96.34:8095
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", Club Music Radio - 70&#039;s 80&#039;s 90&#039;s - 320 kbit/s
 http://cmr-hosting.com:8030/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", ..::: RADIO FIBRA ROMANIA...HIT CLUBBING STATION :::.. - 128 kbit/s
+http://188.165.152.44:9000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", Divine Club Worldwide Radio - 64 kbit/s
+http://68.168.101.146:8555
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", JR.FM Mainstream Club Radio - 320 kbit/s
+http://149.56.157.81:5088/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", amigosdoclubedacidade - 320 kbit/s
+http://streaming13.hstbr.net:8070/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="CLUB Radio - radio.pervii.com", OrangeLine Radio -- Japanese Club Sounds -- - 256 kbit/s
 http://61.194.62.8:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561499756.jpg" group-title="CLUB Radio - radio.pervii.com", Radio Club Network - 192 kbit/s
@@ -172,17 +176,17 @@ http://213.186.61.62:8410
 http://gfm.rastream.com/gfm-clubhkgfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578140317.jpg" group-title="CLUB Radio - radio.pervii.com", (( RADIOPOLO.NET - MUZYKA HITY - 80&#039;s, 90&#039;s, Disco Polo, Dance, Club )) - Lepsze niz VOX FM, RMF FM, radio ZET, radio Eska, Planeta FM - www.radiomh.pl - 128 kbit/s
 http://91.121.139.101:9000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578140317.jpg" group-title="CLUB Radio - radio.pervii.com", Pearl Jam&#039;s 10 Club Radio - 128 kbit/s
-http://radio.nugs.net/pearljam
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="CLUB Radio - radio.pervii.com", pure fm - Frankfurts Stadtradio - 128 kbit/s
 http://s1.radionetz.de:8000/purefm-ff.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="CLUB Radio - radio.pervii.com", Pearl Jam&#039;s 10 Club Radio - 128 kbit/s
+http://radio.nugs.net/pearljam
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12472.jpg" group-title="CLUB Radio - radio.pervii.com", MDR SPUTNIK Club Channel - 128 kbit/s
 http://addrad.io/4WRG8y
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12472.jpg" group-title="CLUB Radio - radio.pervii.com", JR.FM Mainstream Club Radio - 320 kbit/s
-http://149.56.157.81:5088/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12472.jpg" group-title="CLUB Radio - radio.pervii.com", amigosdoclubedacidade - 320 kbit/s
-http://streaming13.hstbr.net:8070/autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479008169.jpg" group-title="CLUB Radio - radio.pervii.com", RadioC2 Message - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550550142.jpg" group-title="CLUB Radio - radio.pervii.com", Club-Generation - 128 kbit/s
+http://streamplus52.leonex.de:10020
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550550142.jpg" group-title="CLUB Radio - radio.pervii.com", Intense Radio - We love Dance 192k - 192 kbit/s
+http://stream.intenseradio.net:8000/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479008169.jpg" group-title="CLUB Radio - radio.pervii.com", RadioC2 Message - 192 kbit/s
 http://donleone.online:8448/club_sounds?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1479008169.jpg" group-title="CLUB Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
 http://dix393.de:9011
@@ -190,13 +194,9 @@ http://dix393.de:9011
 http://89.32.44.110:8282
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403571574.png" group-title="CLUB Radio - radio.pervii.com", hitxl1_clubsound - 128 kbit/s
 http://hitxl1clubsound.stream.laut.fm/hitxl1_clubsound
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634268.png" group-title="CLUB Radio - radio.pervii.com", Radio Expert Manele Romania - 128 kbit/s
-http://live1.radioexpert.ro:8889/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553702261.jpg" group-title="CLUB Radio - radio.pervii.com", The Paul Parent Garden Club Show - High Bitrate - 32 kbit/s
 http://flow01.gcnlive.com/paulParent-hi.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553702261.jpg" group-title="CLUB Radio - radio.pervii.com", Club80DJS - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634268.png" group-title="CLUB Radio - radio.pervii.com", Radio Expert Manele Romania - 128 kbit/s
+http://live1.radioexpert.ro:8889/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634268.png" group-title="CLUB Radio - radio.pervii.com", Club80DJS - 128 kbit/s
 http://listen.radionomy.com:80/Club80DJS
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="CLUB Radio - radio.pervii.com", ClubMix Radio Romania [64kbps] - 128 kbit/s
-http://live.radioclubmix.ro:9999/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699892.png" group-title="CLUB Radio - radio.pervii.com", SL Heat Club - 128 kbit/s
-http://70.35.201.123:7188/stream/1/

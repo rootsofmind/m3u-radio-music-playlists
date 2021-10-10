@@ -46,13 +46,13 @@ http://www.radioradio.es:8000/stream/1/
 http://74.82.59.197:8351/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/22140.jpg" group-title="EASY Radio - radio.pervii.com", Harmony Radio [Belgium]  www.harmonyradio.be - 128 kbit/s
 http://server1.harmonyradio.be:8000/harmonyradio.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1593496305.jpg" group-title="EASY Radio - radio.pervii.com", Lovetunes | Romantic Hits | Love Songs | Easy Listening - 192 kbit/s
-http://server-51.stream-server.nl:8354/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", Blues Connection - Blues Rock and Soul 24/7 - 128 kbit/s
 http://199.101.51.168:8004/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", Lounge Radio Deluxe (VIP) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1593496305.jpg" group-title="EASY Radio - radio.pervii.com", Lovetunes | Romantic Hits | Love Songs | Easy Listening - 192 kbit/s
+http://server-51.stream-server.nl:8354/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1593496305.jpg" group-title="EASY Radio - radio.pervii.com", Lounge Radio Deluxe (VIP) - 128 kbit/s
 http://94.23.252.14:8147/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", Easy Hits Miami South Florida - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1593496305.jpg" group-title="EASY Radio - radio.pervii.com", Easy Hits Miami South Florida - 128 kbit/s
 http://144.217.158.59:5140
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555010442.jpg" group-title="EASY Radio - radio.pervii.com", DINNER CROOZE - 128 kbit/s
 http://138.201.83.14:8014/stream/1/
@@ -62,10 +62,10 @@ http://stream.laut.fm/shalimar
 http://stm31.srvstm.com:8924/stream/1/
 #EXTINF:-1 tvg-logo="" group-title="EASY Radio - radio.pervii.com", Troostradio.nl - Troostradio.nl - Muziek Collage 033 - 192 kbit/s
 http://api.spreaker.com/listen/show/1831454/episode/latest/shoutcast.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550413726.jpg" group-title="EASY Radio - radio.pervii.com", Instrumental Radio - 128 kbit/s
-http://178.32.62.163:8599/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403539706.png" group-title="EASY Radio - radio.pervii.com", The Lounge - 128 kbit/s
 http://ic2329.c564.fast-serv.com:80/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550413726.jpg" group-title="EASY Radio - radio.pervii.com", Instrumental Radio - 128 kbit/s
+http://178.32.62.163:8599/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1562177417.jpg" group-title="EASY Radio - radio.pervii.com", KHOY FM - 128 kbit/s
 http://ic2.christiannetcast.com/khoy-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", privateness - 128 kbit/s
@@ -108,18 +108,16 @@ http://91.121.165.41:9184/stream/1/
 http://108.61.34.50:7094/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572760116.jpg" group-title="EASY Radio - radio.pervii.com", Coast FM963 - 128 kbit/s
 http://stream.tcom.net.au:8000/stream/10/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572760116.jpg" group-title="EASY Radio - radio.pervii.com", CharityRadio Ireland - 128 kbit/s
-http://37.187.79.93:8640/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572760116.jpg" group-title="EASY Radio - radio.pervii.com", Radio Globo Italia - 128 kbit/s
 http://144.217.76.188:8248/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1572760116.jpg" group-title="EASY Radio - radio.pervii.com", CharityRadio Ireland - 128 kbit/s
+http://37.187.79.93:8640/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403849754.png" group-title="EASY Radio - radio.pervii.com", Mio Radio - Its Your Radio! - 192 kbit/s
 http://94.23.23.97:13662/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", The Indie Show - 128 kbit/s
 http://199.101.51.168:8008/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", 2REM fm Albury-Wodonga - 64 kbit/s
 http://198.74.51.37:8233/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1563199331.jpg" group-title="EASY Radio - radio.pervii.com", Radio 1 Web1 - 192 kbit/s
-http://radio.netstream.ch/radio1web1_192k_mp3
 #EXTINF:-1 tvg-logo="" group-title="EASY Radio - radio.pervii.com", Radio Broadgreen - 192 kbit/s
 http://europa.shoutca.st:8324/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403673384.png" group-title="EASY Radio - radio.pervii.com", Eartunes Radio - 192 kbit/s
@@ -130,21 +128,19 @@ http://stream.dnsgb.net:8040
 http://199.101.51.168:8058/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403673384.png" group-title="EASY Radio - radio.pervii.com", K107 FM - 192 kbit/s
 http://37.59.37.139:9020/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1563199331.jpg" group-title="EASY Radio - radio.pervii.com", Radio 1 Web1 - 192 kbit/s
+http://radio.netstream.ch/radio1web1_192k_mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550498144.jpg" group-title="EASY Radio - radio.pervii.com", Stoke Mandeville Hospital Radio - 128 kbit/s
 http://139.162.245.57:8237/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550498144.jpg" group-title="EASY Radio - radio.pervii.com", WKDfm - 192 kbit/s
 http://212.83.150.15:8467/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550498144.jpg" group-title="EASY Radio - radio.pervii.com", The VIP Lounge Oldies FunHouse - 128 kbit/s
 http://54.38.210.16:9020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", NIO FM - 128 kbit/s
-http://31.186.170.12:3062/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", Nightbreed Radio - 128 kbit/s
-http://199.101.51.168:8010/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", Costa Del Mar (Original) - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550498144.jpg" group-title="EASY Radio - radio.pervii.com", Costa Del Mar (Original) - 320 kbit/s
 http://54.38.43.201:8057/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", TEN FM Tenterfield and Stanthorpe www.tenfm.org.au - AAC+ Stream - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550498144.jpg" group-title="EASY Radio - radio.pervii.com", TEN FM Tenterfield and Stanthorpe www.tenfm.org.au - AAC+ Stream - 320 kbit/s
 http://125.63.50.210:8000/stream/11/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", Lake Macquarie FM - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550498144.jpg" group-title="EASY Radio - radio.pervii.com", Lake Macquarie FM - 320 kbit/s
 http://s6.voscast.com:10768/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1426449734.jpg" group-title="EASY Radio - radio.pervii.com", 1.FM - Brazilian Birds Radio - 320 kbit/s
 http://strm112.1.fm/brazilianbirds_64
@@ -160,11 +156,13 @@ http://81.94.175.226:8000/stream
 http://23.82.11.88:19928/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", Boppers &amp; Rockers - 128 kbit/s
 http://199.101.51.168:8026/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", RadioSon.ru: Lounge, Easy listening, relax radio channel. - 128 kbit/s
-http://www.radioson.ru:8009/LoungeABC.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", Rede Cidade Web - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", NIO FM - 128 kbit/s
+http://31.186.170.12:3062/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", Nightbreed Radio - 128 kbit/s
+http://199.101.51.168:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", Rede Cidade Web - 128 kbit/s
 http://142.44.230.75:7014/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572668268.jpg" group-title="EASY Radio - radio.pervii.com", PMC Xmas Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="EASY Radio - radio.pervii.com", PMC Xmas Radio - 128 kbit/s
 http://178.33.251.97:8141/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="EASY Radio - radio.pervii.com", Retter-Radio.de Plattenkiste - 128 kbit/s
 http://www.retter-radio.de:8000
@@ -182,11 +180,11 @@ http://songcastradio.com:9002/stream/1/
 http://songcastradio.com:9008/stream/1/
 #EXTINF:-1 tvg-logo="" group-title="EASY Radio - radio.pervii.com", radiosentir.com - The best classics and outstanding themes of Pop and Rock of all time !AAC+56K - 128 kbit/s
 http://fmsentir.ddns.net/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", 1 Slow-Radio - 128 kbit/s
-http://stream.laut.fm/1_slowradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", Keldonk-FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="" group-title="EASY Radio - radio.pervii.com", RadioSon.ru: Lounge, Easy listening, relax radio channel. - 128 kbit/s
+http://www.radioson.ru:8009/LoungeABC.mp3
+#EXTINF:-1 tvg-logo="" group-title="EASY Radio - radio.pervii.com", Keldonk-FM - 128 kbit/s
 http://77.165.88.174:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", Starlite Soft &amp; Brite - 128 kbit/s
+#EXTINF:-1 tvg-logo="" group-title="EASY Radio - radio.pervii.com", Starlite Soft &amp; Brite - 128 kbit/s
 http://149.56.234.138:8021/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="EASY Radio - radio.pervii.com", Radio Caprice Easy Listening - 128 kbit/s
 http://79.111.14.76:9015
@@ -194,9 +192,11 @@ http://79.111.14.76:9015
 http://ice.radio-reeperbahn.de:8000/stream2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549967670.jpg" group-title="EASY Radio - radio.pervii.com", PLATINUM radiotunes - 128 kbit/s
 http://79.98.108.206:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549967670.jpg" group-title="EASY Radio - radio.pervii.com", Radiostudio100 - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", 1 Slow-Radio - 128 kbit/s
+http://stream.laut.fm/1_slowradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", Radiostudio100 - 96 kbit/s
 http://46.105.126.68:5626
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549967670.jpg" group-title="EASY Radio - radio.pervii.com", RadioSon.ru: Chillout Classic, Ambient, Easy Listening channel. - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EASY Radio - radio.pervii.com", RadioSon.ru: Chillout Classic, Ambient, Easy Listening channel. - 128 kbit/s
 http://www.radioson.ru:8009/ChillClassic.RadioSon.ru.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="EASY Radio - radio.pervii.com", 1RadioFM  Easy Listening  Classical - 128 kbit/s
 http://192.232.192.96:9976/stream/1/
