@@ -54,10 +54,10 @@ http://stream.funradio.sk:8000/80-90-128.mp3
 http://ares5.radiochoice.net/1027_a080smetal64k
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="80S Radio - radio.pervii.com", Radio Regenbogen 80er - 128 kbit/s
 http://streams.regenbogen.de/rr-80er-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552306635.jpg" group-title="80S Radio - radio.pervii.com", Best 80s - 128 kbit/s
-http://c2.auracast.net:8048/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/91336.jpg" group-title="80S Radio - radio.pervii.com", Radio Italo4you - 256 kbit/s
 http://91.232.4.33:8018/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552306635.jpg" group-title="80S Radio - radio.pervii.com", Best 80s - 128 kbit/s
+http://c2.auracast.net:8048/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="80S Radio - radio.pervii.com", Underground Eighties: UK Synthpop and a bit of New Wave. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/u80s-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="80S Radio - radio.pervii.com", 80s90ssuperpophits - 128 kbit/s
@@ -86,10 +86,10 @@ http://5.135.154.66:33604/stream/1/
 http://bigrradio.cdnstream1.com/5117_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537460676.jpg" group-title="80S Radio - radio.pervii.com", ORF Radio Tirol - 192 kbit/s
 https://orf-live.ors-shoutcast.at/tir-q2a
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/65036.jpg" group-title="80S Radio - radio.pervii.com", REKORD - 192 kbit/s
-http://stream2.nadaje.com:8108/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103420.jpg" group-title="80S Radio - radio.pervii.com", Diva Radio Funk - deevaradio.net - Funk Music Paradise - HQ - 160 kbit/s
 http://radiart.eu:10111/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/65036.jpg" group-title="80S Radio - radio.pervii.com", REKORD - 160 kbit/s
+http://stream2.nadaje.com:8108/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552784883.jpg" group-title="80S Radio - radio.pervii.com", RadioMaxMusic Greatest Hits 256K Stream - 256 kbit/s
 http://nebula.shoutca.st:8016/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537696356.jpg" group-title="80S Radio - radio.pervii.com", All80s - 128 kbit/s
@@ -124,6 +124,8 @@ http://s1.slotex.pl:7750/stream/1/
 http://stream.radiojar.com/q0459y6yua5tv
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="80S Radio - radio.pervii.com", Arabella 80er - 96 kbit/s
 http://arabella.stream.kapper.net:8006/arabella80er
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="80S Radio - radio.pervii.com", [RMF 80S] - 128 kbit/s
+http://rs6-krk2-cyfronet.rmfstream.pl/rmf_80s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634483.png" group-title="80S Radio - radio.pervii.com", Radio Caroline 319 - Breskens NL - 320 - 320 kbit/s
 http://www.rcgoldserver.eu:8270/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550160074.jpg" group-title="80S Radio - radio.pervii.com", IP music SLOW - MP3@320 Kb/s - 320 kbit/s
@@ -132,8 +134,6 @@ http://live7.avf.ch:8000/ipmusicslow320
 http://online1.gkvr.ru:8000/radiola_srt_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="80S Radio - radio.pervii.com", IP music - MP3@320 Kb/s - 320 kbit/s
 http://live7.avf.ch:8000/ipmusic320
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537528414.jpg" group-title="80S Radio - radio.pervii.com", [RMF 80S] - 128 kbit/s
-http://rs6-krk2-cyfronet.rmfstream.pl/rmf_80s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550322426.jpg" group-title="80S Radio - radio.pervii.com", Disco Classic Radio - 192 kbit/s
 http://54.36.89.71:8742/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1554814528.jpg" group-title="80S Radio - radio.pervii.com", Radio Zeleni val - 192 kbit/s
@@ -186,15 +186,15 @@ http://216.8.167.190:9000/stream
 http://176.31.120.166:4450/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550160074.jpg" group-title="80S Radio - radio.pervii.com", IP music SLOW - MP3@256 Kb/s - 256 kbit/s
 http://live7.avf.ch:8000/ipmusicslow256
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="80S Radio - radio.pervii.com", IP music - aacPlus@96 Kb/s - 256 kbit/s
-http://live7.avf.ch:8000/ipmusicaacplus96
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550548890.jpg" group-title="80S Radio - radio.pervii.com", RetroCountry890.com - 128 kbit/s
 http://cassini.shoutca.st:8942/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561180677.jpg" group-title="80S Radio - radio.pervii.com", Bikers Inner Circle Radio - 128 kbit/s
 http://streaming.radio.co:80/s60f7d4c8f/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1623137686.jpg" group-title="80S Radio - radio.pervii.com", TOP FM oldies &gt;&gt; 50s, 60s, 70s, 80s - 128 kbit/s
 http://live.topfm.hu:8000/oldies.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1623137686.jpg" group-title="80S Radio - radio.pervii.com", CRIK FM - The Lynx Retro 80s - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="80S Radio - radio.pervii.com", IP music - aacPlus@96 Kb/s - 128 kbit/s
+http://live7.avf.ch:8000/ipmusicaacplus96
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="80S Radio - radio.pervii.com", CRIK FM - The Lynx Retro 80s - 128 kbit/s
 http://listen.shoutcast.com/crikfm-thelynxretro80s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403408567.png" group-title="80S Radio - radio.pervii.com", Top 80 radio - 128 kbit/s
 http://stream.only1.fr/stream/1/

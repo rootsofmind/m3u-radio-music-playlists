@@ -66,10 +66,10 @@ http://ice2.wmuk.org:8123/mp31
 http://158.69.224.10:8004/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Gregorian Chants - 128 kbit/s
 http://streams.calmradio.com:4428
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", A1900Classical - 128 kbit/s
-http://listen.radionomy.com/A1900-Classical
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Baroque - 128 kbit/s
 http://23.82.11.88:3328/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", A1900Classical - 128 kbit/s
+http://listen.radionomy.com/A1900-Classical
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561046045.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Italy Classical Radio - 128 kbit/s
 http://176.31.107.8:8204/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553700995.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Concertzender - 256 kbit/s
@@ -82,6 +82,20 @@ http://icecast.omroep.nl/radio4-sb-mp3
 http://23.82.11.88:8928/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/11783.jpg" group-title="CLASSICAL Radio - radio.pervii.com", KUAT 192 - 192 kbit/s
 http://streaming.azpm.org/kuat192.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Till Brönner - 128 kbit/s
+http://stream.klassikradio.de/tillbroenner/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Games - 128 kbit/s
+http://stream.klassikradio.de/games/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio New Classics - 128 kbit/s
+http://stream.klassikradio.de/newclassics/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Klassik Dreams - 128 kbit/s
+http://stream.klassikradio.de/dreams/aac-64
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Healing - 128 kbit/s
+http://stream.klassikradio.de/healing/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Pure Beethoven - 128 kbit/s
+http://stream.klassikradio.de/beethoven/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Klassik Rock - 128 kbit/s
+http://stream.klassikradio.de/klassikrock/aac-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Friends Home - 128 kbit/s
 http://stream.klassikradio.de/friendshome/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549783303.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Piano - 128 kbit/s
@@ -110,20 +124,6 @@ http://stream.klassikradio.de/schiller/mp3-128
 http://stream.klassikradio.de/lounge/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Nature - 128 kbit/s
 http://stream.klassikradio.de/nature/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Till Brönner - 128 kbit/s
-http://stream.klassikradio.de/tillbroenner/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Games - 128 kbit/s
-http://stream.klassikradio.de/games/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio New Classics - 128 kbit/s
-http://stream.klassikradio.de/newclassics/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Klassik Dreams - 128 kbit/s
-http://stream.klassikradio.de/dreams/aac-64
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Healing - 128 kbit/s
-http://stream.klassikradio.de/healing/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Pure Beethoven - 128 kbit/s
-http://stream.klassikradio.de/beethoven/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klassik Radio Klassik Rock - 128 kbit/s
-http://stream.klassikradio.de/klassikrock/aac-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALM RADIO - GREGORIAN - Sampler - 128 kbit/s
 http://23.82.11.88:4428/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563629429.jpg" group-title="CLASSICAL Radio - radio.pervii.com", no name - 96 kbit/s
@@ -156,14 +156,14 @@ http://radio2.sikhnet.com:8014/autodj
 http://23.82.11.88:12628/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", ABCSymphony - 128 kbit/s
 http://listen.radionomy.com/ABC-Symphony
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 1000HITSClassicalMusic - 128 kbit/s
+http://listen.radionomy.com:80/1000HITSClassicalMusic
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Classical Guitar - 128 kbit/s
 http://23.82.11.88:2728/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="CLASSICAL Radio - radio.pervii.com", RADIO CLASIC BEETHOVEN - 128 kbit/s
 http://clasicradio.ro:7200/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Chamber Music - 128 kbit/s
 http://23.82.11.88:7528/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 1000HITSClassicalMusic - 128 kbit/s
-http://listen.radionomy.com:80/1000HITSClassicalMusic
 #EXTINF:-1 tvg-logo="" group-title="CLASSICAL Radio - radio.pervii.com", Troostradio.nl - Troostradio.nl - Muziek Collage 033 - 192 kbit/s
 http://api.spreaker.com/listen/show/1831454/episode/latest/shoutcast.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Yabiladi Radio - 100% Maroc - 128 kbit/s
@@ -182,6 +182,8 @@ http://media.wmra.org:8000/wemc
 http://23.82.11.88:7528/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556679851.jpg" group-title="CLASSICAL Radio - radio.pervii.com", WKAR Classical - 128 kbit/s
 http://mozart.wkar.msu.edu:80/wkar-classical
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556679851.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Classical For Studying - 128 kbit/s
+http://51.68.215.9:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561180884.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Fine Music Sydney - 128 kbit/s
 http://fmfm.org.au:8000/finemusicdigital
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552227442.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Klara - 128 kbit/s
@@ -192,11 +194,9 @@ http://23.82.11.88:6928/stream/1/
 http://190.60.231.7:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="CLASSICAL Radio - radio.pervii.com", American Tamil Radio - 128 kbit/s
 http://69.46.24.226:7188/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="CLASSICAL Radio - radio.pervii.com", Classical For Studying - 128 kbit/s
-http://51.68.215.9:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="CLASSICAL Radio - radio.pervii.com", DI Radio Digital Impulse - Classical - 320 kbit/s
 http://orion.shoutca.st:8978/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 011.FM - Pure Piano - 192 kbit/s
-http://listen.011fm.com:80/stream22
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="CLASSICAL Radio - radio.pervii.com", CALMRADIO.COM - Symphony - 128 kbit/s
 http://23.82.11.88:1028/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="CLASSICAL Radio - radio.pervii.com", 011.FM - Pure Piano - 192 kbit/s
+http://listen.011fm.com:80/stream22

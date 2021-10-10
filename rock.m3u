@@ -128,42 +128,42 @@ http://listen.radionomy.com:80/NETROCK101THEANIMAL
 http://163.172.96.134:8090/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559812536.jpg" group-title="ROCK Radio - radio.pervii.com", la mejor 101.7 - 64 kbit/s
 http://ororadio.serverroom.us:9142/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="ROCK Radio - radio.pervii.com", Radio VHR - 256 kbit/s
+http://188.138.9.183:80/radiovhr.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550756704.jpg" group-title="ROCK Radio - radio.pervii.com", LATINO FM EN DIRECTO (www.latinofm.es) MALAGA ANDALUCIA ESPANA SPAIN ESPANOL - 128 kbit/s
 http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Regenbogen Classic Rock - 128 kbit/s
 http://streams.regenbogen.de/rr-classicrock-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="ROCK Radio - radio.pervii.com", Radio VHR - 256 kbit/s
-http://188.138.9.183:80/radiovhr.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="ROCK Radio - radio.pervii.com", Rockserwis.fm - 256 kbit/s
-http://radio.rockserwis.fm:80/live.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576389451.jpg" group-title="ROCK Radio - radio.pervii.com", Oldies Internet Radio - 256 kbit/s
-http://162.244.81.98:8140/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553221488.jpg" group-title="ROCK Radio - radio.pervii.com", DONAU 3 FM - 128 kbit/s
 http://mp3.donau3fm.c.nmdn.net/donau3fm/live.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553221488.jpg" group-title="ROCK Radio - radio.pervii.com", Rockserwis.fm - 128 kbit/s
+http://radio.rockserwis.fm:80/live.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576389451.jpg" group-title="ROCK Radio - radio.pervii.com", Oldies Internet Radio - 128 kbit/s
+http://162.244.81.98:8140/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403875921.png" group-title="ROCK Radio - radio.pervii.com", pobrejohnny - 128 kbit/s
 http://www.suenas.net:8090/pobrejohnny
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ROCK Radio - radio.pervii.com", Rock The Blues - 128 kbit/s
 http://stream.laut.fm/rock-the-blues
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ROCK Radio - radio.pervii.com", http://laut.fm - 128 kbit/s
-http://stream.laut.fm/just80s_maximal
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="ROCK Radio - radio.pervii.com", NAXI ROCK RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
 http://178.253.200.250:8180
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="ROCK Radio - radio.pervii.com", /original106.mp3 - 128 kbit/s
-http://edge-audio-02-gos1.sharp-stream.com/original106.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="ROCK Radio - radio.pervii.com", Radio SWH ROCK - 192 kbit/s
-http://80.232.162.149:8000/rock96mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="ROCK Radio - radio.pervii.com", http://laut.fm - 128 kbit/s
+http://stream.laut.fm/just80s_maximal
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550026872.jpg" group-title="ROCK Radio - radio.pervii.com", 1 - 128 kbit/s
 http://centova.radios.pt:9478/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550026872.jpg" group-title="ROCK Radio - radio.pervii.com", /original106.mp3 - 128 kbit/s
+http://edge-audio-02-gos1.sharp-stream.com/original106.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550026872.jpg" group-title="ROCK Radio - radio.pervii.com", Radio SWH ROCK - 192 kbit/s
+http://80.232.162.149:8000/rock96mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123350.jpg" group-title="ROCK Radio - radio.pervii.com", Soft Classic Rock - 128 kbit/s
 http://64.71.133.122:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550163310.jpg" group-title="ROCK Radio - radio.pervii.com", BurnFM - musik intensiv! - 128 kbit/s
 http://1aradio.radionetz.de:8000/burn-fm.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436065484.jpg" group-title="ROCK Radio - radio.pervii.com", ROCK-FM 95.2 FM - 64 kbit/s
 http://nashe1.hostingradio.ru/rock-64.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5266.jpg" group-title="ROCK Radio - radio.pervii.com", RMNradio - Music, Fun and more - 160 kbit/s
-http://rmnradio.powerstream.de:8022
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403629219.png" group-title="ROCK Radio - radio.pervii.com", Radio BOB - 128 kbit/s
 http://live.radiobob.si/Europa05
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5266.jpg" group-title="ROCK Radio - radio.pervii.com", RMNradio - Music, Fun and more - 160 kbit/s
+http://rmnradio.powerstream.de:8022
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549772322.jpg" group-title="ROCK Radio - radio.pervii.com", New Clear Radio - Your favourite music in best quality - 192kb - 192 kbit/s
 http://live.ncradio.fm/192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550048549.jpg" group-title="ROCK Radio - radio.pervii.com", Krautrock-World - 128 kbit/s
@@ -178,15 +178,19 @@ http://stream.klassikradio.de/klassikrock/aac-64
 http://stream.freezfm.nl/freezfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="ROCK Radio - radio.pervii.com", 011.FM - The Vault Classic Rock - 192 kbit/s
 http://listen.011fm.com:8014/stream08
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="ROCK Radio - radio.pervii.com", A-0 Classic Rock Decades - 192 kbit/s
-http://ares5.radiochoice.net/1017_a0classicrockdecades64k
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="ROCK Radio - radio.pervii.com", 音乐之声 - 64 kbit/s
-http://ctt.rgd.com.cn/fm993
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537583587.jpg" group-title="ROCK Radio - radio.pervii.com", Russkoe Hristianskoe radio Volna Schastya - 128 kbit/s
 http://176.9.150.230:9970/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1442040545.jpg" group-title="ROCK Radio - radio.pervii.com", Radio dlya dvoih - Sankt-Peterburg 90,6 FM - 128 kbit/s
 http://icecast-radiofortwo.cdnvideo.ru/radiofortwo?radio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1442040545.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Free Phoenix - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="ROCK Radio - radio.pervii.com", A-0 Classic Rock Decades - 128 kbit/s
+http://ares5.radiochoice.net/1017_a0classicrockdecades64k
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="ROCK Radio - radio.pervii.com", 音乐之声 - 64 kbit/s
+http://ctt.rgd.com.cn/fm993
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554564682.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Kampus 97,1 FM - 128 kbit/s
+http://193.0.98.66:8005/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="ROCK Radio - radio.pervii.com", wunschradio.fm 90er - 128 kbit/s
+http://radiostreamserver.de:80/wunschradio-90er.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Free Phoenix - 128 kbit/s
 http://209.95.50.189:8124/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550027519.jpg" group-title="ROCK Radio - radio.pervii.com", StudioB - 128 kbit/s
 http://radio.studiob.rs:8004
@@ -196,7 +200,3 @@ http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3
 http://poznan5-4.radio.pionier.net.pl:8000/tuba8-1.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550202713.jpg" group-title="ROCK Radio - radio.pervii.com", Soft Tracks - 128 kbit/s
 http://198.105.216.204:8200/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554564682.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Kampus 97,1 FM - 128 kbit/s
-http://193.0.98.66:8005/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="ROCK Radio - radio.pervii.com", wunschradio.fm 90er - 128 kbit/s
-http://radiostreamserver.de:80/wunschradio-90er.mp3
