@@ -1,4 +1,4 @@
-## Collection of m3u Radio Playlists, Updated daily (manually)
+## Collection of m3u Radio Playlists, Updated every 6 hours (automatically)
 this repo now includes two extra streams made by me, `---everyhting.m3u` and `---randomized.m3u`
 
 `---everyhting.m3u` combines all of the streams sorted by name
@@ -43,13 +43,3 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 
 ### Where did you find these?
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
-
-### The websites mentions these being automatically updated
-it's true but i only update this repo once every day as it's enough for me, you can use the links from the website instead if you are only interested in a few of those music genres
-```
-mpv https://www.radio.pervii.com/top_radio_trance.m3u
-```
-if you want to download those playlist files yourself more frequently and don't want the the top_radio_ prefix behind every file use this command on bash or zsh in the folder you have downloaded them
-```
-for filename in ./*; do mv "./$filename" "./$(echo "$filename" | sed -e 's/top_radio_//g')";  done
-```
