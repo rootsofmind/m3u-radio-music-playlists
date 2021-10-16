@@ -180,11 +180,7 @@ https://streaming2.elitecomunicacion.es:8000/stream
 http://songcastradio.com:9024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="LATIN Radio - radio.pervii.com", mehrgags - 128 kbit/s
 http://stream.laut.fm/mehrgags
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO NOW HQ 99.1 FM PALMA DE MALLORCA BALEARES ESPA - 128 kbit/s
-http://37.152.88.215:8600
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="LATIN Radio - radio.pervii.com", Vida 99.1 Fm - 160 kbit/s
-http://149.56.185.83:8002
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO CIELO FM - 100.3MHz - www.radiocielofm.promilweb.com - fmcielo@hotmail.com - 24 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="LATIN Radio - radio.pervii.com", RADIO CIELO FM - 100.3MHz - www.radiocielofm.promilweb.com - fmcielo@hotmail.com - 24 kbit/s
 http://200.112.233.19:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561113734.jpg" group-title="LATIN Radio - radio.pervii.com", ME GUSTA FM - 24 kbit/s
 http://streaming.hdserver.biz:9434/stream/1/
@@ -192,11 +188,15 @@ http://streaming.hdserver.biz:9434/stream/1/
 http://5.135.183.124:8357/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", CALMRADIO.COM - Latin Pop Charts - 128 kbit/s
 http://23.82.11.88:20128/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Caprice - Latin Pop - 128 kbit/s
-http://79.111.119.111:9051
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", CALM RADIO - LATIN - Sampler - 128 kbit/s
-http://23.82.11.88:5428/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="LATIN Radio - radio.pervii.com", STYL FM - 128 kbit/s
-http://s2.nexuscast.com:8024
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="LATIN Radio - radio.pervii.com", HOT101.NET - 320 kbit/s
-http://usa12.fastcast4u.com:5160/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO NOW HQ 99.1 FM PALMA DE MALLORCA BALEARES ESPA - 128 kbit/s
+http://37.152.88.215:8600
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="LATIN Radio - radio.pervii.com", Vida 99.1 Fm - 160 kbit/s
+http://149.56.185.83:8002
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/126302.jpg" group-title="LATIN Radio - radio.pervii.com", Secuencia Digital - 64 kbit/s
+http://216.104.43.226:8038
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559915152.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO UNO CHABAS - 128 kbit/s
+http://server1.dainusradio.com:9884/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Caprice Latin Jazz - 128 kbit/s
+http://79.111.119.111:9055
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Lautar - 128 kbit/s
+http://190.3.169.87:9820

@@ -24,11 +24,11 @@ http://91.121.165.41:9035/stream.mp3
 http://94.23.252.14:8067/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1577086984.jpg" group-title="FRENCH Radio - radio.pervii.com", A9RADIO - 128 kbit/s
 http://195.154.217.103:8175/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10115.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Classique - 128 kbit/s
-http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1593481926.jpg" group-title="FRENCH Radio - radio.pervii.com", Clubsteppin.com - 128 kbit/s
 https://eu7.fastcast4u.com/proxy/lamwat00?mp=/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1593481926.jpg" group-title="FRENCH Radio - radio.pervii.com", My Station name - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10115.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Classique - 128 kbit/s
+http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10115.jpg" group-title="FRENCH Radio - radio.pervii.com", My Station name - 128 kbit/s
 http://centova17.ciclanohost.com.br:8085/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/97181.jpg" group-title="FRENCH Radio - radio.pervii.com", La Grosse Radio Reggae - Dub Dancehall Roots - From Paris - www.LaGrosseRadio.com - 192 kbit/s
 http://hd.lagrosseradio.info:8000/lagrosseradio-reggae-192.mp3
@@ -70,14 +70,14 @@ http://streaming.radio.rtl2.fr/fun-1-44-128
 http://46.105.122.141:9676/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1571883846.jpg" group-title="FRENCH Radio - radio.pervii.com", Minimal Mix Radio Stream - 320 kbit/s
 http://5.39.71.159:8750
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553649981.jpg" group-title="FRENCH Radio - radio.pervii.com", Maurice Radio Libre - 320 kbit/s
+http://radio4.pro-fhi.net:9101/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549789413.jpg" group-title="FRENCH Radio - radio.pervii.com", Metal Express Radio - 192 kbit/s
 http://5.135.154.69:11590/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553649981.jpg" group-title="FRENCH Radio - radio.pervii.com", Maurice Radio Libre - 192 kbit/s
-http://radio4.pro-fhi.net:9101/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549789174.jpg" group-title="FRENCH Radio - radio.pervii.com", Planet Ambi HD Radio - Music For Relaxation - 320 kbit/s
-http://176.31.107.8:9019/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550757916.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Luna Ser - 128 kbit/s
 http://srv0625.emisorasonline.com:8003/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549789174.jpg" group-title="FRENCH Radio - radio.pervii.com", Planet Ambi HD Radio - Music For Relaxation - 320 kbit/s
+http://176.31.107.8:9019/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561809563.jpg" group-title="FRENCH Radio - radio.pervii.com", CFM FRENCHIE 128mp3 - 128 kbit/s
 http://cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1404723516.jpg" group-title="FRENCH Radio - radio.pervii.com", wiccaradio - 128 kbit/s
@@ -90,10 +90,10 @@ http://mp3.magic-radio.net
 http://maxxima.mine.nu:8000/maxxima.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/17133.jpg" group-title="FRENCH Radio - radio.pervii.com", Hank&apos;s Old Time Radio - 32 kbit/s
 http://176.31.98.109:4962/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561050605.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Flash Montpellier Cevennes Mediterranee - 128 kbit/s
-http://37.187.16.224:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549791295.jpg" group-title="FRENCH Radio - radio.pervii.com", RadioSkyMusic Jazz - 128 kbit/s
 http://151-80-38-142.caramania.net:7006/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561050605.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Flash Montpellier Cevennes Mediterranee - 128 kbit/s
+http://37.187.16.224:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550040903.jpg" group-title="FRENCH Radio - radio.pervii.com", Paradisagasy - Madagascar - radioparadisagasy.com - 128 kbit/s
 http://radiart.eu:10018/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550195606.jpg" group-title="FRENCH Radio - radio.pervii.com", Djam Radio - 128 kbit/s
@@ -106,14 +106,14 @@ http://stream.radio.co/s1820bbaf2/listen
 http://37.187.90.196:8989/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/28024.jpg" group-title="FRENCH Radio - radio.pervii.com", Radioneo - 128 kbit/s
 http://stream.radioneo.org:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1571841589.jpg" group-title="FRENCH Radio - radio.pervii.com", Bob&#039;s Ska Radio (Low Bitrate) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/583.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Hyrule - 192 kbit/s
+http://listen.radiohyrule.com:8000/listen?
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1571841589.jpg" group-title="FRENCH Radio - radio.pervii.com", Bob&#039;s Ska Radio (Low Bitrate) - 192 kbit/s
 http://51.255.235.165:5528/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1408630967.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Suisse Classique - 128 kbit/s
 http://listen.radionomy.com/arcadie
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1563635693.jpg" group-title="FRENCH Radio - radio.pervii.com", Ibiza-Radios.com - Chill - 128 kbit/s
 http://radio2.vip-radios.fm:8018/stream-128kmp3-IbizaChill_autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/583.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Hyrule - 192 kbit/s
-http://listen.radiohyrule.com:8000/listen?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="FRENCH Radio - radio.pervii.com", DI Radio Digital Impulse - Ambient and Chillout - 320 kbit/s
 http://orion.shoutca.st:8994/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1562992348.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Esperance - 128 kbit/s
@@ -166,10 +166,10 @@ http://5.135.191.40:8000/stream/1/
 http://91.121.205.70:14348/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12881.jpg" group-title="FRENCH Radio - radio.pervii.com", Gregorien - 128 kbit/s
 http://stric6.streamakaci.com:80/gregorien.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549788306.jpg" group-title="FRENCH Radio - radio.pervii.com", Airtime! - 64 kbit/s
-http://vh11367x.out.airtime.pro:8000/vh11367x_a
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1554817284.jpg" group-title="FRENCH Radio - radio.pervii.com", Made in 80 - 192 kbit/s
 http://5.39.79.101:8002/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549788306.jpg" group-title="FRENCH Radio - radio.pervii.com", Airtime! - 64 kbit/s
+http://vh11367x.out.airtime.pro:8000/vh11367x_a
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551330663.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Gazelle (MB RECASTER) - 128 kbit/s
 http://srv2.streaming-ingenierie.fr:8134/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537695608.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Stad - 128 kbit/s

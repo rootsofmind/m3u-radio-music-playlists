@@ -162,14 +162,14 @@ http://s1.slotex.pl:7022
 http://31.14.40.102:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560904611.jpg" group-title="POP Radio - radio.pervii.com", Feel Good Radio - 192 kbit/s
 http://94.23.148.11:8344/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561789834.jpg" group-title="POP Radio - radio.pervii.com", Radio NAGASWARA RADIOTEMEN Bogor - 192 kbit/s
-http://bogor.nagaswarafm.com:8088/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0925194707.jpg" group-title="POP Radio - radio.pervii.com", Radio 24 - Kiev - 192 kbit/s
-http://icecastdc.luxnet.ua/radio24
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Arabella Ti Amo - 96 kbit/s
 http://arabella.stream.kapper.net:8007/arabellatiamo
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="POP Radio - radio.pervii.com", LiteFavorites.com - Today&#039;s Hits &amp; Yesterday&#039;s Favorites - 128 kbit/s
 http://naxos.cdnstream.com/1255_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561789834.jpg" group-title="POP Radio - radio.pervii.com", Radio NAGASWARA RADIOTEMEN Bogor - 128 kbit/s
+http://bogor.nagaswarafm.com:8088/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0925194707.jpg" group-title="POP Radio - radio.pervii.com", Radio 24 - Kiev - 128 kbit/s
+http://icecastdc.luxnet.ua/radio24
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1551188556.jpg" group-title="POP Radio - radio.pervii.com", FamilyRadio - 128 kbit/s
 http://www.clubfmserver.be:8000/family.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537612889.jpg" group-title="POP Radio - radio.pervii.com", Hitrádio Zóna Lásky - 128 kbit/s
@@ -192,11 +192,11 @@ http://play.enhd.co:7710
 http://stream01.radiocon.ru:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1551982892.jpg" group-title="POP Radio - radio.pervii.com", Hitrádio Èerná Hora - 128 kbit/s
 http://ice.abradio.cz/cernahora128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549782489.jpg" group-title="POP Radio - radio.pervii.com", JOY FM - 64 kbit/s
-https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550072240.jpg" group-title="POP Radio - radio.pervii.com", Maxima 100.9 FM-Morelia - 128 kbit/s
 http://omegaingenieria.com:8034/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561881132.jpg" group-title="POP Radio - radio.pervii.com", AKUSTIK - 128 kbit/s
-http://46.20.7.102:80/stream/389/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549782489.jpg" group-title="POP Radio - radio.pervii.com", JOY FM - 64 kbit/s
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403619907.png" group-title="POP Radio - radio.pervii.com", HCR104fm - 128 kbit/s
 http://stream.hcrfm.co.uk/hcr
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561881132.jpg" group-title="POP Radio - radio.pervii.com", AKUSTIK - 128 kbit/s
+http://46.20.7.102:80/stream/389/

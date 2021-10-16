@@ -36,23 +36,23 @@ http://sc4.mystreamserver.com:8012
 http://162.213.197.53:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", 16Bit.FM I.D.E.A. channel - 128 kbit/s
 http://16bitfm.com:8000/idea_mp3_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Serene - 128 kbit/s
+http://192.99.17.12:4950/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/16373.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", nightline radio - 128 kbit/s
 http://www.nightline-radio.de:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Radio Caprice - Downtempo - 128 kbit/s
 http://79.120.77.11:9113
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Kaaosradio 24h Chill - 128 kbit/s
 http://stream.kaaosradio.fi:8000/chill
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Serene - 128 kbit/s
-http://192.99.17.12:4950/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", LiveDNB Atmosphere - 128 kbit/s
 http://23.239.3.207:8040
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", JOKEY_RADIO - 128 kbit/s
 http://195.154.217.103:8006
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
 http://217.147.162.239:8000/stream.ogg
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403630596.png" group-title="DOWNTEMPO Radio - radio.pervii.com", ChillOutWorld - 128 kbit/s
-http://listen.radionomy.com:80/ChillOutWorld
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Vudulicious Radio - 128 kbit/s
 http://109.206.96.34:8200
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", ChillOutWorld - 128 kbit/s
+http://listen.radionomy.com:80/ChillOutWorld
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561225049.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", The Multiman Entheogenic 432Hz Music - 128 kbit/s
 http://158.69.195.195:18404/live.mp3

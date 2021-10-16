@@ -22,9 +22,9 @@ http://lin1.san.fast-serv.com:9844
 http://144.76.172.23:7092/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1553334539.jpg" group-title="SKA Radio - radio.pervii.com", Radio Novi Grad - 320 kbit/s
 http://mediahosting025.com:8585/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1553334539.jpg" group-title="SKA Radio - radio.pervii.com", Whatever68 Worldwide Radio Streaming 24/7 - 128 kbit/s
+http://s1.nexuscast.com:8117
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561626019.jpg" group-title="SKA Radio - radio.pervii.com", Radio Karolinka - 128 kbit/s
 http://91.232.4.33:8358/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561626019.jpg" group-title="SKA Radio - radio.pervii.com", Whatever68 Worldwide Radio Streaming 24/7 - 128 kbit/s
-http://s1.nexuscast.com:8117
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403451975.png" group-title="SKA Radio - radio.pervii.com", KTNA 88.9 Talkeetna Community Radio Live! - 48 kbit/s
 http://205.234.238.42:4760

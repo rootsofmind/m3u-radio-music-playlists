@@ -40,12 +40,12 @@ http://193.200.43.23/stream
 http://str.topradio.be:80/zenfm.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1560952682.jpg" group-title="LOUNGE Radio - radio.pervii.com", Martini Lounge - 192 kbit/s
 http://kmr.iad.streamguys1.com:80/singers
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="LOUNGE Radio - radio.pervii.com", Klassik Radio Lounge Beat - 128 kbit/s
+http://stream.klassikradio.de/lounge-beat/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="LOUNGE Radio - radio.pervii.com", Klassik Radio Lounge - 128 kbit/s
 http://stream.klassikradio.de/lounge/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537528329.jpg" group-title="LOUNGE Radio - radio.pervii.com", Radio Play Emotions - Music for work and relax - 128 kbit/s
 http://5.39.82.157:8054/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="LOUNGE Radio - radio.pervii.com", Klassik Radio Lounge Beat - 128 kbit/s
-http://stream.klassikradio.de/lounge-beat/mp3-128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403750684.png" group-title="LOUNGE Radio - radio.pervii.com", The Lounge Sound - 128 kbit/s
 http://streams.1radio.ca:8059/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403375704.png" group-title="LOUNGE Radio - radio.pervii.com", The Lounge - 128 kbit/s
@@ -74,10 +74,10 @@ http://streaming.hotmix-radio.net/hotmixradio-lounge-64.aac
 http://stm31.srvstm.com:8924
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="LOUNGE Radio - radio.pervii.com", Ill Street Lounge: Classic bachelor pad, playful exotica and vintage music of tomorrow. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/illstreet-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LOUNGE Radio - radio.pervii.com", CALMRADIO.COM - Ambient Lounge - 128 kbit/s
-http://23.82.11.88:6628/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1576162814.jpg" group-title="LOUNGE Radio - radio.pervii.com", LoungeFM - Acoustic - 128 kbit/s
 http://cast.radiogroup.com.ua:8000/acoustic128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LOUNGE Radio - radio.pervii.com", CALMRADIO.COM - Ambient Lounge - 128 kbit/s
+http://23.82.11.88:6628/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556547951.jpg" group-title="LOUNGE Radio - radio.pervii.com", RMNrelax - Enjoy The Moment - 192 kbit/s
 http://84.19.182.117:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537503291.jpg" group-title="LOUNGE Radio - radio.pervii.com", Argovia Lounge - 128 kbit/s
@@ -104,40 +104,42 @@ https://listen.openstream.co/6273/audio
 http://stream.laut.fm/djneihtul
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="LOUNGE Radio - radio.pervii.com", Le Son Parisien [Paris, France] - 192 kbit/s
 http://stream.lesonparisien.com:80/hi
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1593992240.jpg" group-title="LOUNGE Radio - radio.pervii.com", Cool Music Radio // Vocal Lounge (acc) - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="LOUNGE Radio - radio.pervii.com", Lounge Motion FM - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motionthree_aacp?=1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1593992240.jpg" group-title="LOUNGE Radio - radio.pervii.com", Cool Music Radio // Vocal Lounge (acc) - 128 kbit/s
 https://coolmusic.online/stream-acc-CoolMusic_autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662765.png" group-title="LOUNGE Radio - radio.pervii.com", Radio Easy&amp;Italy - 192 kbit/s
 http://stream.radiomusic.net:8110/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403827980.png" group-title="LOUNGE Radio - radio.pervii.com", The Green Room [RadioAvenue.com] - 128 kbit/s
 http://209.95.50.189:8074/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="LOUNGE Radio - radio.pervii.com", Lounge Motion FM - MotionFM.com - 128 kbit/s
-https://vm.motionfm.com/motionthree_aacp?=1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="LOUNGE Radio - radio.pervii.com", AmbianceLounge - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403827980.png" group-title="LOUNGE Radio - radio.pervii.com", AmbianceLounge - 128 kbit/s
 http://listen.radionomy.com/Ambiance-Lounge
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="LOUNGE Radio - radio.pervii.com", Radio Talsi .:: Lounge Chillout Mix ::. - 256 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403827980.png" group-title="LOUNGE Radio - radio.pervii.com", Radio Talsi .:: Lounge Chillout Mix ::. - 256 kbit/s
 http://radio.kuums.lv:5555/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="LOUNGE Radio - radio.pervii.com", LoungeRadio (MRG.fm) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403827980.png" group-title="LOUNGE Radio - radio.pervii.com", LoungeRadio (MRG.fm) - 128 kbit/s
 http://62.149.196.16:8060/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560905506.jpg" group-title="LOUNGE Radio - radio.pervii.com", Algorythme Radio - 128 kbit/s
 http://91.121.165.41:9184/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560905506.jpg" group-title="LOUNGE Radio - radio.pervii.com", LoungeFM OOE - 128 kbit/s
-http://188.138.9.183:80/lounge-ooe.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403849754.png" group-title="LOUNGE Radio - radio.pervii.com", Mio Radio - Its Your Radio! - 192 kbit/s
 http://94.23.23.97:13662/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403709059.png" group-title="LOUNGE Radio - radio.pervii.com", Pilot FM - Lounge, Ekaterinburg, 100.4 FM - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403849754.png" group-title="LOUNGE Radio - radio.pervii.com", LoungeFM OOE - 128 kbit/s
+http://188.138.9.183:80/lounge-ooe.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403709059.png" group-title="LOUNGE Radio - radio.pervii.com", Pilot FM - Lounge, Ekaterinburg, 100.4 FM - 128 kbit/s
 http://188.254.50.254:8000/pilot_aacplus
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/60020.jpg" group-title="LOUNGE Radio - radio.pervii.com", DRUM AND BASS LOUNGE - [www.drumandbasslounge.com] - 128 kbit/s
 http://198.15.94.34:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560903051.jpg" group-title="LOUNGE Radio - radio.pervii.com", Loungelovers.FM - 192 kbit/s
 http://ml1.t4e.dj:80/loungelovers_high.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560903051.jpg" group-title="LOUNGE Radio - radio.pervii.com", LOUNGEBARRADIO - 128 kbit/s
+http://listen.radionomy.com:80/LOUNGEBARRADIO
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94236.jpg" group-title="LOUNGE Radio - radio.pervii.com", Radio NS - Lounge - 192 kbit/s
 http://89.219.35.26:8000/radions-lounge
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="LOUNGE Radio - radio.pervii.com", Star People - 256 kbit/s
 http://2.139.144.101:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="LOUNGE Radio - radio.pervii.com", The VIP Lounge Oldies FunHouse - 128 kbit/s
 http://54.38.210.16:9020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="LOUNGE Radio - radio.pervii.com", LOUNGEBARRADIO - 128 kbit/s
-http://listen.radionomy.com:80/LOUNGEBARRADIO
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="LOUNGE Radio - radio.pervii.com", Costa Del Mar (Original) - 320 kbit/s
+https://radio4.cdm-radio.com:18020/stream64k-AAC-Chill
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403512234.png" group-title="LOUNGE Radio - radio.pervii.com", HBR1 - Tronic Lounge - 128 kbit/s
 http://radio.hbr1.com:19800/tronic.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="LOUNGE Radio - radio.pervii.com", RADIO CLASIC RELAX - 128 kbit/s
@@ -154,8 +156,6 @@ http://193.33.170.218:8000/RoyalLounge
 http://stream.kaaosradio.fi:8000/chill
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="LOUNGE Radio - radio.pervii.com", NIO FM - 128 kbit/s
 http://31.186.170.12:3062/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="LOUNGE Radio - radio.pervii.com", Costa Del Mar (Original) - 320 kbit/s
-https://radio4.cdm-radio.com:18020/stream64k-AAC-Chill
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="LOUNGE Radio - radio.pervii.com", RADIO Reeperbahn - Lounge - 128 kbit/s
 http://ice.radio-reeperbahn.de:8000/stream2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561035239.jpg" group-title="LOUNGE Radio - radio.pervii.com", African Revival Radio - 128 kbit/s
@@ -168,6 +168,8 @@ http://www.radioson.ru:8009/LoungeABC.mp3
 https://coolmusic.online/stream-mp3-CoolMusic_autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403699645.png" group-title="LOUNGE Radio - radio.pervii.com", Dark Edge Radio - 128 kbit/s
 http://5.35.214.196:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259996.jpg" group-title="LOUNGE Radio - radio.pervii.com", Costa Del Mar - Chillout - 96 kbit/s
+https://radio4.cdm-radio.com:18020/stream-mp3-Chill
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403872606.png" group-title="LOUNGE Radio - radio.pervii.com", Panradio - Panfloete 24/7 Panflute - Panpipes - 64 kbit/s
 http://85.25.217.22:8060/stream/3/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="LOUNGE Radio - radio.pervii.com", velvetlounge - 128 kbit/s
@@ -178,21 +180,15 @@ http://91.226.88.219:8090
 http://strm112.1.fm:80/chilloutlounge_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537515535.jpg" group-title="LOUNGE Radio - radio.pervii.com", TECHNO4EVER LOUNGE - 192 kbit/s
 http://out03.t4e.dj/lounge_high.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259996.jpg" group-title="LOUNGE Radio - radio.pervii.com", Costa Del Mar - Chillout - 96 kbit/s
-https://radio4.cdm-radio.com:18020/stream-mp3-Chill
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="LOUNGE Radio - radio.pervii.com", lounge - 192 kbit/s
-http://88.99.44.23:80
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="LOUNGE Radio - radio.pervii.com", GloballyRelaxed Stream - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537515535.jpg" group-title="LOUNGE Radio - radio.pervii.com", GloballyRelaxed Stream - 128 kbit/s
 http://perseus.shoutca.st:8775/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1453856774.jpg" group-title="LOUNGE Radio - radio.pervii.com", Splash Lounge - 128 kbit/s
 http://ais-sa2.cdnstream1.com/2209_128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="LOUNGE Radio - radio.pervii.com", Illinois Street Lounge [SomaFM] - 128 kbit/s
-http://ice1.somafm.com/illstreet-64-aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="LOUNGE Radio - radio.pervii.com", SKGLOBE.NET | CH3 SENSES - 192 kbit/s
-http://31.220.45.16:80
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="LOUNGE Radio - radio.pervii.com", ThisIsLounge - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="LOUNGE Radio - radio.pervii.com", lounge - 192 kbit/s
+http://88.99.44.23:80
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="LOUNGE Radio - radio.pervii.com", ThisIsLounge - 128 kbit/s
 http://listen.radionomy.com:80/ThisIsLounge
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="LOUNGE Radio - radio.pervii.com", Mondello Radio (MRG.fm) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="LOUNGE Radio - radio.pervii.com", Mondello Radio (MRG.fm) - 128 kbit/s
 http://62.149.196.16:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561645518.jpg" group-title="LOUNGE Radio - radio.pervii.com", FM91 Pakistan - Spin Cycle (Salim Karim&apos;s) - 128 kbit/s
 http://172.93.237.106:8231/stream/1/
@@ -200,3 +196,7 @@ http://172.93.237.106:8231/stream/1/
 http://gr02.cdnstream.com:8160
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556528072.jpg" group-title="LOUNGE Radio - radio.pervii.com", Live irma_records - 128 kbit/s
 http://91.194.90.147:8016
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1595560080.jpg" group-title="LOUNGE Radio - radio.pervii.com", RadioLoungeNewAge AutoDJ - 128 kbit/s
+https://onair.wfuv.org/onair-hi
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12871.jpg" group-title="LOUNGE Radio - radio.pervii.com", FG CHIC - 128 kbit/s
+http://radiofg.impek.com/fgc

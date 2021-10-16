@@ -178,25 +178,25 @@ http://16bitfm.com:8000/main_mp3_192
 http://88.208.218.19:8090/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403599168.png" group-title="HOUSE Radio - radio.pervii.com", Danceradio - 192 kbit/s
 http://stream.danceradio.nl:9920
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403599168.png" group-title="HOUSE Radio - radio.pervii.com", Deep Space Radio - 128 kbit/s
-http://deepspaceradio2.streamguys1.com:80/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403599168.png" group-title="HOUSE Radio - radio.pervii.com", DJ ARCH SOULFUL HOUSE/CLASSICS RADIO - 192 kbit/s
-http://139.162.242.244:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="HOUSE Radio - radio.pervii.com", pure fm - hamburgs electronic radio - 128 kbit/s
 http://s1.radionetz.de:8000/purefm-hh.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="HOUSE Radio - radio.pervii.com", Audioasyl - 320 kbit/s
 http://stream.audioasyl.net:8000/audioasyl
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550164036.jpg" group-title="HOUSE Radio - radio.pervii.com", OM Radio 2 - 256 kbit/s
-http://188.138.198.247:8002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572766785.jpg" group-title="HOUSE Radio - radio.pervii.com", RadioSrbac - 128 kbit/s
 http://91.121.195.222:4858/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1578286099.jpg" group-title="HOUSE Radio - radio.pervii.com", Moon Mission Recordings, Tokyo Deep and Electronic - 128 kbit/s
 http://uk5.internet-radio.com:8306/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15632.jpg" group-title="HOUSE Radio - radio.pervii.com", AutoDJ: - 128 kbit/s
-http://nebula.shoutca.st:8075/autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15632.jpg" group-title="HOUSE Radio - radio.pervii.com", Bedroom DJ Radio House Channel - 128 kbit/s
-http://46.28.49.164:7650
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537515535.jpg" group-title="HOUSE Radio - radio.pervii.com", house - 128 kbit/s
-http://out03.t4e.dj/club_high.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108213.jpg" group-title="HOUSE Radio - radio.pervii.com", Basslover - www.basslover.de - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1578286099.jpg" group-title="HOUSE Radio - radio.pervii.com", OM Radio 2 - 256 kbit/s
+http://188.138.198.247:8002/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1578286099.jpg" group-title="HOUSE Radio - radio.pervii.com", Deep Space Radio - 128 kbit/s
+http://deepspaceradio2.streamguys1.com:80/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1578286099.jpg" group-title="HOUSE Radio - radio.pervii.com", DJ ARCH SOULFUL HOUSE/CLASSICS RADIO - 192 kbit/s
+http://139.162.242.244:8022/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108213.jpg" group-title="HOUSE Radio - radio.pervii.com", Basslover - www.basslover.de - 192 kbit/s
 http://62.75.156.219:9000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1559900254.jpg" group-title="HOUSE Radio - radio.pervii.com", Freeminded FM House or Hardstyle (new) - 192 kbit/s
+http://37.97.154.164:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537590741.jpg" group-title="HOUSE Radio - radio.pervii.com", *** STRICTLY HOUSE - TECH CHANNEL *** - 128 kbit/s
+http://radio.strictly.house:9505/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1554052500.jpg" group-title="HOUSE Radio - radio.pervii.com", Pressure Radio - Deep Soulful Afro House - 128 kbit/s
+http://ic2256.c786.fast-serv.com:80/autodj
