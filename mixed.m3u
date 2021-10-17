@@ -40,10 +40,10 @@ http://live.radio.li:8000/live
 http://listen.radiohyrule.com:8000/listen?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550144982.jpg" group-title="MIXED Radio - radio.pervii.com", MixMusicRadio Romania - De 12 ani alaturi de voi - www.mixmusicradio.ro - 128 kbit/s
 http://mixmusicdance.zapto.org:8890/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552136440.jpg" group-title="MIXED Radio - radio.pervii.com", Radiomeuh.com - 128 kbit/s
-http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="MIXED Radio - radio.pervii.com", M1.FM - Clubmix - 128 kbit/s
 http://tuner.m1.fm/clubmix.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552136440.jpg" group-title="MIXED Radio - radio.pervii.com", Radiomeuh.com - 128 kbit/s
+http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550029768.jpg" group-title="MIXED Radio - radio.pervii.com", DhakaFM - 128 kbit/s
 http://118.179.219.244:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551452893.jpg" group-title="MIXED Radio - radio.pervii.com", Taksimlive - 128 kbit/s
@@ -104,12 +104,10 @@ http://live7.avf.ch:8000/ipmusic320
 http://france1.coollabel-productions.com:8142/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", Hotmixradio Lounge - 64 kbit/s
 http://streaming.hotmix-radio.net/hotmixradio-lounge-64.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537613649.jpg" group-title="MIXED Radio - radio.pervii.com", Luxfunk Blackmix - 192 kbit/s
-http://risefm1.stereoplayer.hu:5000/luxfunkblackmix.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551591593.jpg" group-title="MIXED Radio - radio.pervii.com", A-0 All Mixedup - 128 kbit/s
 http://ares5.radiochoice.net/1016_a0allmixedup128k
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72838.jpg" group-title="MIXED Radio - radio.pervii.com", Cerritos All Stars Presents LiveMixShow.com Live Mix Show - 128 kbit/s
-http://listen.radionomy.com:80/DPARKRADIO
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537613649.jpg" group-title="MIXED Radio - radio.pervii.com", Luxfunk Blackmix - 192 kbit/s
+http://risefm1.stereoplayer.hu:5000/luxfunkblackmix.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="MIXED Radio - radio.pervii.com", CALM RADIO - CLASSICAL MIX - Sampler - 128 kbit/s
 http://23.82.11.88:2828/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", Hotmixradio Funky - 320 kbit/s
@@ -118,10 +116,12 @@ http://streaming.hotmix-radio.net/hotmixradio-funky-64.mp3
 http://live7.avf.ch:8000/ipmusicaacplus96
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", Hotmixradio Dance - 320 kbit/s
 http://streaming.hotmix-radio.net/hotmixradio-dance-64.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550160074.jpg" group-title="MIXED Radio - radio.pervii.com", IP music SLOW - aacPlus@96 Kb/s - 320 kbit/s
-http://live9.avf.ch:8000/ipmusicslowaacp96
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="MIXED Radio - radio.pervii.com", Groovy Mixx - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/72838.jpg" group-title="MIXED Radio - radio.pervii.com", Cerritos All Stars Presents LiveMixShow.com Live Mix Show - 128 kbit/s
+http://listen.radionomy.com:80/DPARKRADIO
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="MIXED Radio - radio.pervii.com", Groovy Mixx - 128 kbit/s
 http://ais-sa2.cdnstream1.com/1983_64.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550160074.jpg" group-title="MIXED Radio - radio.pervii.com", IP music SLOW - aacPlus@96 Kb/s - 128 kbit/s
+http://live9.avf.ch:8000/ipmusicslowaacp96
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403803827.png" group-title="MIXED Radio - radio.pervii.com", Lav Radio Mix HD - Armenian Music Radio - 256 kbit/s
 http://163.172.7.220:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", Hotmixradio Rock - 128 kbit/s
@@ -132,50 +132,52 @@ http://s1.slotex.pl:8058/stream/1/
 http://streaming.hotmix-radio.net/hotmixradio-frenchy-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", Gizmo New 102 (The Mixx) - 128 kbit/s
 http://206.190.135.28:8302/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550678674.jpg" group-title="MIXED Radio - radio.pervii.com", Live Mix - 128 kbit/s
+http://mp4.livemix.com.br:80/livemix
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556587175.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Balkanfox - 128 kbit/s
+http://radio.balkanfox.com:9980/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/112087.jpg" group-title="MIXED Radio - radio.pervii.com", Deep Mix Moscow Radio - 24 kbit/s
 http://radio.deepmix.ru:8028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1559890647.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Sevnica-Slovenija - 128 kbit/s
 http://89.233.121.131:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550160074.jpg" group-title="MIXED Radio - radio.pervii.com", IP music SLOW - MP3@256 Kb/s - 256 kbit/s
 http://live7.avf.ch:8000/ipmusicslow256
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550678674.jpg" group-title="MIXED Radio - radio.pervii.com", Live Mix - 256 kbit/s
-http://mp4.livemix.com.br:80/livemix
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556587175.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Balkanfox - 128 kbit/s
-http://radio.balkanfox.com:9980/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1556587175.jpg" group-title="MIXED Radio - radio.pervii.com", Dyna&apos;MIX - 128 kbit/s
-http://listen.radionomy.com/Dyna-MIX
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/83924.jpg" group-title="MIXED Radio - radio.pervii.com", Nueva Radio Portalfoxmix 2021 - 320 kbit/s
 https://sonic.portalfoxmix.cl/8002/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552643289.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Monique 963 Gold / Radio Caroline 319 Gold . The Perfect Mix from Breskens  -  Holland  s1 - 320 kbit/s
 http://www.rcgoldserver.eu:8963/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552643289.jpg" group-title="MIXED Radio - radio.pervii.com", Dyna&apos;MIX - 128 kbit/s
+http://listen.radionomy.com/Dyna-MIX
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537588087.jpg" group-title="MIXED Radio - radio.pervii.com", RetroHitMix (Retro Hit Mix) - 128 kbit/s
 http://hestia.cdnstream.com:80/1340_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", Hotmixradio 90 - 128 kbit/s
 http://streaming.hotmix-radio.net/hotmixradio-90-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="MIXED Radio - radio.pervii.com", MEGARADIOmix Berlin - 128 kbit/s
-http://stream.msone.de:8000/msone
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1555245587.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Dijaspora: Club Mix - 128 kbit/s
-http://94.249.254.11:9050/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561157479.jpg" group-title="MIXED Radio - radio.pervii.com", Radio PARALAX - Chiptune- & Videogame Remixes - DSL Stream - 192 kbit/s
-http://radio-paralax.de:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555249531.jpg" group-title="MIXED Radio - radio.pervii.com", Japan-A-Radio - Japan&#039;s best music mix! - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555249531.jpg" group-title="MIXED Radio - radio.pervii.com", Japan-A-Radio - Japan&#039;s best music mix! - 128 kbit/s
 http://audio.misproductions.com/japan48kaacp
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403573998.png" group-title="MIXED Radio - radio.pervii.com", Future Radio - 64 kbit/s
 http://radio.canstream.co.uk:8007/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574087476.jpg" group-title="MIXED Radio - radio.pervii.com", MixHouse Tv Spotlight - 128 kbit/s
 http://158.69.4.171:8255/autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574087476.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Shadow Rock Mix - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574087476.jpg" group-title="MIXED Radio - radio.pervii.com", MEGARADIOmix Berlin - 128 kbit/s
+http://stream.msone.de:8000/msone
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1555245587.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Dijaspora: Club Mix - 128 kbit/s
+http://94.249.254.11:9050/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561157479.jpg" group-title="MIXED Radio - radio.pervii.com", Radio PARALAX - Chiptune- & Videogame Remixes - DSL Stream - 192 kbit/s
+http://radio-paralax.de:8000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561157479.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Shadow Rock Mix - 128 kbit/s
 http://162.244.80.131:8052/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="MIXED Radio - radio.pervii.com", IP music - MP3@256 Kb/s - 256 kbit/s
+http://live9.avf.ch:8000/ipmusic256
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561044669.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Readymix - 320 kbit/s
+http://server-26.stream-server.nl:8522/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403694133.png" group-title="MIXED Radio - radio.pervii.com", Helmedia Inc - Mixology Internet Portal - 128 kbit/s
 http://listen.radionomy.com:80/HonorOneRadio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/75031.jpg" group-title="MIXED Radio - radio.pervii.com", Intermix 93.1 FM : Une radio a votre image! - 64 kbit/s
 http://sitegenial.com:8090
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403690365.png" group-title="MIXED Radio - radio.pervii.com", MixFM - 32 kbit/s
 http://fijiradio.net:8000/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title="MIXED Radio - radio.pervii.com", IP music - MP3@256 Kb/s - 256 kbit/s
-http://live9.avf.ch:8000/ipmusic256
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1561044669.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Readymix - 320 kbit/s
-http://server-26.stream-server.nl:8522/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553500478.jpg" group-title="MIXED Radio - radio.pervii.com", Ambient Lounge on MixLive.ie - 192 kbit/s
+https://listen.openstream.co/6273/audio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561819960.jpg" group-title="MIXED Radio - radio.pervii.com", PIKINE BIZ RADIO - 96 kbit/s
 http://198.178.123.23:7994
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561819960.jpg" group-title="MIXED Radio - radio.pervii.com", RADIO FIESTA MIX - 96 kbit/s
@@ -184,16 +186,14 @@ https://sonic.portalfoxmix.cl:7026/stream/1/
 http://208.84.155.89:8032
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554562352.jpg" group-title="MIXED Radio - radio.pervii.com", ANTENA LATINO MIX - 128 kbit/s
 http://live.antenazagreb.hr:8015/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553500478.jpg" group-title="MIXED Radio - radio.pervii.com", Ambient Lounge on MixLive.ie - 192 kbit/s
-https://listen.openstream.co/6273/audio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553500478.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Gondomar Mix - 128 kbit/s
-http://95.217.75.38:9964/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553500478.jpg" group-title="MIXED Radio - radio.pervii.com", Mixx FM - 128 kbit/s
-http://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549886241.jpg" group-title="MIXED Radio - radio.pervii.com", mixsaladillo - 128 kbit/s
 http://streaming.radiolinksmedia.com:7931/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="MIXED Radio - radio.pervii.com", bigFM EDM & PROGRESSIVE (nitroX DJ-MIX) - 128 kbit/s
 http://streams.bigfm.de/bigfm-nitroxedm-128-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="MIXED Radio - radio.pervii.com", Radio Gondomar Mix - 128 kbit/s
+http://95.217.75.38:9964/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94123.jpg" group-title="MIXED Radio - radio.pervii.com", Mixx FM - 128 kbit/s
+http://mixxfmfr.ice.infomaniak.ch/mixxfmfr-192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594310869.jpg" group-title="MIXED Radio - radio.pervii.com", Mixxx - 192 kbit/s
 http://stream.netlit.eu:80/rcdc
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550493850.jpg" group-title="MIXED Radio - radio.pervii.com", auto dj - 128 kbit/s

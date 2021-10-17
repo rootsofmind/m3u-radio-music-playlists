@@ -36,10 +36,10 @@ http://cassini.shoutca.st:8277/stream/1/
 http://hestia.cdnstream.com/1256_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403712463.png" group-title="SOUL Radio - radio.pervii.com", KIEE 88.3 FM - 128 kbit/s
 http://45.34.6.204:8005/KIEE
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403853628.png" group-title="SOUL Radio - radio.pervii.com", The FunkStation - 128 kbit/s
-http://84.27.114.6:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1575731352.jpg" group-title="SOUL Radio - radio.pervii.com", Stereo95 - 128 kbit/s
 http://192.187.112.50:8091/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403853628.png" group-title="SOUL Radio - radio.pervii.com", The FunkStation - 128 kbit/s
+http://84.27.114.6:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1575731352.jpg" group-title="SOUL Radio - radio.pervii.com", xhnh - 128 kbit/s
 http://192.187.112.50:8091
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="SOUL Radio - radio.pervii.com", Seven Inch Soul: Vintage soul tracks from the original 45 RPM vinyl. [SomaFM] - 160 kbit/s
@@ -76,12 +76,12 @@ http://81.169.196.110:8075/stream/1/
 http://stm31.srvstm.com:8916/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561118183.jpg" group-title="SOUL Radio - radio.pervii.com", Radio0511 - 192 kbit/s
 http://stream.radio0511.com:8880/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Motion FM &gt; Smooth - MotionFM.com - 192 kbit/s
-https://vm.motionfm.com/motiontwo_aacp?=1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Danceradio - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561118183.jpg" group-title="SOUL Radio - radio.pervii.com", Danceradio - 192 kbit/s
 http://stream.danceradio.nl:9920
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", love soul radio - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561118183.jpg" group-title="SOUL Radio - radio.pervii.com", love soul radio - 320 kbit/s
 http://198.100.145.185:8772/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Motion FM &gt; Smooth - MotionFM.com - 320 kbit/s
+https://vm.motionfm.com/motiontwo_aacp?=1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550756752.jpg" group-title="SOUL Radio - radio.pervii.com", NEON Radio - 128 kbit/s
 http://91.121.178.222:5670/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550756752.jpg" group-title="SOUL Radio - radio.pervii.com", Deep Space Radio - 128 kbit/s
@@ -100,37 +100,35 @@ http://38.96.148.253:7020
 http://192.95.39.65:5553/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/3787.jpg" group-title="SOUL Radio - radio.pervii.com", WUVS 103.7 FM Muskegon, Mi - 96 kbit/s
 http://142.4.217.133:8329/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/3787.jpg" group-title="SOUL Radio - radio.pervii.com", xcessradio.com - 128 kbit/s
-http://198.178.123.17:7804/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="SOUL Radio - radio.pervii.com", www.bmradio.de - 24/7 The finest in Black Music - 128 kbit/s
-http://pluto.bmradio.de:8002/bmradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Rockandroll-Radio - 128 kbit/s
-http://stream.laut.fm/rockandrollradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556691794.jpg" group-title="SOUL Radio - radio.pervii.com", SOULANDFUNKMUSIC.COM Back To The OldSchool - 128 kbit/s
 http://www.soulandfunkmusic.com:8443/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553270088.jpg" group-title="SOUL Radio - radio.pervii.com", Radio 94,3 - 192 kbit/s
 http://81.94.175.226:8000/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553270088.jpg" group-title="SOUL Radio - radio.pervii.com", softsoulmusicradio - 128 kbit/s
 http://38.96.175.97:5474
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553270088.jpg" group-title="SOUL Radio - radio.pervii.com", xcessradio.com - 128 kbit/s
+http://198.178.123.17:7804/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="SOUL Radio - radio.pervii.com", www.bmradio.de - 24/7 The finest in Black Music - 128 kbit/s
+http://pluto.bmradio.de:8002/bmradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Rockandroll-Radio - 128 kbit/s
+http://stream.laut.fm/rockandrollradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550157623.jpg" group-title="SOUL Radio - radio.pervii.com", 1 ABL Scotland69am - 320 kbit/s
 https://eu7.fastcast4u.com/proxy/1alba?mp=/1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556409460.jpg" group-title="SOUL Radio - radio.pervii.com", SOULLIVEFM.COM - 1st Club Radio - 128 kbit/s
 http://radio.soullive.ru:8000/soul128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
-https://vm.motionfm.com/motiontwo_aacp?=2
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108150.jpg" group-title="SOUL Radio - radio.pervii.com", SunriseFm London - 320 kbit/s
-http://109.169.46.197:8875/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108150.jpg" group-title="SOUL Radio - radio.pervii.com", Muzikamatrix - 320 kbit/s
-http://37.59.28.208:8857/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561030843.jpg" group-title="SOUL Radio - radio.pervii.com", Delite Radio - 128 kbit/s
 http://live3.istoikona.net:8152/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561030843.jpg" group-title="SOUL Radio - radio.pervii.com", radiobops - 128 kbit/s
 http://91.121.104.139:8500
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="SOUL Radio - radio.pervii.com", Youppala - 128 kbit/s
 http://sc4.mystreamserver.com:8012
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="SOUL Radio - radio.pervii.com", Star People - 256 kbit/s
-http://2.139.144.101:8020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="SOUL Radio - radio.pervii.com", ONLYRAI - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
+https://vm.motionfm.com/motiontwo_aacp?=2
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108150.jpg" group-title="SOUL Radio - radio.pervii.com", SunriseFm London - 320 kbit/s
+http://109.169.46.197:8875/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108150.jpg" group-title="SOUL Radio - radio.pervii.com", Muzikamatrix - 320 kbit/s
+http://37.59.28.208:8857/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108150.jpg" group-title="SOUL Radio - radio.pervii.com", ONLYRAI - 128 kbit/s
 http://broadcast.infomaniak.ch/onlyrai-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403740512.png" group-title="SOUL Radio - radio.pervii.com", RADIO SERVICE - 320 kbit/s
 http://serveur2.wanastream.com:46100/stream/1/
@@ -138,14 +136,8 @@ http://serveur2.wanastream.com:46100/stream/1/
 http://209.95.50.189:8112/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403740512.png" group-title="SOUL Radio - radio.pervii.com", MYHITMUSIC! RADIO - MR.GROOVE - Funk & Soul, RnB, 80s Dance Classicsl - 48 kbit/s
 http://151.80.43.143:8048/-aac_autodj.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403740512.png" group-title="SOUL Radio - radio.pervii.com", Funk soul &amp; much more - 128 kbit/s
-http://67.212.165.106:8013/autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550493264.jpg" group-title="SOUL Radio - radio.pervii.com", Fantasy Radio for Devizes - 128 kbit/s
-http://server.fantasyradio.co.uk:8300/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550493264.jpg" group-title="SOUL Radio - radio.pervii.com", Datca OnAir Live - 128 kbit/s
-http://185.126.217.8:9358/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550493264.jpg" group-title="SOUL Radio - radio.pervii.com", Station X - 192 kbit/s
-http://91.121.205.70:4000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556451230.jpg" group-title="SOUL Radio - radio.pervii.com", Star People - 256 kbit/s
+http://2.139.144.101:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="SOUL Radio - radio.pervii.com", SONGCAST RADIO - R&amp;B/Soul - 128 kbit/s
 http://songcastradio.com:9038/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556543990.jpg" group-title="SOUL Radio - radio.pervii.com", Radio TSOP - 128 kbit/s
@@ -154,23 +146,21 @@ http://85.195.88.149:28212/stream/1/
 http://192.99.83.154:8006/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556543990.jpg" group-title="SOUL Radio - radio.pervii.com", Mogul Soul Radio - 192 kbit/s
 http://pstnet4.shoutcastnet.com:40500/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Laut.fm rap 2 soul - 128 kbit/s
-http://stream.laut.fm/rap2soul
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Brum Radio - Birmingham - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556543990.jpg" group-title="SOUL Radio - radio.pervii.com", Funk soul &amp; much more - 128 kbit/s
+http://67.212.165.106:8013/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556543990.jpg" group-title="SOUL Radio - radio.pervii.com", Datca OnAir Live - 128 kbit/s
+http://185.126.217.8:9358/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550493264.jpg" group-title="SOUL Radio - radio.pervii.com", Fantasy Radio for Devizes - 128 kbit/s
+http://server.fantasyradio.co.uk:8300/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550493264.jpg" group-title="SOUL Radio - radio.pervii.com", Station X - 192 kbit/s
+http://91.121.205.70:4000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550493264.jpg" group-title="SOUL Radio - radio.pervii.com", Brum Radio - Birmingham - 128 kbit/s
 http://uk3.internet-radio.com:11168/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="SOUL Radio - radio.pervii.com", 1RadioFM  Jazz  Blues  Soul - 128 kbit/s
 http://192.232.192.96:9978/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/116149.jpg" group-title="SOUL Radio - radio.pervii.com", Street Radio - 192 kbit/s
-http://51.254.76.66:8004
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/116149.jpg" group-title="SOUL Radio - radio.pervii.com", Radio Lantau - 128 kbit/s
-http://205.134.253.103:9302/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="SOUL Radio - radio.pervii.com", Faymus Radio - 320 kbit/s
-http://212.71.250.12:8078/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="SOUL Radio - radio.pervii.com", Deepsoundradio - The Soul Show with Chris Karle - 22/04/2018 - 128 kbit/s
-http://api.spreaker.com/listen/user/4483394/episode/latest/shoutcast.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1450560916.jpg" group-title="SOUL Radio - radio.pervii.com", KVKVI - Music Mike&#039;s Flashback Favorites - 160 kbit/s
-http://66.55.145.43:7290
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1450560916.jpg" group-title="SOUL Radio - radio.pervii.com", Soul City Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Laut.fm rap 2 soul - 128 kbit/s
+http://stream.laut.fm/rap2soul
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Soul City Radio - 128 kbit/s
 http://www.streamvortex.com:10690/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SOUL Radio - radio.pervii.com", Radio Caprice - Soulful House - 128 kbit/s
 http://79.111.119.111:9085
@@ -182,21 +172,31 @@ http://199.189.111.28:8035/live
 http://178.19.96.111:8018
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SOUL Radio - radio.pervii.com", Radio Caprice - Soul - 128 kbit/s
 http://79.120.39.202:9061
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SOUL Radio - radio.pervii.com", WKIZ Kizz Radio - 96 kbit/s
-http://s29.myradiostream.com:6106/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SOUL Radio - radio.pervii.com", radiowizz - 192 kbit/s
 http://hyades.shoutca.st:8391/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SOUL Radio - radio.pervii.com", WKIZ Kizz Radio - 96 kbit/s
+http://s29.myradiostream.com:6106/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/116149.jpg" group-title="SOUL Radio - radio.pervii.com", Street Radio - 192 kbit/s
+http://51.254.76.66:8004
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122014.jpg" group-title="SOUL Radio - radio.pervii.com", WMNF HD-4 - 192 kbit/s
 http://stream.wmnf.org:8000/wmnf_hd4
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122014.jpg" group-title="SOUL Radio - radio.pervii.com", Smooth Herts, Beds and Bucks - 128 kbit/s
-http://media-ice.musicradio.com/SmoothHertsMP3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="SOUL Radio - radio.pervii.com", HearMe - Smooth Soul - 128 kbit/s
-http://hearme.fm:8537/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="SOUL Radio - radio.pervii.com", b-gyrl Radio - 128 kbit/s
-http://192.111.140.6:8190
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122014.jpg" group-title="SOUL Radio - radio.pervii.com", Deepsoundradio - The Soul Show with Chris Karle - 22/04/2018 - 128 kbit/s
+http://api.spreaker.com/listen/user/4483394/episode/latest/shoutcast.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122014.jpg" group-title="SOUL Radio - radio.pervii.com", Radio Lantau - 128 kbit/s
+http://205.134.253.103:9302/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1450560916.jpg" group-title="SOUL Radio - radio.pervii.com", KVKVI - Music Mike&#039;s Flashback Favorites - 160 kbit/s
+http://66.55.145.43:7290
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="SOUL Radio - radio.pervii.com", Faymus Radio - 320 kbit/s
+http://212.71.250.12:8078/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="SOUL Radio - radio.pervii.com", BMRadio.de - 64 kbit/s
 http://mobile.bmradio.de:9000
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="SOUL Radio - radio.pervii.com", b-gyrl Radio - 128 kbit/s
+http://192.111.140.6:8190
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="SOUL Radio - radio.pervii.com", Jolly Ol&#039; Soul: A vintage soul holiday broadcast. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/jollysoul-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550486442.jpg" group-title="SOUL Radio - radio.pervii.com", GulchRadio FM100.5 KZRJ Jerome, AZ - 32 kbit/s
 http://rmartinr.streamguys.us:2580
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550486442.jpg" group-title="SOUL Radio - radio.pervii.com", i-turn Radio - 192 kbit/s
+http://live.i-turnradio.nl:80/stream2
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594748020.jpg" group-title="SOUL Radio - radio.pervii.com", (MBStudio) - 128 kbit/s
+https://nrf1.newradio.it:9522/stream

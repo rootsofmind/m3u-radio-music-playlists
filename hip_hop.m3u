@@ -112,6 +112,12 @@ http://91.121.139.194:8184/stream/1/
 https://kathy.torontocast.com:3350/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg" group-title="HIP Radio - radio.pervii.com", VirtualDJ Radio - 128 kbit/s
 http://52.0.120.216:8000/stream/2/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg" group-title="HIP Radio - radio.pervii.com", Wicked!FM - 128 kbit/s
+http://82.94.204.100/proxy/wickedfm?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", SanFM.ru New Hits Station - 128 kbit/s
+http://178.218.221.73:8000/pop
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", Big Shot Radio - 128 kbit/s
+http://149.56.157.81:8677/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1571201048.jpg" group-title="HIP Radio - radio.pervii.com", PureWorship Music LLC Stream - 128 kbit/s
 http://198.50.158.92:9667/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1573398335.jpg" group-title="HIP Radio - radio.pervii.com", Holy Spirit Radio Philadelphia - 128 kbit/s
@@ -120,17 +126,17 @@ http://188.165.192.5:8444/stream/1/
 http://streams.rpr1.de/rpr-hiphop-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="HIP Radio - radio.pervii.com", www.bmradio.de - 24/7 The finest in Black Music - 128 kbit/s
 http://pluto.bmradio.de:8002/bmradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="HIP Radio - radio.pervii.com", Wicked!FM - 128 kbit/s
-http://82.94.204.100/proxy/wickedfm?mp=/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", SanFM.ru New Hits Station - 128 kbit/s
-http://178.218.221.73:8000/pop
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", Big Shot Radio - 128 kbit/s
-http://149.56.157.81:8677/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", RolandRadio - Your Amstrad CPC chiptune radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/75236.jpg" group-title="HIP Radio - radio.pervii.com", DTFRADIO - 96 kbit/s
+http://149.56.155.73:8044/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", SanFM.ru New Alternative Station - 96 kbit/s
+http://178.218.221.73:8000/alternative
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1559495778.jpg" group-title="HIP Radio - radio.pervii.com", DWG Radio Arabic - 64 kbit/s
+http://streamplus52.leonex.de:26012/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1559495778.jpg" group-title="HIP Radio - radio.pervii.com", RolandRadio - Your Amstrad CPC chiptune radio - 64 kbit/s
 http://streaming.rolandradio.net:80/rolandradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", FBC Radio - 48 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1559495778.jpg" group-title="HIP Radio - radio.pervii.com", FBC Radio - 48 kbit/s
 http://144.217.203.226:8620/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", ClassicHipHopRadio.com - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1559495778.jpg" group-title="HIP Radio - radio.pervii.com", ClassicHipHopRadio.com - 128 kbit/s
 http://198.143.144.226:8485
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="HIP Radio - radio.pervii.com", GotRadio - OG&#039;s Hip Hop and RnB - 128 kbit/s
 http://gr02.cdnstream.com:8580
@@ -140,13 +146,11 @@ https://orf-live.ors-shoutcast.at/fm4-q1a
 http://stream01.iloveradio.de/iloveradio13-aac.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563105866.jpg" group-title="HIP Radio - radio.pervii.com", Hot Jamz Radio NL - 160 kbit/s
 http://stream.click2.nl/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/75236.jpg" group-title="HIP Radio - radio.pervii.com", DTFRADIO - 96 kbit/s
-http://149.56.155.73:8044/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="HIP Radio - radio.pervii.com", SanFM.ru New Alternative Station - 96 kbit/s
-http://178.218.221.73:8000/alternative
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1559495778.jpg" group-title="HIP Radio - radio.pervii.com", DWG Radio Arabic - 64 kbit/s
-http://streamplus52.leonex.de:26012/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1559495778.jpg" group-title="HIP Radio - radio.pervii.com", ADR 201 The Blaze - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563105866.jpg" group-title="HIP Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
+http://dix393.de:9011
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563105866.jpg" group-title="HIP Radio - radio.pervii.com", UGN RADIO - 128 kbit/s
+http://ice31.securenetsystems.net/UGNR
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1563105866.jpg" group-title="HIP Radio - radio.pervii.com", ADR 201 The Blaze - 128 kbit/s
 http://144.217.115.101:8060/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578140317.jpg" group-title="HIP Radio - radio.pervii.com", GFM Awesome 80s - 80s Rock, 80s Pop, 80s Hip-Hop - 128 kbit/s
 http://gfm.rastream.com/gfm-awesome80s?=3
@@ -160,13 +164,17 @@ http://5.135.154.69:15664/stream/1/
 http://109.169.26.139:8234/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715512.png" group-title="HIP Radio - radio.pervii.com", Planet Hip Hop (MRG.fm) - 128 kbit/s
 http://62.149.196.16:8100/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715512.png" group-title="HIP Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
-http://dix393.de:9011
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715512.png" group-title="HIP Radio - radio.pervii.com", UGN RADIO - 128 kbit/s
-http://ice31.securenetsystems.net/UGNR
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715512.png" group-title="HIP Radio - radio.pervii.com", ONLYRAI - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715512.png" group-title="HIP Radio - radio.pervii.com", DRS 2006 - Real Hip Hop - 128 kbit/s
+http://rs4.radiostreamer.com:8390
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559959342.jpg" group-title="HIP Radio - radio.pervii.com", 101.1 The Fam Digital Radio - 128 kbit/s
+http://107.181.227.250:8118/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559959342.jpg" group-title="HIP Radio - radio.pervii.com", MDR SPUTNIK Black Channel - 128 kbit/s
+http://addrad.io/4WRG64
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="HIP Radio - radio.pervii.com", 181.FM The Beat (HipHop/RnB) - 128 kbit/s
+http://listen.181fm.com/181-beat_64k.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="HIP Radio - radio.pervii.com", ONLYRAI - 128 kbit/s
 http://broadcast.infomaniak.ch/onlyrai-high.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715512.png" group-title="HIP Radio - radio.pervii.com", OldSchoolHip-Hop - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="HIP Radio - radio.pervii.com", OldSchoolHip-Hop - 128 kbit/s
 http://listen.radionomy.com:80/OldSchoolHip-Hop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="HIP Radio - radio.pervii.com", Radio Aripi Spre Cer International - Christian Radio WingS2Heaven W2H - 128 kbit/s
 http://aripisprecer.ro:8131/stream/1/
@@ -178,25 +186,17 @@ http://66.225.205.5:80/stream/1/
 http://5.39.71.159:8537/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="HIP Radio - radio.pervii.com", POWERHITZ.COM - 1POWER - #1 For Hitz & Hip Hop - 128 kbit/s
 http://jbmedia-edge1.cdnstream.com:80/1power
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="HIP Radio - radio.pervii.com", DRS 2006 - Real Hip Hop - 128 kbit/s
-http://rs4.radiostreamer.com:8390
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559959342.jpg" group-title="HIP Radio - radio.pervii.com", 101.1 The Fam Digital Radio - 128 kbit/s
-http://107.181.227.250:8118/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559959342.jpg" group-title="HIP Radio - radio.pervii.com", MDR SPUTNIK Black Channel - 128 kbit/s
-http://addrad.io/4WRG64
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="HIP Radio - radio.pervii.com", 181.FM The Beat (HipHop/RnB) - 128 kbit/s
-http://listen.181fm.com/181-beat_64k.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403507203.png" group-title="HIP Radio - radio.pervii.com", Afrik best radio - 192 kbit/s
+http://192.95.18.39:5127/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1596165695.jpg" group-title="HIP Radio - radio.pervii.com", Excitement Radio - 192 kbit/s
+https://stream.excitementradio.com:8444/excitementradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1596165695.jpg" group-title="HIP Radio - radio.pervii.com", TDK RADIO GUYANA - 192 kbit/s
+http://96.31.83.86:8126/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="HIP Radio - radio.pervii.com", SONGCAST RADIO - Rap &amp; Hip Hop - 128 kbit/s
+http://songcastradio.com:9028/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="HIP Radio - radio.pervii.com", http://www.stopbeefinradio.com - 128 kbit/s
+http://149.56.157.81:8752/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403709748.png" group-title="HIP Radio - radio.pervii.com", The Blaze - 64 kbit/s
+http://stream.abacast.net/direct/alphacorporate-kibzfmmp3-ibc4
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572841105.jpg" group-title="HIP Radio - radio.pervii.com", PVPJamz - Rap and HipHop - With Jammin Beats - 128 kbit/s
 http://stream2.pvpjamz.com:80/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572841105.jpg" group-title="HIP Radio - radio.pervii.com", The SID Station - 128 kbit/s
-http://185.80.220.12:8054/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/20333.jpg" group-title="HIP Radio - radio.pervii.com", DWG Radio Ceský - 64 kbit/s
-http://server25530.streamplus.de/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/20333.jpg" group-title="HIP Radio - radio.pervii.com", Round Here Radio - 320 kbit/s
-http://74.82.59.197:8436/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832903.png" group-title="HIP Radio - radio.pervii.com", Launch Radio FM - 320 kbit/s
-http://s8.voscast.com:7880/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832903.png" group-title="HIP Radio - radio.pervii.com", The Heat - 128 kbit/s
-http://184.154.206.204:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832903.png" group-title="HIP Radio - radio.pervii.com", Force One Network Radio - 128 kbit/s
-http://37.59.38.180:5936/stream/1/

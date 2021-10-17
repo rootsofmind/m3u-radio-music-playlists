@@ -18,15 +18,15 @@ http://www.drums.ro:8000
 http://81.18.165.235:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549704462.jpg" group-title="HARDCORE Radio - radio.pervii.com", Aggression @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
 http://s1.distortionradio.com:80/aggression-64
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549966319.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Twilight draait de mooiste hitsss - 256 kbit/s
+http://81.18.165.234:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403673702.png" group-title="HARDCORE Radio - radio.pervii.com", Freak Beats Tekno Radio - 64 kbit/s
 http://51.255.127.128:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1571553895.jpg" group-title="HARDCORE Radio - radio.pervii.com", Rude fm.com - 64 kbit/s
 http://78.129.228.187:8034
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561199762.jpg" group-title="HARDCORE Radio - radio.pervii.com", Bedroom DJ Radio Makina/UK Hardcore - 128 kbit/s
 http://46.28.49.164:7145
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549966319.jpg" group-title="HARDCORE Radio - radio.pervii.com", Radio Twilight draait de mooiste hitsss - 256 kbit/s
-http://81.18.165.234:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549966319.jpg" group-title="HARDCORE Radio - radio.pervii.com", UDMI Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561199762.jpg" group-title="HARDCORE Radio - radio.pervii.com", UDMI Radio - 128 kbit/s
 http://142.4.215.64:8008/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="HARDCORE Radio - radio.pervii.com", 1RadioFM  Metal  Thrash  Hardcore - 128 kbit/s
 http://192.232.192.96:9974/stream/1/

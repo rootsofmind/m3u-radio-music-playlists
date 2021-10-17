@@ -14,10 +14,10 @@ http://s5.voscast.com:7848/stream/1/
 http://primary.moodyradiostream.org/wmbifm.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549686414.jpg" group-title="GOSPEL Radio - radio.pervii.com", RADIO JESUS INTERNACIONAL - 64 kbit/s
 http://198.178.123.20:7618/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549686414.jpg" group-title="GOSPEL Radio - radio.pervii.com", 99.1 La Perrona (KXTA-FM) - 64 kbit/s
+http://ic2.christiannetcast.com/kxta-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537619412.jpg" group-title="GOSPEL Radio - radio.pervii.com", KDRY - AM 1100 - 24 kbit/s
 http://ic2.christiannetcast.com/kdry-am.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537619412.jpg" group-title="GOSPEL Radio - radio.pervii.com", 99.1 La Perrona (KXTA-FM) - 24 kbit/s
-http://ic2.christiannetcast.com/kxta-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550203283.jpg" group-title="GOSPEL Radio - radio.pervii.com", Praise 90.1FM WJOU - 24 kbit/s
 http://ic2.christiannetcast.com/wjou-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537584598.jpg" group-title="GOSPEL Radio - radio.pervii.com", radio horeb - 128 kbit/s
@@ -62,10 +62,10 @@ http://ic1.sslstream.com/rgbi-ir
 http://160.153.245.85:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/109857.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Verite - 128 kbit/s
 http://198.101.12.86:9990/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1571635266.jpg" group-title="GOSPEL Radio - radio.pervii.com", Z88.3 - 128 kbit/s
+http://ice.zradio.org:80/z/med.aac?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1552152404.jpg" group-title="GOSPEL Radio - radio.pervii.com", SW-Radio - 64 kbit/s
 http://segenswelle.de:8000/plautdietsch
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1571635266.jpg" group-title="GOSPEL Radio - radio.pervii.com", Z88.3 - 64 kbit/s
-http://ice.zradio.org:80/z/med.aac?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1576328738.jpg" group-title="GOSPEL Radio - radio.pervii.com", Can&#231;&#227;o Nova Brasilia - 64 kbit/s
 https://rdamchp1-lh.akamaihd.net/i/rdamchp_1_0@193678/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1551457202.jpg" group-title="GOSPEL Radio - radio.pervii.com", Kinship Christian Radio - 96 kbit/s
@@ -108,42 +108,42 @@ http://167.114.131.90:5726/stream/1/
 http://91.121.164.210:8032/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403593792.png" group-title="GOSPEL Radio - radio.pervii.com", Abiding Radio - Sacred - 128 kbit/s
 http://streams.abidingradio.org:7820/1_autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403593792.png" group-title="GOSPEL Radio - radio.pervii.com", The Revolution (Oldham) - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1554117678.jpg" group-title="GOSPEL Radio - radio.pervii.com", R - 128 kbit/s
+http://perfeitolouvor.com.br:8004
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1554117678.jpg" group-title="GOSPEL Radio - radio.pervii.com", The Revolution (Oldham) - 64 kbit/s
 http://webradio.radiomonitor.com/stream/Revolution
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/6166.jpg" group-title="GOSPEL Radio - radio.pervii.com", RadioMv.com | Russian Christian Radio - 24 kbit/s
 http://ru-low.radiomv.co:2202/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1554117678.jpg" group-title="GOSPEL Radio - radio.pervii.com", R - 128 kbit/s
-http://perfeitolouvor.com.br:8004
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/6166.jpg" group-title="GOSPEL Radio - radio.pervii.com", Gregorien - 128 kbit/s
+http://stric6.streamakaci.com:80/gregorien.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403505222.png" group-title="GOSPEL Radio - radio.pervii.com", AllWorship CW - 64 kbit/s
 http://allworship.streamguys.org/contemporary
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403505222.png" group-title="GOSPEL Radio - radio.pervii.com", Gregorien - 128 kbit/s
-http://stric6.streamakaci.com:80/gregorien.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8367.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Muslim - 96 kbit/s
 http://128.199.156.6:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549712648.jpg" group-title="GOSPEL Radio - radio.pervii.com", SOUL GOLD RADIO WXRU 1079. FM - 128 kbit/s
 http://cassini.shoutca.st:8277/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552794682.jpg" group-title="GOSPEL Radio - radio.pervii.com", RadioBOSS Stream - 128 kbit/s
 http://audio.sjamz.com:8262/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573980853.jpg" group-title="GOSPEL Radio - radio.pervii.com", RADIO MARIA FRANCE - 128 kbit/s
-http://dreamsiteradiocp4.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550199086.jpg" group-title="GOSPEL Radio - radio.pervii.com", RVE Oradea - 64 kbit/s
 http://38.96.148.39:6700/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/58803.jpg" group-title="GOSPEL Radio - radio.pervii.com", Emisora Palabra De Vida Eterna - 96 kbit/s
-http://62.210.141.243:8133/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403505222.png" group-title="GOSPEL Radio - radio.pervii.com", AllWorship Praise and Worship - 64 kbit/s
-http://allworship.streamguys.org/praise
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573980853.jpg" group-title="GOSPEL Radio - radio.pervii.com", RADIO MARIA FRANCE - 128 kbit/s
+http://dreamsiteradiocp4.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537583587.jpg" group-title="GOSPEL Radio - radio.pervii.com", Russkoe Hristianskoe radio Volna Schastya - 128 kbit/s
 http://176.9.150.230:9970/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550328122.jpg" group-title="GOSPEL Radio - radio.pervii.com", Oasis Fm Tenerife - 128 kbit/s
 http://s1.viastreaming.net:7120
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Crestin Aripi Spre Cer Mobile AAC - Christian Radio - 128 kbit/s
-http://aripisprecer.ro:8127/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/58803.jpg" group-title="GOSPEL Radio - radio.pervii.com", Emisora Palabra De Vida Eterna - 96 kbit/s
+http://62.210.141.243:8133/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403505222.png" group-title="GOSPEL Radio - radio.pervii.com", AllWorship Praise and Worship - 64 kbit/s
+http://allworship.streamguys.org/praise
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403450488.png" group-title="GOSPEL Radio - radio.pervii.com", KPOF - 64 kbit/s
 http://ic1.sslstream.com/kpof-am
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550709675.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Svetigora - 64 kbit/s
 http://svetigoralive.com:8879/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549691895.jpg" group-title="GOSPEL Radio - radio.pervii.com", Quran Coran - www.coran.tk - 64 kbit/s
 http://92.222.103.13:8005/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Crestin Aripi Spre Cer Mobile AAC - Christian Radio - 64 kbit/s
+http://aripisprecer.ro:8127/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259346.jpg" group-title="GOSPEL Radio - radio.pervii.com", GospelStarRadioOnline - 320 kbit/s
 http://eu5.fastcast4u.com:5093
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403664576.png" group-title="GOSPEL Radio - radio.pervii.com", Vallamaiyin Alaikal - Tamil Christian Radio - 256 kbit/s
@@ -152,38 +152,38 @@ http://74.208.24.178:80/stream/1/
 http://23.82.11.88:3228/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403622081.png" group-title="GOSPEL Radio - radio.pervii.com", Orthodox Radio - 64 kbit/s
 http://www.ortodoxradio.ro:8000/playlist64
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403622081.png" group-title="GOSPEL Radio - radio.pervii.com", RENACER 106.1FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1562219948.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio FARA - 64 kbit/s
+http://62.133.128.22:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403581547.png" group-title="GOSPEL Radio - radio.pervii.com", Radio MARANATHA HD - 96 kbit/s
+http://stream2.servercristianonetwork.com:8096/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403581547.png" group-title="GOSPEL Radio - radio.pervii.com", RENACER 106.1FM - 128 kbit/s
 http://166.88.21.98:9850
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537525255.jpg" group-title="GOSPEL Radio - radio.pervii.com", Life 102.5 - 96 kbit/s
 http://nwmedia-wnwc-fm.streamguys.com:80/wnwc-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549958464.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Tele Bethesda - 64 kbit/s
 http://zafemradio.com:9808
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1562219948.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio FARA - 64 kbit/s
-http://62.133.128.22:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403581547.png" group-title="GOSPEL Radio - radio.pervii.com", Radio MARANATHA HD - 96 kbit/s
-http://stream2.servercristianonetwork.com:8096/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1552584996.jpg" group-title="GOSPEL Radio - radio.pervii.com", KSWP - Fun &amp; Family Safe - 64 kbit/s
-http://ic1.sslstream.com/kswp-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550203305.jpg" group-title="GOSPEL Radio - radio.pervii.com", YES-FM - 64 kbit/s
 http://ic2.christiannetcast.com/yes-fm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1552584996.jpg" group-title="GOSPEL Radio - radio.pervii.com", KSWP - Fun &amp; Family Safe - 64 kbit/s
+http://ic1.sslstream.com/kswp-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403595595.png" group-title="GOSPEL Radio - radio.pervii.com", RADIO SAINT LOUIS (MB RECASTER) - 128 kbit/s
 http://91.121.29.104:8142/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403595595.png" group-title="GOSPEL Radio - radio.pervii.com", Golos Mira - MXO - 64 kbit/s
+http://184.75.241.24:8068
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552029745.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Autentica Cali - 64 kbit/s
+http://163.172.198.16:8068/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403411865.png" group-title="GOSPEL Radio - radio.pervii.com", KDKR 91.3 FM - 128 kbit/s
 http://live.kdkr.org:8000/kdkr
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Crestin Aripi Spre Cer Predici - Christian Radio - 128 kbit/s
 http://aripisprecer.ro:8129/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="GOSPEL Radio - radio.pervii.com", Golos Mira - MXO - 64 kbit/s
-http://184.75.241.24:8068
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552029745.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Autentica Cali - 64 kbit/s
-http://163.172.198.16:8068/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552029745.jpg" group-title="GOSPEL Radio - radio.pervii.com", Al Orthdoxiya Radio Station - 48 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Maria Austria - 128 kbit/s
+http://live.radiomaria.at:8000/rma2
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537544294.jpg" group-title="GOSPEL Radio - radio.pervii.com", New Life Radio - Radio Novaya Zhizn - 128 kbit/s
+http://ic2.christiannetcast.com/nlradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537544294.jpg" group-title="GOSPEL Radio - radio.pervii.com", Al Orthdoxiya Radio Station - 48 kbit/s
 http://s2.viastreaming.net:7040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1549768906.jpg" group-title="GOSPEL Radio - radio.pervii.com", Pravoslavnoe radio «Voskresenie» - 64 kbit/s
 http://www.orthodox-ural.ru:8000/stream.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Maria Austria - 64 kbit/s
-http://live.radiomaria.at:8000/rma2
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537544294.jpg" group-title="GOSPEL Radio - radio.pervii.com", New Life Radio - Radio Novaya Zhizn - 64 kbit/s
-http://ic2.christiannetcast.com/nlradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553998471.jpg" group-title="GOSPEL Radio - radio.pervii.com", WWW.HITRADIO.HU - 192 kbit/s
 http://stream1.hit.hu:8080/high
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550441871.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Ognjisce - Ljubljana - Slovenia - 128 kbit/s
@@ -192,11 +192,11 @@ http://real.ognjisce.si:8000/ognjisce.mp3
 http://mp3stream3.abradio.cz:8000/lumen128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1593504107.jpg" group-title="GOSPEL Radio - radio.pervii.com", KHPE - 128 kbit/s
 https://extramilemedia.streamguys1.com/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1593504107.jpg" group-title="GOSPEL Radio - radio.pervii.com", Upendo FM Radio 107.7 MHZ - 32 kbit/s
-http://s12.myradiostream.com:8186/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1593504107.jpg" group-title="GOSPEL Radio - radio.pervii.com", Radio Vie Meilleure - 128 kbit/s
 http://guadadvent.org:8000/rvm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1593504107.jpg" group-title="GOSPEL Radio - radio.pervii.com", WPIP 880 AM - 48 kbit/s
 http://s1.voscast.com:8968/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1593504107.jpg" group-title="GOSPEL Radio - radio.pervii.com", Upendo FM Radio 107.7 MHZ - 32 kbit/s
+http://s12.myradiostream.com:8186/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1562177417.jpg" group-title="GOSPEL Radio - radio.pervii.com", KHOY FM - 64 kbit/s
 http://ic2.christiannetcast.com/khoy-fm

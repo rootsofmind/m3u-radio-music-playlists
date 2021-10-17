@@ -42,10 +42,10 @@ http://37.187.79.93:8634/stream/1/
 http://wma06.fluidstream.net:3612
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="ITALIAN Radio - radio.pervii.com", LOLLIRADIO HITS - Top Hits - Italy Italia - 128 kbit/s
 https://hits.lolliradio.net
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553347761.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Manila - www.radiomanila.it - sms in diretta: 3385038908 - 128 kbit/s
-http://stream15.top-ix.org:80/radiomanila
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537584497.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Studio Piu&#039; - The Dance Station - Italy - Italia - www.studiopiu.net - SMS +393381411001 - diretta@studiopiu.net - 128 kbit/s
 http://www.studiopiu.net:8010
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553347761.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Manila - www.radiomanila.it - sms in diretta: 3385038908 - 128 kbit/s
+http://stream15.top-ix.org:80/radiomanila
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119222.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Pico - 128 kbit/s
 http://onair11.xdevel.com:8064
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1551016260.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Amore Campania - 128 kbit/s
@@ -92,24 +92,24 @@ http://webradio.antennevorarlberg.at:80/italiana
 http://streaming.radiodolomiti.com:8068/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="ITALIAN Radio - radio.pervii.com", Club Music Radio - FOLK - 320 kbit/s
 http://cmr-hosting.com:8010/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550054286.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Marte - 128 kbit/s
-http://onair11.xdevel.com:8092
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550054286.jpg" group-title="ITALIAN Radio - radio.pervii.com", FM ITALIA - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="ITALIAN Radio - radio.pervii.com", FM ITALIA - 128 kbit/s
 http://78.129.226.12:8700
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550328915.jpg" group-title="ITALIAN Radio - radio.pervii.com", ItaliaFm2 Musica Italiana - 128 kbit/s
 http://188.165.232.7:9273/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550054286.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Marte - 128 kbit/s
+http://onair11.xdevel.com:8092
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/9294.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Fusion Italia - 128 kbit/s
 https://www.shoutcastitalia.com/proxy/fusion?mp=/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550239442.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Selene - 128 kbit/s
 http://94.23.66.114:8013/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1438267757.jpg" group-title="ITALIAN Radio - radio.pervii.com", Italia Dance Music - 128 kbit/s
 http://91.121.118.99:8032/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550064514.jpg" group-title="ITALIAN Radio - radio.pervii.com", RADIO JUKE BOX TORINO - 128 kbit/s
-http://stream15.top-ix.org:80/radiojukebox
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="ITALIAN Radio - radio.pervii.com", RADIO MARIA EL SALVADOR - 32 kbit/s
 http://dreamsiteradiocp2.com:8086/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1551133374.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio NBC Rete Regione - 128 kbit/s
 http://audio1.meway.tv:8016/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550064514.jpg" group-title="ITALIAN Radio - radio.pervii.com", RADIO JUKE BOX TORINO - 128 kbit/s
+http://stream15.top-ix.org:80/radiojukebox
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/7436.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Suby - 56 kbit/s
 http://onair7.xdevel.com:8702
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550246550.jpg" group-title="ITALIAN Radio - radio.pervii.com", Playlist DeDi - 56 kbit/s
@@ -118,14 +118,14 @@ http://radio.oltreirc.net:8000
 https://radioyachtcapri.newradio.it/1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403562343.png" group-title="ITALIAN Radio - radio.pervii.com", Radio Toscana - 192 kbit/s
 http://onair15.xdevel.com:8068
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550327057.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Party Groove - 192 kbit/s
-http://stream15.top-ix.org:80/partygroove
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550327057.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Energy Italia Web - 128 kbit/s
-http://37.187.93.104:8812/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403605412.png" group-title="ITALIAN Radio - radio.pervii.com", Radio Nuova San Giorgio - 128 kbit/s
 http://eu1.fastcast4u.com:10942
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1551123714.jpg" group-title="ITALIAN Radio - radio.pervii.com", 70&#039;s 80&#039;s Music & Fashion - 96 kbit/s
 http://eu9.fastcast4u.com:5068/1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550327057.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Party Groove - 192 kbit/s
+http://stream15.top-ix.org:80/partygroove
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550327057.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Energy Italia Web - 128 kbit/s
+http://37.187.93.104:8812/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="ITALIAN Radio - radio.pervii.com", LOLLIRADIO ITALIA - Solo Canzoni Italiane - Best Italy Songs - 128 kbit/s
 https://italia.lolliradio.net
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403600800.png" group-title="ITALIAN Radio - radio.pervii.com", RADIO VALLEBELBO - 128 kbit/s
@@ -140,12 +140,10 @@ http://159.69.217.78:8000
 http://cmr-hosting.com:8030/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="ITALIAN Radio - radio.pervii.com", (MB STUDIO) - 128 kbit/s
 http://stream15.top-ix.org:80/radioitaliauno
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403559758.png" group-title="ITALIAN Radio - radio.pervii.com", RADIO MI PIACI - 128 kbit/s
-http://nr6.newradio.it:9182/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550940092.jpg" group-title="ITALIAN Radio - radio.pervii.com", Country Power Station ITALIA - 128 kbit/s
 http://62.75.145.120:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550940092.jpg" group-title="ITALIAN Radio - radio.pervii.com", Unspecified name - 128 kbit/s
-http://stream.wifi4all.it:8000/italianissima
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403559758.png" group-title="ITALIAN Radio - radio.pervii.com", RADIO MI PIACI - 128 kbit/s
+http://nr6.newradio.it:9182/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550746447.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Reggio - 128 kbit/s
 http://onair15.xdevel.com:9082
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1593431420.jpg" group-title="ITALIAN Radio - radio.pervii.com", RADIO MARIA USA - ITALIAN - 32 kbit/s
@@ -156,6 +154,8 @@ http://stream2.vivafm.it:8002/stream
 http://cmr-hosting.com:8070/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1551081168.jpg" group-title="ITALIAN Radio - radio.pervii.com", Viva Classica! - 320 kbit/s
 http://rondo.iradio.fi:8000/viva-hi.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1551081168.jpg" group-title="ITALIAN Radio - radio.pervii.com", Unspecified name - 128 kbit/s
+http://stream.wifi4all.it:8000/italianissima
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/109051.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Dancefloor - 90s - 96 kbit/s
 http://185.92.223.206:443/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550972232.jpg" group-title="ITALIAN Radio - radio.pervii.com", Pinoy Heart Radio - 96 kbit/s
@@ -168,10 +168,10 @@ http://onair15.xdevel.com:8062
 http://streaming.radiodancefloor.it:80/dancefloor.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550064337.jpg" group-title="ITALIAN Radio - radio.pervii.com", SCORPIA69ONAIR - 128 kbit/s
 http://listen.radionomy.com:80/SCORPIA69ONAIR
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="ITALIAN Radio - radio.pervii.com", Club Music Radio - LOVE SONG - 320 kbit/s
-http://cmr-hosting.com:8040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556692200.jpg" group-title="ITALIAN Radio - radio.pervii.com", RADIO POPIZZ  (Pop-Hits) - 128 kbit/s
 http://nr11.newradio.it:8116/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="ITALIAN Radio - radio.pervii.com", Club Music Radio - LOVE SONG - 320 kbit/s
+http://cmr-hosting.com:8040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="ITALIAN Radio - radio.pervii.com", LOLLIRADIO DANCE - Dance &amp; House Hits - Italy Italia - 128 kbit/s
 http://dance.lolliradio.net:8030
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/118490.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Gamma Stereo - 192 kbit/s
@@ -182,14 +182,14 @@ http://94.23.67.172:9104
 http://s6.mediastreaming.it:9056
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550716646.jpg" group-title="ITALIAN Radio - radio.pervii.com", MB STUDIO - 128 kbit/s
 http://94.23.67.172:9108
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1593400763.jpg" group-title="ITALIAN Radio - radio.pervii.com", RTR 99 Canzoni e parole fuori dal coro - 128 kbit/s
-https://rtr99.fluidstream.eu/rtr99.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1593400763.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Millenote OnAir - 256 kbit/s
-http://str04.fluidstream.net/millenote.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554860311.jpg" group-title="ITALIAN Radio - radio.pervii.com", Club Music Radio - POP &amp; DANCE - 320 kbit/s
 http://cmr-hosting.com:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1574570715.jpg" group-title="ITALIAN Radio - radio.pervii.com", RDIO BLU - 128 kbit/s
 http://46.105.114.57:8009/stream2
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1593400763.jpg" group-title="ITALIAN Radio - radio.pervii.com", RTR 99 Canzoni e parole fuori dal coro - 128 kbit/s
+https://rtr99.fluidstream.eu/rtr99.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1593400763.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio Millenote OnAir - 256 kbit/s
+http://str04.fluidstream.net/millenote.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550726069.jpg" group-title="ITALIAN Radio - radio.pervii.com", AmbientRadio (MRG.fm) - 128 kbit/s
 http://62.149.196.16:8888/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/59203.jpg" group-title="ITALIAN Radio - radio.pervii.com", Radio BelllaeMonella - 128 kbit/s
