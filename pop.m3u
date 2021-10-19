@@ -100,16 +100,16 @@ http://arabella.stream.kapper.net:8002/arabellaooe
 http://209.126.97.239:443/stream/14/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572889764.jpg" group-title="POP Radio - radio.pervii.com", Bylgjan - 128 kbit/s
 http://icecast.visir.is:8000/orbbylgjan.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="POP Radio - radio.pervii.com", LiteFavorites.com - Today&#039;s Hits &amp; Yesterday&#039;s Favorites - 128 kbit/s
+http://naxos.cdnstream.com/1255_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563255535.jpg" group-title="POP Radio - radio.pervii.com", Tamil894FM - 192 kbit/s
 http://31.14.40.150:9000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10990.jpg" group-title="POP Radio - radio.pervii.com", FUN Radio CS - 128 kbit/s
 http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="POP Radio - radio.pervii.com", LiteFavorites.com - Today&#039;s Hits &amp; Yesterday&#039;s Favorites - 128 kbit/s
-http://naxos.cdnstream.com/1255_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="POP Radio - radio.pervii.com", Interativa Fm - 128 kbit/s
-http://suaradio1.dyndns.ws:13551/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403803827.png" group-title="POP Radio - radio.pervii.com", Lav Radio HD - Armenian Music Radio - 256 kbit/s
 http://163.172.7.220:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403803827.png" group-title="POP Radio - radio.pervii.com", Interativa Fm - 256 kbit/s
+http://suaradio1.dyndns.ws:13551/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406751.png" group-title="POP Radio - radio.pervii.com", Antenne Salzburg - 128 kbit/s
 http://streamplus22.leonex.de:24950/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1551298772.jpg" group-title="POP Radio - radio.pervii.com", iSTANBUL FM - 128 kbit/s
@@ -148,25 +148,25 @@ http://ice.abradio.cz:80/hit90128.mp3
 http://s1.slotex.pl:7022
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559901882.jpg" group-title="POP Radio - radio.pervii.com", DeeJay 97.5 Corfu Greece - 192 kbit/s
 https://sh.onweb.gr:7083/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1578462941.jpg" group-title="POP Radio - radio.pervii.com", Radio Krka - 128 kbit/s
-http://stream.radioaktual.si/Krka
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560904611.jpg" group-title="POP Radio - radio.pervii.com", Feel Good Radio - 192 kbit/s
 http://94.23.148.11:8344/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561789834.jpg" group-title="POP Radio - radio.pervii.com", Radio NAGASWARA RADIOTEMEN Bogor - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1578462941.jpg" group-title="POP Radio - radio.pervii.com", Radio Krka - 128 kbit/s
+http://stream.radioaktual.si/Krka
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561789834.jpg" group-title="POP Radio - radio.pervii.com", Radio NAGASWARA RADIOTEMEN Bogor - 128 kbit/s
 http://bogor.nagaswarafm.com:8088/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0925194707.jpg" group-title="POP Radio - radio.pervii.com", Radio 24 - Kiev - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0925194707.jpg" group-title="POP Radio - radio.pervii.com", Radio 24 - Kiev - 128 kbit/s
 http://icecastdc.luxnet.ua/radio24
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561809563.jpg" group-title="POP Radio - radio.pervii.com", CFM FRENCHIE 128mp3 - 128 kbit/s
 http://cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537587441.jpg" group-title="POP Radio - radio.pervii.com", RADUGA - 160 kbit/s
-http://stream.m-1.fm/raduga/high
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552501773.jpg" group-title="POP Radio - radio.pervii.com", Radio Tierra Kaliente - 128 kbit/s
 http://198.178.123.11:8032/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550203561.jpg" group-title="POP Radio - radio.pervii.com", Kpop Replay - 128 kbit/s
 http://167.114.64.181:8325/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg" group-title="POP Radio - radio.pervii.com", J-Pop Powerplay Kawaii - 128 kbit/s
 https://kathy.torontocast.com:3060/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550286730.jpg" group-title="POP Radio - radio.pervii.com", Radio Sputnik - Ekaterinburg 107 FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537587441.jpg" group-title="POP Radio - radio.pervii.com", RADUGA - 160 kbit/s
+http://stream.m-1.fm/raduga/high
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550286730.jpg" group-title="POP Radio - radio.pervii.com", Radio Sputnik - Ekaterinburg 107 FM - 160 kbit/s
 http://online.volgogradfm.ru:8000/sputnik107_aacplus
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403693894.png" group-title="POP Radio - radio.pervii.com", Radio Kontinental (Chelyabinsk 100,4 FM) - 128 kbit/s
 http://stream01.radiocon.ru:8000/live

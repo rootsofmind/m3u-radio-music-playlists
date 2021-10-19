@@ -54,12 +54,12 @@ http://streams.echoesofbluemars.org:8000/cryosleep
 http://5.39.82.157:8054/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="AMBIENT Radio - radio.pervii.com", Drone Zone: Atmospheric ambient space music. Serve Best Chilled. Safe with most medications. [SomaFM] - 256 kbit/s
 http://ice3.somafm.com/dronezone-256-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552106135.jpg" group-title="AMBIENT Radio - radio.pervii.com", VFM - 64 kbit/s
-http://46.105.172.166:8093
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="AMBIENT Radio - radio.pervii.com", 16Bit.FM CAFE Channel - 192 kbit/s
 http://16bitfm.com:8000/cafe_mp3_192
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="AMBIENT Radio - radio.pervii.com", FM93 - 128 kbit/s
 http://210.56.24.230:8004
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552106135.jpg" group-title="AMBIENT Radio - radio.pervii.com", VFM - 64 kbit/s
+http://46.105.172.166:8093
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="AMBIENT Radio - radio.pervii.com", Deep Motion FM - MotionFM.com - 128 kbit/s
 https://vm.motionfm.com/motionthree_aacp?=3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="AMBIENT Radio - radio.pervii.com", Groove Salad: a nicely chilled plate of ambient beats and grooves. [SomaFM] - 256 kbit/s
@@ -86,11 +86,11 @@ http://stream.arrobba.com.mx:24000/stream/1/
 http://s1.slotex.pl:7328/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1570410593.jpg" group-title="AMBIENT Radio - radio.pervii.com", StarDust Space Radio - http://www.stardustradio.space/ - 128 kbit/s
 http://cast.stardustradio.space:8000/autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="AMBIENT Radio - radio.pervii.com", Laut.fm al dente - 128 kbit/s
-http://stream.laut.fm/al-dente
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561042971.jpg" group-title="AMBIENT Radio - radio.pervii.com", verdure.net - 192 kbit/s
 http://air.verdure.net:8881/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561042971.jpg" group-title="AMBIENT Radio - radio.pervii.com", WCSB 89.3 FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="AMBIENT Radio - radio.pervii.com", Laut.fm al dente - 128 kbit/s
+http://stream.laut.fm/al-dente
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="AMBIENT Radio - radio.pervii.com", WCSB 89.3 FM - 128 kbit/s
 http://40.71.172.49:8367/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561181513.jpg" group-title="AMBIENT Radio - radio.pervii.com", Aşk FM - 96 kbit/s
 http://askfm.co:9300/stream
@@ -112,8 +112,6 @@ http://23.82.11.88:6728/stream/1/
 http://109.74.196.48:8267/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AMBIENT Radio - radio.pervii.com", Culture Failure - 128 kbit/s
 http://209.63.239.148:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550764659.jpg" group-title="AMBIENT Radio - radio.pervii.com", Entranced.FM - A Chilled Mix of Ambient, Trance & World with Chat & Automated Requests - 128 kbit/s
-http://162.213.197.53:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="AMBIENT Radio - radio.pervii.com", PARTY VIBE RADIO : AMBIENT - 320 kbit/s
 http://www.partyvibe.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AMBIENT Radio - radio.pervii.com", CALMRADIO.COM - Aura - 128 kbit/s
@@ -126,10 +124,10 @@ http://5.9.25.50:9324
 http://ice1.somafm.com/sf1033-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="AMBIENT Radio - radio.pervii.com", Relaxing Radio 365 - 128 kbit/s
 http://s10.voscast.com:9574/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="AMBIENT Radio - radio.pervii.com", RadioSon.ru: Ambient Chillout Radio channel. - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550764659.jpg" group-title="AMBIENT Radio - radio.pervii.com", Entranced.FM - A Chilled Mix of Ambient, Trance & World with Chat & Automated Requests - 128 kbit/s
+http://162.213.197.53:80
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550764659.jpg" group-title="AMBIENT Radio - radio.pervii.com", RadioSon.ru: Ambient Chillout Radio channel. - 128 kbit/s
 http://www.radioson.ru:8009/ChilloutAnten.Radioson.ru.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1574506750.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Hayama - 128 kbit/s
-http://199.195.194.140:8073/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1478998867.jpg" group-title="AMBIENT Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
 http://donleone.online:8448/ambient?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1478998867.jpg" group-title="AMBIENT Radio - radio.pervii.com", Hexx 9 - 256 kbit/s
@@ -142,13 +140,13 @@ http://188.138.198.247:8002/stream/1/
 http://23.82.11.88:6728/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550726069.jpg" group-title="AMBIENT Radio - radio.pervii.com", AmbientRadio (MRG.fm) - 128 kbit/s
 http://62.149.196.16:8888/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1574506750.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Hayama - 128 kbit/s
+http://199.195.194.140:8073/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Caprice Dark Ambient - 128 kbit/s
 http://79.120.39.202:9095
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="AMBIENT Radio - radio.pervii.com", LFOD - Pi Radio - 128 kbit/s
 http://radio.lfod.online:3140/mpd
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="AMBIENT Radio - radio.pervii.com", Stream Name - 48 kbit/s
-http://real2.streaming-co.com:8007
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="AMBIENT Radio - radio.pervii.com", RePlayScape - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="AMBIENT Radio - radio.pervii.com", RePlayScape - 64 kbit/s
 http://195.176.247.12:9064/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="AMBIENT Radio - radio.pervii.com", Space Station Soma from SomaFM.com [SomaFM] - 64 kbit/s
 http://ice1.somafm.com/spacestation-64-aac
@@ -156,8 +154,8 @@ http://ice1.somafm.com/spacestation-64-aac
 http://188.165.192.5:8193/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="AMBIENT Radio - radio.pervii.com", 16Bit.FM I.D.E.A. channel - 128 kbit/s
 http://16bitfm.com:8000/idea_mp3_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82839.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
-http://217.147.162.239:8000/stream.ogg
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403831998.png" group-title="AMBIENT Radio - radio.pervii.com", Stream Name - 48 kbit/s
+http://real2.streaming-co.com:8007
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1560960608.jpg" group-title="AMBIENT Radio - radio.pervii.com", dinamo.fm sleep - 128 kbit/s
 http://channels.dinamo.fm/sleep-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1560960608.jpg" group-title="AMBIENT Radio - radio.pervii.com", Serene - 128 kbit/s
@@ -174,9 +172,9 @@ http://server-09.stream-server.nl:8404/stream/1/
 http://songcastradio.com:9018/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AMBIENT Radio - radio.pervii.com", CALMRADIO.COM - Didgeridoo - 128 kbit/s
 http://23.82.11.88:20428/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555076560.jpg" group-title="AMBIENT Radio - radio.pervii.com", Uturn Radio: Drum and Bass Music - 128 kbit/s
-http://listen-ca.uturnradio.com:80/drum_and_bass
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555076560.jpg" group-title="AMBIENT Radio - radio.pervii.com", Rede Cidade Web - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
+http://217.147.162.239:8000/stream.ogg
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AMBIENT Radio - radio.pervii.com", Rede Cidade Web - 192 kbit/s
 http://142.44.230.75:7014/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="AMBIENT Radio - radio.pervii.com", HearMe - Smooth Ambient - 128 kbit/s
 http://hearme.fm:8249/stream
@@ -188,15 +186,17 @@ http://radio.viennaplus.at:8000/stream/1/
 http://stream.laut.fm/promofabrik-radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="AMBIENT Radio - radio.pervii.com", COSMOS SOFT - 160 kbit/s
 http://makrodigital.net:8215/CosmosSoft
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="AMBIENT Radio - radio.pervii.com", JOKEY_RADIO - 128 kbit/s
-http://195.154.217.103:8006
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555076560.jpg" group-title="AMBIENT Radio - radio.pervii.com", Uturn Radio: Drum and Bass Music - 128 kbit/s
+http://listen-ca.uturnradio.com:80/drum_and_bass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Caprice - Ambient Dub - 128 kbit/s
 http://79.111.14.76:9037
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="AMBIENT Radio - radio.pervii.com", Radio Caprice - Ambient - 128 kbit/s
 http://79.111.119.111:9023
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="AMBIENT Radio - radio.pervii.com", HearMe - Ambient Chillout - 128 kbit/s
 http://hearme.fm:8260/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554784042.jpg" group-title="AMBIENT Radio - radio.pervii.com", Echoes of BLUEMARS - Voices From Within - 128 kbit/s
+http://streams.echoesofbluemars.org:8000/voicesfromwithin
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550493027.jpg" group-title="AMBIENT Radio - radio.pervii.com", Flying Tree Radio - 128 kbit/s
 http://91.121.164.210:8492/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550493027.jpg" group-title="AMBIENT Radio - radio.pervii.com", Echoes of BLUEMARS - Voices From Within - 128 kbit/s
-http://streams.echoesofbluemars.org:8000/voicesfromwithin
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550493027.jpg" group-title="AMBIENT Radio - radio.pervii.com", Starlite Soft &amp; Brite - 128 kbit/s
+http://149.56.234.138:8021/stream/1/

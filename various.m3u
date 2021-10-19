@@ -64,10 +64,10 @@ http://voyagewmp.radyotvonline.com
 http://mcrscast.mcr.iol.pt/smoothfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561911793.jpg" group-title="VARIOUS Radio - radio.pervii.com", Caicara - 96 kbit/s
 http://cast4.audiostream.com.br:8654/mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561727054.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Z³ote Przeboje (wersja ogolnoposka) - 128 kbit/s
-http://poznan5-6.radio.pionier.net.pl:8000/tuba9-1.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650547.png" group-title="VARIOUS Radio - radio.pervii.com", Sfera FM - 128 kbit/s
 http://phileradio.com:8193/sfera
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561727054.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Z³ote Przeboje (wersja ogolnoposka) - 128 kbit/s
+http://poznan5-6.radio.pionier.net.pl:8000/tuba9-1.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561801570.jpg" group-title="VARIOUS Radio - radio.pervii.com", DOMINICA BROADCASING CORPORATION - 96 kbit/s
 http://38.96.148.26:6930/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537441775.jpg" group-title="VARIOUS Radio - radio.pervii.com", Offradio - 128 kbit/s
@@ -108,11 +108,11 @@ https://atimeonline.smartclick.co.th/efm
 http://46.20.3.229:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1571647636.jpg" group-title="VARIOUS Radio - radio.pervii.com", RadyoD - 128 kbit/s
 https://radyo.duhnet.tv/radyod
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="VARIOUS Radio - radio.pervii.com", I Love Mashup by ilovemusic.de - 128 kbit/s
-http://138.201.252.232:80/iloveradio5.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1562053893.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Itatiaia - 128 kbit/s
 http://8903.brasilstream.com.br:8903/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1562053893.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Comas 101.7 FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="VARIOUS Radio - radio.pervii.com", I Love Mashup by ilovemusic.de - 128 kbit/s
+http://138.201.252.232:80/iloveradio5.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Comas 101.7 FM - 128 kbit/s
 http://65.60.2.26:8044/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="VARIOUS Radio - radio.pervii.com", M1.FM - Charts - 128 kbit/s
 http://tuner.m1.fm/charts.mp3
@@ -172,20 +172,20 @@ http://5230.cloudrad.io:8354/stream/1/
 http://199.180.75.26:80/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550194859.jpg" group-title="VARIOUS Radio - radio.pervii.com", no name - 64 kbit/s
 http://radios.rarserver.net:8078/catolicapr
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/75291.jpg" group-title="VARIOUS Radio - radio.pervii.com", europafm_mp3_64k - 64 kbit/s
+http://astreaming.europafm.ro:8000/europafm_mp3_64k
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403593189.png" group-title="VARIOUS Radio - radio.pervii.com", 96.3 RPK FM Jakarta - 96 kbit/s
 http://119.235.255.206:8030/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403631205.png" group-title="VARIOUS Radio - radio.pervii.com", Radio 107 - 128 kbit/s
 http://62.183.34.109:8000/radio107.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553524980.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Disney Ecuador - 128 kbit/s
 http://streamingecuador.net:8001/radiodisney.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/75291.jpg" group-title="VARIOUS Radio - radio.pervii.com", europafm_mp3_64k - 64 kbit/s
-http://astreaming.europafm.ro:8000/europafm_mp3_64k
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561869467.jpg" group-title="VARIOUS Radio - radio.pervii.com", Liberdade - 96 kbit/s
 http://cast4.audiostream.com.br:8655/mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537588160.jpg" group-title="VARIOUS Radio - radio.pervii.com", Onda Brava Radio Internacional - 96 kbit/s
-http://167.114.210.232:8221/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550286588.jpg" group-title="VARIOUS Radio - radio.pervii.com", 4CRB - 96 kbit/s
 http://180.214.74.2:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537588160.jpg" group-title="VARIOUS Radio - radio.pervii.com", Onda Brava Radio Internacional - 96 kbit/s
+http://167.114.210.232:8221/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1553698447.jpg" group-title="VARIOUS Radio - radio.pervii.com", matryoshka.fm - 192 kbit/s
 http://213.159.214.57:8000/matryoshka
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/97238.jpg" group-title="VARIOUS Radio - radio.pervii.com", Amistad 1090 AM - 32 kbit/s
@@ -198,5 +198,5 @@ http://srv39.brasilstream.com.br:8592/mp3
 http://stream.knvbc.com:8000/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", Kabriolet - 128 kbit/s
 http://setmedia.ru:8000/high3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403596890.png" group-title="VARIOUS Radio - radio.pervii.com", Radio Reyna - 64 kbit/s
-http://icecasthd.net:25720/radioreyna
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", Contact, la radio enjoy - 128 kbit/s
+http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3

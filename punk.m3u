@@ -32,12 +32,12 @@ http://stream.laut.fm/punk4all
 http://stream.freshrock.net:8000/128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1556541501.jpg" group-title="PUNK Radio - radio.pervii.com", The RockHistory Station - 128 kbit/s
 http://192.99.170.8:5722/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice Pop Punk - 128 kbit/s
-http://79.111.14.76:9035
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice - Russian Punk - 128 kbit/s
 http://79.120.77.11:9045
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Mainstream Dominator - The Neurofunk Powerstation - 128 kbit/s
 http://media.brokenpla.net:8000/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice Pop Punk - 128 kbit/s
+http://79.111.14.76:9035
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="PUNK Radio - radio.pervii.com", born79 - 128 kbit/s
 http://stream.laut.fm/born79
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="PUNK Radio - radio.pervii.com", Radio Caprice - Post-Punk - 128 kbit/s

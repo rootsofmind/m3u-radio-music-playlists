@@ -34,10 +34,10 @@ http://5.39.71.159:8118/stream/1/
 http://orion.shoutca.st:8990/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="BLUES Radio - radio.pervii.com", radiobaobab.mp3 - 128 kbit/s
 http://stream.radiobaobab.pl:8000/radiobaobab.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="BLUES Radio - radio.pervii.com", CALM RADIO - BLUES - Sampler - 128 kbit/s
-http://23.82.11.88:3728/stream1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/7855.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Radio Network - Marbella v2 - 128 kbit/s
 http://www.radioradio.es:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="BLUES Radio - radio.pervii.com", CALM RADIO - BLUES - Sampler - 128 kbit/s
+http://23.82.11.88:3728/stream1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550247774.jpg" group-title="BLUES Radio - radio.pervii.com", Kansas City Online Radio - 128 kbit/s
 http://199.180.75.2:9092/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550247774.jpg" group-title="BLUES Radio - radio.pervii.com", FM93 - 128 kbit/s
@@ -68,6 +68,8 @@ http://40.89.141.247:8052/stream/1/
 http://streamplus19.leonex.de:19176/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403856010.png" group-title="BLUES Radio - radio.pervii.com", Joint Radio Blues Rock - 128 kbit/s
 https://polaris.dribb.com/proxy/jrn_blues?mp=/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403847859.png" group-title="BLUES Radio - radio.pervii.com", Radio FUNKY Manele Romania wWw.RadioFunky.Ro - 128 kbit/s
+http://live.radiofunky.ro:8888/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="BLUES Radio - radio.pervii.com", GotRadio - Bit O&#039; Blues - 128 kbit/s
 http://gr02.cdnstream.com:8500
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537583587.jpg" group-title="BLUES Radio - radio.pervii.com", Russkoe Hristianskoe radio Volna Schastya - 64 kbit/s
@@ -76,8 +78,6 @@ http://176.9.150.230:9998/stream/1/
 http://82.65.128.140:9000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561181513.jpg" group-title="BLUES Radio - radio.pervii.com", Aşk FM - 96 kbit/s
 http://askfm.co:9300/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403847859.png" group-title="BLUES Radio - radio.pervii.com", Radio FUNKY Manele Romania wWw.RadioFunky.Ro - 128 kbit/s
-http://live.radiofunky.ro:8888/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="BLUES Radio - radio.pervii.com", ondalatina - 128 kbit/s
 http://stream.laut.fm/ondalatina
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/120363.jpg" group-title="BLUES Radio - radio.pervii.com", R - 64 kbit/s
@@ -90,10 +90,10 @@ http://188.165.240.90:8442/stream/1/
 http://198.105.216.204:8164/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537457977.jpg" group-title="BLUES Radio - radio.pervii.com", Shangrla Radio - 128 kbit/s
 http://212.83.138.48:8324/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="BLUES Radio - radio.pervii.com", alive - 128 kbit/s
-http://stream.laut.fm/alive
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1437343571.jpg" group-title="BLUES Radio - radio.pervii.com", Aardvark Blues FM - 128 kbit/s
 http://listen.radionomy.com:80/24-7LatestNews-HotMediaNews
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="BLUES Radio - radio.pervii.com", alive - 128 kbit/s
+http://stream.laut.fm/alive
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1594864758.jpg" group-title="BLUES Radio - radio.pervii.com", Slusate Radio2online.com - 128 kbit/s
 http://5.9.25.50:9324
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550201628.jpg" group-title="BLUES Radio - radio.pervii.com", Midlands Metalheads Radio - 192 kbit/s
@@ -118,6 +118,8 @@ http://stream.laut.fm/bluesitalia
 https://eu7.fastcast4u.com/proxy/1alba?mp=/1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice - Chicago Blues - 128 kbit/s
 http://79.111.14.76:9091
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice Blues Rock - 128 kbit/s
+http://79.120.39.202:9013
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", WKDfm - 192 kbit/s
 http://212.83.150.15:8467/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="BLUES Radio - radio.pervii.com", SONGCAST RADIO - Blues - 128 kbit/s
@@ -126,14 +128,14 @@ http://songcastradio.com:9012/stream/1/
 http://160.75.86.29:8082
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559813476.jpg" group-title="BLUES Radio - radio.pervii.com", Caldonia&apos;s Crossroad Radio - 128 kbit/s
 http://104.251.118.50:8360/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice Blues Rock - 128 kbit/s
-http://79.120.39.202:9013
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", SCMRADIO - 256 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1559813476.jpg" group-title="BLUES Radio - radio.pervii.com", SCMRADIO - 256 kbit/s
 http://192.99.35.215:5254/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice - Heavy&#47;Hard Blues - 128 kbit/s
 http://79.120.77.11:9119
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", DeBluesRadio - 128 kbit/s
 http://listen.radionomy.com:80/DeBluesRadio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403508651.png" group-title="BLUES Radio - radio.pervii.com", Party Blues & Oldies - 128 kbit/s
+http://ccfcon12.primcast.com:4136
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1571845645.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Divinity - 128 kbit/s
 /88.198.69.145:8120/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1571845645.jpg" group-title="BLUES Radio - radio.pervii.com", Positive Gold BLUES - 128 kbit/s
@@ -144,26 +146,28 @@ http://144.217.30.219:8055/stream/1/
 http://87.118.126.241:8092/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561384996.jpg" group-title="BLUES Radio - radio.pervii.com", PrismaTeam - 192 kbit/s
 http://server-09.stream-server.nl:8404/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403508651.png" group-title="BLUES Radio - radio.pervii.com", Party Blues & Oldies - 192 kbit/s
-http://ccfcon12.primcast.com:4136
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403508651.png" group-title="BLUES Radio - radio.pervii.com", Acadie web radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice - Modern Electric Blues - 128 kbit/s
+http://79.111.14.76:9007
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Acadie web radio - 128 kbit/s
 http://167.114.42.101:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="BLUES Radio - radio.pervii.com", &quot;AddictedToRadio.com - Blues Classics AAC&quot; - 128 kbit/s
 http://208.77.21.33:11630
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504965.png" group-title="BLUES Radio - radio.pervii.com", Pirateking/Blues/Jazz Radio - 128 kbit/s
 http://88.198.69.145:8496
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550445146.jpg" group-title="BLUES Radio - radio.pervii.com", Radio ViennaPLus - 128 kbit/s
-http://radio.viennaplus.at:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="BLUES Radio - radio.pervii.com", 1RadioFM  Jazz  Blues  Soul - 128 kbit/s
 http://192.232.192.96:9978/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550445146.jpg" group-title="BLUES Radio - radio.pervii.com", Radio ViennaPLus - 128 kbit/s
+http://radio.viennaplus.at:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice - Acoustic Blues - 128 kbit/s
 http://79.111.14.76:9071
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561645518.jpg" group-title="BLUES Radio - radio.pervii.com", FM91 Pakistan - Islamabad - 192 kbit/s
 http://172.93.237.106:8191/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice - Blues - 128 kbit/s
 http://79.120.77.11:9013
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radio Caprice - Modern Electric Blues - 128 kbit/s
-http://79.111.14.76:9007
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", ADR 212 Americana Muisc - 128 kbit/s
+http://144.217.115.101:8126/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", blues - 128 kbit/s
+http://k2.usastreams.com:80/blues
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", E.FM Radio - 128 kbit/s
 http://199.180.75.2:9409/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="BLUES Radio - radio.pervii.com", Radyo Gusto &#124; radyogusto.net - 128 kbit/s
@@ -194,9 +198,5 @@ http://szekely.europeserv.org:8000/stream/1/
 http://162.244.80.21:9086/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550445146.jpg" group-title="BLUES Radio - radio.pervii.com", Viennaplus 48Kbps - 48 kbit/s
 http://radio.viennaplus.at:8020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550445146.jpg" group-title="BLUES Radio - radio.pervii.com", ADR 212 Americana Muisc - 48 kbit/s
-http://144.217.115.101:8126/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550445146.jpg" group-title="BLUES Radio - radio.pervii.com", blues - 128 kbit/s
-http://k2.usastreams.com:80/blues
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550445146.jpg" group-title="BLUES Radio - radio.pervii.com", Despertando Vidas - 128 kbit/s
-http://108.163.250.202:9994/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403833258.png" group-title="BLUES Radio - radio.pervii.com", K-Rock Europe - 48 kbit/s
+http://37.59.37.6:7958/stream/1/

@@ -24,10 +24,10 @@ http://radiosunuker221.primcast.com:7148/stream/1/
 http://s2.myradiostream.com:5788/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="AFRICAN Radio - radio.pervii.com", Azawan amazigh by Yabiladi.com - 128 kbit/s
 http://37.187.146.76:9000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="AFRICAN Radio - radio.pervii.com", Radio Degnigban - 128 kbit/s
-http://167.114.131.90:5546/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="AFRICAN Radio - radio.pervii.com", SleekFm - 32 kbit/s
 http://198.178.123.17:7654/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="AFRICAN Radio - radio.pervii.com", Radio Degnigban - 128 kbit/s
+http://167.114.131.90:5546/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="AFRICAN Radio - radio.pervii.com", Bongo Radio - Channel One :: Tanzania Best For Bongo Flava - 128 kbit/s
 http://173.244.208.77:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550677364.jpg" group-title="AFRICAN Radio - radio.pervii.com", Radio Gameli - 128 kbit/s
@@ -62,20 +62,20 @@ http://www.hosting-serv.com:9140/stream/1/
 http://stream.radio.co/s8267df4de/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/68462.jpg" group-title="AFRICAN Radio - radio.pervii.com", FamilyGH - 96 kbit/s
 http://5.135.154.69:8516/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/68462.jpg" group-title="AFRICAN Radio - radio.pervii.com", AfricaLive RADIO - 128 kbit/s
+http://108.61.154.147:6222
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/68462.jpg" group-title="AFRICAN Radio - radio.pervii.com", UDR RADIO - 128 kbit/s
+http://stream.radio.co/sca4d4ab4e/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549957638.jpg" group-title="AFRICAN Radio - radio.pervii.com", Radio Paradisagasy - www.radioparadisagasy.com - 64 kbit/s
 http://163.172.29.170:8020
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549957638.jpg" group-title="AFRICAN Radio - radio.pervii.com", AfricaLive RADIO - 128 kbit/s
-http://108.61.154.147:6222
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549957638.jpg" group-title="AFRICAN Radio - radio.pervii.com", UDR RADIO - 128 kbit/s
-http://stream.radio.co/sca4d4ab4e/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549957638.jpg" group-title="AFRICAN Radio - radio.pervii.com", Dexterity &amp;amp; Platform Radio - 128 kbit/s
 http://s10.voscast.com:7814/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="AFRICAN Radio - radio.pervii.com", Bongo Radio - East African Music Channel [64K] - 64 kbit/s
 http://173.244.208.77:9000/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="AFRICAN Radio - radio.pervii.com", Thiossane - 128 kbit/s
-http://192.95.39.65:5601/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="AFRICAN Radio - radio.pervii.com", Radio Talibe - 128 kbit/s
 http://192.95.39.65:5279/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="AFRICAN Radio - radio.pervii.com", Thiossane - 128 kbit/s
+http://192.95.39.65:5601/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AFRICAN Radio - radio.pervii.com", CALMRADIO.COM - Africa - 128 kbit/s
 http://23.82.11.88:5128/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="AFRICAN Radio - radio.pervii.com", AHENFiE DRUMS RADiO - 64 kbit/s

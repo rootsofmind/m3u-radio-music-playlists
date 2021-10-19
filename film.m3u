@@ -20,10 +20,10 @@ http://162.244.80.106:8108/stream/1/
 http://horizons.subsonicradio.com:8000/requests.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="FILM Radio - radio.pervii.com", CALM RADIO - MOVIEOLA - Sampler - 128 kbit/s
 http://23.82.11.88:3128/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="FILM Radio - radio.pervii.com", HorrorAndHalloweenRadio.com - 128 kbit/s
-http://s2.voscast.com:11034/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403622201.png" group-title="FILM Radio - radio.pervii.com", KritiFm - 96 kbit/s
 http://s3.onweb.gr:8520
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403622201.png" group-title="FILM Radio - radio.pervii.com", HorrorAndHalloweenRadio.com - 128 kbit/s
+http://s2.voscast.com:11034/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1560913565.jpg" group-title="FILM Radio - radio.pervii.com", Kungaloosh Radio - 160 kbit/s
 http://192.184.9.158:8511
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1554825206.jpg" group-title="FILM Radio - radio.pervii.com", SubsonicRadio.com - Disney Theme Park Music | The Great Music Ride - 96 kbit/s
@@ -76,8 +76,6 @@ http://91.121.139.194:8004/stream/1/
 http://87.117.201.166:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1426449734.jpg" group-title="FILM Radio - radio.pervii.com", moviesoundtracks - 192 kbit/s
 http://strm112.1.fm/moviesoundtracks_mobile_mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1426449734.jpg" group-title="FILM Radio - radio.pervii.com", Atmospheres by Sorcerer Radio - 128 kbit/s
-https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2670862.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1592146932.jpg" group-title="FILM Radio - radio.pervii.com", Classic FM - Soundtracks - 128 kbit/s
 https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR26.mp3
 #EXTINF:-1 tvg-logo="" group-title="FILM Radio - radio.pervii.com", - - 128 kbit/s
@@ -90,3 +88,5 @@ http://208.84.155.87:8114
 http://prclive1.listenon.in:8808
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553400973.jpg" group-title="FILM Radio - radio.pervii.com", FFH SOUNDTRACK - 128 kbit/s
 http://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553400973.jpg" group-title="FILM Radio - radio.pervii.com", Atmospheres by Sorcerer Radio - 128 kbit/s
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2670862.mp3

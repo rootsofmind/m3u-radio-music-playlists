@@ -22,10 +22,10 @@ http://radiopetrecaretzu.zapto.org:8383/stream/1/
 http://a.fmradiomanele.ro:8054/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/107365.jpg" group-title="TOP Radio - radio.pervii.com", A - V-Hive Radio Philippines - The hottest pop Pinoy, OPM, Tagalog radio station. - 128 kbit/s
 http://192.99.8.192:3154/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/114199.jpg" group-title="TOP Radio - radio.pervii.com", Radio Stari Grad (RSG) Kragujevac - 104.3 MHz - 128 kbit/s
-http://stream.rsg.rs:8043/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537585457.jpg" group-title="TOP Radio - radio.pervii.com", Dolfijn FM - 192 kbit/s
 http://85.214.231.253:8080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/114199.jpg" group-title="TOP Radio - radio.pervii.com", Radio Stari Grad (RSG) Kragujevac - 104.3 MHz - 128 kbit/s
+http://stream.rsg.rs:8043/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555241792.jpg" group-title="TOP Radio - radio.pervii.com", Eldoradio - 256 kbit/s
 http://81.92.238.33:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1555072789.jpg" group-title="TOP Radio - radio.pervii.com", Quality 90.5 - 256 kbit/s
@@ -80,14 +80,14 @@ http://ice.stream.frequence3.net:80/frequence3-128.mp3
 http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="TOP Radio - radio.pervii.com", I Love Top 100 Charts by ilovemusic.de - 128 kbit/s
 http://138.201.252.232:80/iloveradio9.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1576143436.jpg" group-title="TOP Radio - radio.pervii.com", Radio Guyana International - Playing the Best In | Soca | Chutney | Reggae | Bollywood and Top 40. - 128 kbit/s
-http://51.15.152.81:8905/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="TOP Radio - radio.pervii.com", LOLLIRADIO HITS - Top Hits - Italy Italia - 128 kbit/s
 https://hits.lolliradio.net
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556692752.jpg" group-title="TOP Radio - radio.pervii.com", OnlineDJRadio - 192 kbit/s
-http://79.98.108.181:8000/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1576143436.jpg" group-title="TOP Radio - radio.pervii.com", Radio Guyana International - Playing the Best In | Soca | Chutney | Reggae | Bollywood and Top 40. - 128 kbit/s
+http://51.15.152.81:8905/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550165325.jpg" group-title="TOP Radio - radio.pervii.com", MegaHit - 192 kbit/s
 https://media.xseu.net:5443/MegaHit
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556692752.jpg" group-title="TOP Radio - radio.pervii.com", OnlineDJRadio - 192 kbit/s
+http://79.98.108.181:8000/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554562352.jpg" group-title="TOP Radio - radio.pervii.com", ANTENA TOP 40 - 192 kbit/s
 http://live.antenazagreb.hr:8011/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403628282.png" group-title="TOP Radio - radio.pervii.com", RADIO K4 SHQIP - 160 kbit/s
@@ -96,10 +96,10 @@ http://80.80.160.232:8080/stream/1/
 http://noisefm.ru:8000/play_256
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561795168.jpg" group-title="TOP Radio - radio.pervii.com", Radio Sabbia - 128 kbit/s
 http://91.121.118.99:8104/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561883246.jpg" group-title="TOP Radio - radio.pervii.com", 89.7 Bay - 256 kbit/s
-http://178.32.161.194:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1578468955.jpg" group-title="TOP Radio - radio.pervii.com", RADIO TRANSILVANIA - 192 kbit/s
 http://92.61.114.191:9720
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561883246.jpg" group-title="TOP Radio - radio.pervii.com", 89.7 Bay - 256 kbit/s
+http://178.32.161.194:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403609431.png" group-title="TOP Radio - radio.pervii.com", Top FM HQ West - 192 kbit/s
 http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/30255.jpg" group-title="TOP Radio - radio.pervii.com", Apintie Suriname - 192 kbit/s
@@ -116,10 +116,10 @@ http://94.130.133.39/top100station.mp3
 http://nebula.shoutca.st:8016/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title="TOP Radio - radio.pervii.com", my105 Dance - 128 kbit/s
 http://stream01.my105.ch/my105dance.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title="TOP Radio - radio.pervii.com", ARGES MIOVENI NR1  _ByDjNusu_ romania populara petrecere etno manele - 128 kbit/s
+http://89.39.189.53:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403705342.png" group-title="TOP Radio - radio.pervii.com", Radio Live247 Romania - 128 kbit/s
 http://79.143.187.96:9000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403705342.png" group-title="TOP Radio - radio.pervii.com", ARGES MIOVENI NR1  _ByDjNusu_ romania populara petrecere etno manele - 128 kbit/s
-http://89.39.189.53:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/241412.png" group-title="TOP Radio - radio.pervii.com", Radio Studio Delta RSD - 128 kbit/s
 http://92.222.155.230:7207/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/241412.png" group-title="TOP Radio - radio.pervii.com", ARGES MIOVENI NR1 - 128 kbit/s
@@ -132,18 +132,18 @@ http://streaming.radiodolomiti.com:8068/stream/1/
 http://listen.011fm.com:80/stream18
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550286269.jpg" group-title="TOP Radio - radio.pervii.com", ! MAX FM - Jagodina ! 56k - 192 kbit/s
 http://85.25.73.243:7911/maxfm.aac?=1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/7420.jpg" group-title="TOP Radio - radio.pervii.com", Sunshine Radio - 128 kbit/s
-http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537502301.jpg" group-title="TOP Radio - radio.pervii.com", CENTER FRESH POP - 128 kbit/s
 http://stream.rockradio.si:8058/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="TOP Radio - radio.pervii.com", Radio Regenbogen Top40 - 128 kbit/s
 http://streams.regenbogen.de/rr-top40-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="TOP Radio - radio.pervii.com", KPOP TOP 100 - 128 kbit/s
 http://121.159.140.57:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552645413.jpg" group-title="TOP Radio - radio.pervii.com", LocoFM Wezep Oldebroek - 128 kbit/s
-http://94.23.148.11:8158/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/7420.jpg" group-title="TOP Radio - radio.pervii.com", Sunshine Radio - 128 kbit/s
+http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/107909.jpg" group-title="TOP Radio - radio.pervii.com", Radio HiT Romania www.radio-hit.ro - 128 kbit/s
 http://live.radio-hit.ro:8500/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552645413.jpg" group-title="TOP Radio - radio.pervii.com", LocoFM Wezep Oldebroek - 128 kbit/s
+http://94.23.148.11:8158/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1485873236.jpg" group-title="TOP Radio - radio.pervii.com", FREQUENCE 3 - DANCE [BACKUP] - 256 kbit/s
 http://ice.stream.frequence3.net:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578468727.jpg" group-title="TOP Radio - radio.pervii.com", Radio Delta Lebanon - 128 kbit/s

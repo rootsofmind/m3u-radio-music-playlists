@@ -84,14 +84,14 @@ http://67.212.238.178:7039/stream/1/
 http://46.105.120.165:5792/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice - Nu Metal - 128 kbit/s
 http://79.111.14.76:9033
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="METAL Radio - radio.pervii.com", wambo - 128 kbit/s
-http://stream.laut.fm/wambo
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549706701.jpg" group-title="METAL Radio - radio.pervii.com", 100Hitz - Metal - 128 kbit/s
 http://gr02.cdnstream.com:8350
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549706701.jpg" group-title="METAL Radio - radio.pervii.com", Freedom Rock Radio - 128 kbit/s
 http://173.208.177.90:9322/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="METAL Radio - radio.pervii.com", GotRadio - Metal Madness - 128 kbit/s
 http://gr02.cdnstream.com:8340
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="METAL Radio - radio.pervii.com", wambo - 128 kbit/s
+http://stream.laut.fm/wambo
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5553.jpg" group-title="METAL Radio - radio.pervii.com", RADIO.IPIP.CZ: Rebel Radio Brod - 192 kbit/s
 http://radio.ipip.cz:7988
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403862944.png" group-title="METAL Radio - radio.pervii.com", Best Net Radio - 80s Metal - 128 kbit/s
@@ -100,10 +100,10 @@ http://bigrradio-edge1.cdnstream.com/5146_128
 http://66.45.246.178:8054/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550201628.jpg" group-title="METAL Radio - radio.pervii.com", RADIO METAL ON: THRASHER - 128 kbit/s
 http://188.165.212.92:8020/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550201628.jpg" group-title="METAL Radio - radio.pervii.com", IpoRadio.com Live - 128 kbit/s
+http://136.0.17.139:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="METAL Radio - radio.pervii.com", darkmuzic - 128 kbit/s
 http://stream.laut.fm/darkmuzic
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="METAL Radio - radio.pervii.com", IpoRadio.com Live - 128 kbit/s
-http://136.0.17.139:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1622135647.jpg" group-title="METAL Radio - radio.pervii.com", 100 XR - 192 kbit/s
 https://listen.100xr.com/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1590511143.jpg" group-title="METAL Radio - radio.pervii.com", Metal Invasion Radio - 192 kbit/s
@@ -136,8 +136,6 @@ http://s1.distortionradio.com:80/aggression-64
 http://thassos.cdnstream.com:5107/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="METAL Radio - radio.pervii.com", Radio Regenbogen Metallica - 128 kbit/s
 http://streams.regenbogen.de/rr-metallica-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1484962542.jpg" group-title="METAL Radio - radio.pervii.com", Crim Radio - 128 kbit/s
-http://66.55.145.43:7744/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="METAL Radio - radio.pervii.com", SONGCAST RADIO - Hard Rock &amp; Metal - 128 kbit/s
 http://songcastradio.com:9034/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice Folk Metal - 128 kbit/s
@@ -152,15 +150,15 @@ http://79.120.77.11:9095
 http://79.120.77.11:9035
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice - Funeral Doom Metal - 128 kbit/s
 http://79.120.77.11:9085
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1484962542.jpg" group-title="METAL Radio - radio.pervii.com", Crim Radio - 128 kbit/s
+http://66.55.145.43:7744/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice Industrial Metal - 128 kbit/s
 http://79.120.39.202:9075
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="METAL Radio - radio.pervii.com", radiosilenceone - 128 kbit/s
 http://stream.laut.fm/radiosilenceone
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice - Symphonic Black Metal - 128 kbit/s
 http://79.111.119.111:9005
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549776770.jpg" group-title="METAL Radio - radio.pervii.com", Twilight Radio - Heavy Music Only - 192 kbit/s
-http://twilightradio.ru:8000/radio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549776770.jpg" group-title="METAL Radio - radio.pervii.com", Hard Rockin 80s.com - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Hard Rockin 80s.com - 128 kbit/s
 http://74.208.105.119:8856
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice - Hardcore Metal - 128 kbit/s
 http://79.111.14.76:9081
@@ -178,14 +176,16 @@ http://192.232.192.96:9974/stream/1/
 http://79.111.119.111:9079
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice Viking Metal - 128 kbit/s
 http://79.111.14.76:9077
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549776770.jpg" group-title="METAL Radio - radio.pervii.com", Twilight Radio - Heavy Music Only - 192 kbit/s
+http://twilightradio.ru:8000/radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice Post Metal - 128 kbit/s
 http://79.120.39.202:9119
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504895.png" group-title="METAL Radio - radio.pervii.com", BigR - 80s Metal FM - 128 kbit/s
 http://107.155.111.234:8310
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403504895.png" group-title="METAL Radio - radio.pervii.com", The Supernatural Radio Network - 128 kbit/s
+http://srnlive.com:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice - Instrumental Metal - 128 kbit/s
 http://79.111.119.111:9113
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", The Supernatural Radio Network - 128 kbit/s
-http://srnlive.com:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Flight of pegasus - 128 kbit/s
 http://s3.onweb.gr:8480
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="METAL Radio - radio.pervii.com", Radio Caprice Atmosperic&#47;Ambient Black Metal - 128 kbit/s
@@ -194,9 +194,9 @@ http://79.120.39.202:9093
 http://79.111.14.76:9109
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403779623.png" group-title="METAL Radio - radio.pervii.com", Metalom - 128 kbit/s
 http://mp3stream4.abradio.cz:8000/metalomanie128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403779623.png" group-title="METAL Radio - radio.pervii.com", Whatever68 Worldwide Radio Streaming 24/7 - 128 kbit/s
-http://s1.nexuscast.com:8117
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403779623.png" group-title="METAL Radio - radio.pervii.com", Lkcb 128.4 Metal Damage - 128 kbit/s
 http://5.189.142.165:8210/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403779623.png" group-title="METAL Radio - radio.pervii.com", Whatever68 Worldwide Radio Streaming 24/7 - 128 kbit/s
+http://s1.nexuscast.com:8117
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556547026.jpg" group-title="METAL Radio - radio.pervii.com", Zwischen-Welten Radio - 128 kbit/s
 http://radio.zwischen-welten.info:8000/stream/1/
