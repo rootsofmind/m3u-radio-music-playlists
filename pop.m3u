@@ -128,11 +128,11 @@ https://radio.ascultatare.ro/8054/stream
 http://streaming11.tdiradio.com:8000/tdiradio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403577825.png" group-title="POP Radio - radio.pervii.com", Frontinus radio - 128 kbit/s
 http://stream.frontinus.sk:8000/frontinus128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1469653915.jpg" group-title="POP Radio - radio.pervii.com", Russkoe FM - 192 kbit/s
-http://radio.russkoe.fm:8000/russkoefm_192_mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514854.jpg" group-title="POP Radio - radio.pervii.com", Yumor FM - 64 kbit/s
 http://live.humorfm.by:8000/veseloe
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537514485.jpg" group-title="POP Radio - radio.pervii.com", Passazh - Moskva - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1469653915.jpg" group-title="POP Radio - radio.pervii.com", Russkoe FM - 192 kbit/s
+http://radio.russkoe.fm:8000/russkoefm_192_mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537514485.jpg" group-title="POP Radio - radio.pervii.com", Passazh - Moskva - 192 kbit/s
 http://listen.radiopassazh.ru:8005/aac-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1578462941.jpg" group-title="POP Radio - radio.pervii.com", Radio Krka - 128 kbit/s
 http://stream.radioaktual.si/Krka
@@ -140,10 +140,10 @@ http://stream.radioaktual.si/Krka
 http://146.71.124.10:8220/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537441158.jpg" group-title="POP Radio - radio.pervii.com", Radio Aktual D - 128 kbit/s
 http://stream.radioaktual.si/AktualD
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551946057.jpg" group-title="POP Radio - radio.pervii.com", Radio Ostrowiec - 128 kbit/s
-http://s1.slotex.pl:7050/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537585457.jpg" group-title="POP Radio - radio.pervii.com", Dolfijn FM - 192 kbit/s
 http://85.214.231.253:8080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551946057.jpg" group-title="POP Radio - radio.pervii.com", Radio Ostrowiec - 128 kbit/s
+http://s1.slotex.pl:7050/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550043433.jpg" group-title="POP Radio - radio.pervii.com", PluszFM - 192 kbit/s
 http://hosting2.42netmedia.com:8961/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572667194.jpg" group-title="POP Radio - radio.pervii.com", Radio 107 Fm - 128 kbit/s
@@ -156,10 +156,10 @@ http://stream.m-1.fm/laluna/mp3
 http://91.228.254.72:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/10990.jpg" group-title="POP Radio - radio.pervii.com", FUN Radio CS - 128 kbit/s
 http://stream.funradio.sk:8000/cs128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550203561.jpg" group-title="POP Radio - radio.pervii.com", Kpop Replay - 128 kbit/s
-http://167.114.64.181:8325/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550062189.jpg" group-title="POP Radio - radio.pervii.com", Radio Bucovina Populara - www.RadioBucovina.ro - 128 kbit/s
 http://live.radiobucovina.ro:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550203561.jpg" group-title="POP Radio - radio.pervii.com", Kpop Replay - 128 kbit/s
+http://167.114.64.181:8325/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559901882.jpg" group-title="POP Radio - radio.pervii.com", DeeJay 97.5 Corfu Greece - 192 kbit/s
 https://sh.onweb.gr:7083/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403639168.png" group-title="POP Radio - radio.pervii.com", Radio Ultra - 128 kbit/s

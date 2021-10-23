@@ -72,12 +72,6 @@ http://s01.toksyna.fm:8070/stream/1/
 http://192.232.192.96:9982/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="PUNK Radio - radio.pervii.com", MakeAVoice Radio AAC - 96 kbit/s
 http://87.117.193.47:8060
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="PUNK Radio - radio.pervii.com", Radio TranceDelica - 128 kbit/s
-http://radio-tochka.com:6440
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="PUNK Radio - radio.pervii.com", RUFFNECK-RADIO - 128 kbit/s
-http://149.255.59.162:8016
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="PUNK Radio - radio.pervii.com", Rave Radio UK - 128 kbit/s
-http://78.129.178.98:9066/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1549768237.jpg" group-title="PUNK Radio - radio.pervii.com", Punk&#96;s On-Air (Pogues, Ramones, Sex Pistols, Stranglers, Dubliners, Distemper, Tarakany) - 256 kbit/s
 http://radio.denw.ru:8024
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550495656.jpg" group-title="PUNK Radio - radio.pervii.com", Ipo-Radio - 128 kbit/s
@@ -86,6 +80,12 @@ http://136.0.17.139:8022
 http://184.154.145.114:8032
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813366.png" group-title="PUNK Radio - radio.pervii.com", 12punks - 192 kbit/s
 http://88.99.44.17:80
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813366.png" group-title="PUNK Radio - radio.pervii.com", Radio TranceDelica - 128 kbit/s
+http://radio-tochka.com:6440
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813366.png" group-title="PUNK Radio - radio.pervii.com", RUFFNECK-RADIO - 128 kbit/s
+http://149.255.59.162:8016
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813366.png" group-title="PUNK Radio - radio.pervii.com", Rave Radio UK - 128 kbit/s
+http://78.129.178.98:9066/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403901619.png" group-title="PUNK Radio - radio.pervii.com", Be Good Radio - 80s Punk Rock - 128 kbit/s
 https://ors.cdnstream1.com/5218_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403901619.png" group-title="PUNK Radio - radio.pervii.com", BOBs Punk - 128 kbit/s

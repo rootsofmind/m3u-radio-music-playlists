@@ -78,10 +78,10 @@ http://37.59.41.148:7764/stream/1/
 http://dinle.renk-fm.com:7062
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1552461468.jpg" group-title="FRENCH Radio - radio.pervii.com", Contact, la radio enjoy - 128 kbit/s
 http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1552461468.jpg" group-title="FRENCH Radio - radio.pervii.com", Arrate Irratia - 128 kbit/s
-http://5.135.155.232:8002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403632503.png" group-title="FRENCH Radio - radio.pervii.com", No Name - 128 kbit/s
 https://stream1.redsonoraradio.net:9004/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403632503.png" group-title="FRENCH Radio - radio.pervii.com", Arrate Irratia - 128 kbit/s
+http://5.135.155.232:8002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537695608.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Stad - 128 kbit/s
 http://5.196.131.97:8344/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0706173406.jpg" group-title="FRENCH Radio - radio.pervii.com", FUN [MP3 128] - 128 kbit/s
@@ -102,12 +102,12 @@ http://151-80-38-142.caramania.net:7006/live
 http://163.172.96.134:8090/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537546234.jpg" group-title="FRENCH Radio - radio.pervii.com", Unspecified name - 128 kbit/s
 http://stric7.streamakaci.com:80/rcf.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550051481.jpg" group-title="FRENCH Radio - radio.pervii.com", Bob&apos;s Ska Radio (Low Bitrate) - 128 kbit/s
+http://51.255.235.165:5528/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1579191200.jpg" group-title="FRENCH Radio - radio.pervii.com", M RADIO - 128 kbit/s
 http://mfm.ice.infomaniak.ch/mfm-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550757916.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Luna Ser - 128 kbit/s
 http://srv0625.emisorasonline.com:8003/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550051481.jpg" group-title="FRENCH Radio - radio.pervii.com", Bob&apos;s Ska Radio (Low Bitrate) - 128 kbit/s
-http://51.255.235.165:5528/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561809563.jpg" group-title="FRENCH Radio - radio.pervii.com", CFM FRENCHIE 128mp3 - 128 kbit/s
 http://cdn.nrjaudio.fm/adwz1/fr/30213/mp3_128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1404723516.jpg" group-title="FRENCH Radio - radio.pervii.com", wiccaradio - 128 kbit/s
@@ -146,16 +146,16 @@ http://orion.shoutca.st:8110/stream/1/
 http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551874657.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Firat Fm 87.3 - 128 kbit/s
 http://yayin.firatfm.com:3065/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="FRENCH Radio - radio.pervii.com", Hotmixradio 80 - 128 kbit/s
+http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573980853.jpg" group-title="FRENCH Radio - radio.pervii.com", RADIO MARIA FRANCE - 128 kbit/s
+http://dreamsiteradiocp4.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12881.jpg" group-title="FRENCH Radio - radio.pervii.com", HotHitsUK - 128 kbit/s
 http://5.135.191.40:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1560950567.jpg" group-title="FRENCH Radio - radio.pervii.com", Laza RÃ¡diÃ³ MulatÃ³s Mobil Csatorna - 64 kbit/s
 http://stream.lazaradio.com/mulatos64.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552136440.jpg" group-title="FRENCH Radio - radio.pervii.com", Radiomeuh.com - 128 kbit/s
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1563707939.jpg" group-title="FRENCH Radio - radio.pervii.com", Hotmixradio 80 - 128 kbit/s
-http://streaming.hotmix-radio.net/hotmixradio-80-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573980853.jpg" group-title="FRENCH Radio - radio.pervii.com", RADIO MARIA FRANCE - 128 kbit/s
-http://dreamsiteradiocp4.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403654980.png" group-title="FRENCH Radio - radio.pervii.com", Vibration [Powered by Infomaniak.net] - 128 kbit/s
 http://broadcast.infomaniak.ch/vibration-high.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/99243.jpg" group-title="FRENCH Radio - radio.pervii.com", Radio Sing Sing 128 Kb/s - 128 kbit/s
@@ -164,12 +164,12 @@ http://stream.sing-sing.org:8000/singsing128
 http://176.31.244.83:14296/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553416001.jpg" group-title="FRENCH Radio - radio.pervii.com", MOROW - 128 kbit/s
 https://stream.fr.morow.com/morow_med.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553416001.jpg" group-title="FRENCH Radio - radio.pervii.com", BarbershopMood - 128 kbit/s
-http://listen.radionomy.com:80/12Bar
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553416001.jpg" group-title="FRENCH Radio - radio.pervii.com", A1900Classical - 128 kbit/s
-http://listen.radionomy.com/A1900-Classical
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="FRENCH Radio - radio.pervii.com", DI Radio Digital Impulse - Blues - 320 kbit/s
 http://orion.shoutca.st:8990/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="FRENCH Radio - radio.pervii.com", BarbershopMood - 128 kbit/s
+http://listen.radionomy.com:80/12Bar
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="FRENCH Radio - radio.pervii.com", A1900Classical - 128 kbit/s
+http://listen.radionomy.com/A1900-Classical
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549790093.jpg" group-title="FRENCH Radio - radio.pervii.com", lbi Radio - Lebanon - 128 kbit/s
 http://37.187.79.93:8192/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549790093.jpg" group-title="FRENCH Radio - radio.pervii.com", ClassiqueXIX - 128 kbit/s
@@ -186,12 +186,12 @@ http://srv2.streaming-ingenierie.fr:8134/stream/1/
 http://5.135.188.130:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="FRENCH Radio - radio.pervii.com", 103fm - 128 kbit/s
 http://91.121.205.70:14348/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="FRENCH Radio - radio.pervii.com", Gregorien - 128 kbit/s
+http://stric6.streamakaci.com:80/gregorien.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="FRENCH Radio - radio.pervii.com", Magic Disco Radio - 192 kbit/s
+http://188.165.11.30:4420/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="FRENCH Radio - radio.pervii.com", Soca Addicts Radio - 128 kbit/s
 http://37.187.90.196:8989/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="FRENCH Radio - radio.pervii.com", Gregorien - 128 kbit/s
-http://stric6.streamakaci.com:80/gregorien.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="FRENCH Radio - radio.pervii.com", Magic Disco Radio - 192 kbit/s
-http://188.165.11.30:4420/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="FRENCH Radio - radio.pervii.com", WhiteFoxRadio - 128 kbit/s
 http://listen.radionomy.com/White-Fox-Radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549465970.jpg" group-title="FRENCH Radio - radio.pervii.com", JamendoLounge - 128 kbit/s

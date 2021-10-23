@@ -24,12 +24,12 @@ http://quraan.us:9894
 http://quraan.us:9890
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Recitation by Sheikh Ahmad alAjmi - 64 kbit/s
 http://quraan.us:9852
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Recitation by Sheikh Ali AlHudhaifi - 64 kbit/s
+http://quraan.us:9844
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in English by EDC - 128 kbit/s
 http://quraan.us:9990
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Recitation by Abdul Rahman AlSudais - 64 kbit/s
 http://quraan.us:9850
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Recitation by Sheikh Ali AlHudhaifi - 64 kbit/s
-http://quraan.us:9844
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Educational Radio - 96 kbit/s
 http://162.252.85.85:9986/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561693043.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Ali Jabir by EDC - 128 kbit/s
@@ -46,43 +46,43 @@ http://quraan.us:9980
 http://quraan.us:9996
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Indonesian by EDC - 128 kbit/s
 http://quraan.us:9978
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561693043.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Muhammad alLuhaidan EDC - 128 kbit/s
-http://quraan.us:9898
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561693043.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Abdullah Khayat  by EDC - 128 kbit/s
 http://quraan.us:9908
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in German by EDC - 128 kbit/s
 http://quraan.us:9986/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Kashmiri by EDC - 128 kbit/s
 http://quraan.us:9974
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561693043.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Muhammad alLuhaidan EDC - 128 kbit/s
+http://quraan.us:9898
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Greek by EDC - 64 kbit/s
 http://quraan.us:9984
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Thai by EDC - 128 kbit/s
 http://quraan.us:9938
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Tagalog by EDC - 128 kbit/s
 http://quraan.us:9946
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Persian by EDC - 32 kbit/s
-http://quraan.us:9936
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119047.jpg" group-title="QURAN Radio - radio.pervii.com", Islam2Day Radio, CH.3 [ Islamic Songs- Nasheeds ] - 96 kbit/s
-http://islam2day.tv:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119047.jpg" group-title="QURAN Radio - radio.pervii.com", KHOJARADIO4quran // - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", KHOJARADIO4quran // - 128 kbit/s
 http://149.202.185.104:4830
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran Recitation by Sheikh Tawfiq AlSaigh - 128 kbit/s
 http://quraan.us:9796
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Translation of the Quran in Swahili - 128 kbit/s
 http://quraan.us:9860
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Hindi by EDC - 128 kbit/s
-http://quraan.us:9982
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550040848.jpg" group-title="QURAN Radio - radio.pervii.com", Radio S Ahad Online - 48 kbit/s
-http://162.252.85.85:7656
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550040848.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Korean by EDC - 128 kbit/s
-http://quraan.us:9972
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Persian by EDC - 32 kbit/s
+http://quraan.us:9936
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119047.jpg" group-title="QURAN Radio - radio.pervii.com", Islam2Day Radio, CH.3 [ Islamic Songs- Nasheeds ] - 96 kbit/s
+http://islam2day.tv:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Telugu by EDC - 128 kbit/s
 http://quraan.us:9954
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Portuguese by EDC - 128 kbit/s
 http://quraan.us:9966
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Sinhala by EDC - 128 kbit/s
 http://quraan.us:9962
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Hindi by EDC - 128 kbit/s
+http://quraan.us:9982
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550040848.jpg" group-title="QURAN Radio - radio.pervii.com", Radio S Ahad Online - 48 kbit/s
+http://162.252.85.85:7656
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550040848.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Korean by EDC - 128 kbit/s
+http://quraan.us:9972
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550040848.jpg" group-title="QURAN Radio - radio.pervii.com", UnitedInIslam Radio :Quran Recitation With English Translation - 128 kbit/s
+mms://unitedinislam.com:8002
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1551370474.jpg" group-title="QURAN Radio - radio.pervii.com", Radio Quraan - 128 kbit/s
 http://66.45.232.131:9994/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1551370474.jpg" group-title="QURAN Radio - radio.pervii.com", UnitedInIslam Radio :Quran Recitation With English Translation - 128 kbit/s
-mms://unitedinislam.com:8002

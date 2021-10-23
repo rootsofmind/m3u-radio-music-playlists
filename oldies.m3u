@@ -58,28 +58,28 @@ http://s2.yesstreaming.net:7161/stream/1/
 http://37.59.195.28:8140/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537543644.jpg" group-title="OLDIES Radio - radio.pervii.com", That 70&#039;s Channel - 128 kbit/s
 http://los.cdnstream.com/1101_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12108.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio 60 70 80 - Italy - Italia - www.607080.it - 128 kbit/s
-http://www.studiopiu.net:8005
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403636185.png" group-title="OLDIES Radio - radio.pervii.com", RadioSuperoldie HIGH - 192 kbit/s
 http://87.118.87.46:8888/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12108.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio 60 70 80 - Italy - Italia - www.607080.it - 192 kbit/s
+http://www.studiopiu.net:8005
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110510.jpg" group-title="OLDIES Radio - radio.pervii.com", Oldies Radio 104 - 128 kbit/s
 http://176.31.248.14:15696/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406664.png" group-title="OLDIES Radio - radio.pervii.com", Radio Osttirol - 128 kbit/s
 http://85.195.88.149:28768/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406664.png" group-title="OLDIES Radio - radio.pervii.com", Hank&apos;s Old Time Radio - 32 kbit/s
-http://176.31.98.109:4962/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406664.png" group-title="OLDIES Radio - radio.pervii.com", Radyo Nostaljinin Sesi - 64 kbit/s
 http://37.187.93.104:8288/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406664.png" group-title="OLDIES Radio - radio.pervii.com", Hank&apos;s Old Time Radio - 32 kbit/s
+http://176.31.98.109:4962/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537612210.jpg" group-title="OLDIES Radio - radio.pervii.com", HORROR-THEATRE.COM - The place Mommy warned you about! - 24 kbit/s
 http://162.244.80.118:3066/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1572507333.jpg" group-title="OLDIES Radio - radio.pervii.com", Audio Noir - 48 kbit/s
-http://198.245.61.123:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="OLDIES Radio - radio.pervii.com", NAXI EVERGREEN RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
-http://109.206.96.34:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552118439.jpg" group-title="OLDIES Radio - radio.pervii.com", Poptarisznya Oldies - 192 kbit/s
 http://188.165.11.30:8200/oldies.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552118439.jpg" group-title="OLDIES Radio - radio.pervii.com", Gaveromroep Deerlijk - 192 kbit/s
 http://91.121.155.140:18192/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1572507333.jpg" group-title="OLDIES Radio - radio.pervii.com", Audio Noir - 48 kbit/s
+http://198.245.61.123:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537460974.jpg" group-title="OLDIES Radio - radio.pervii.com", NAXI EVERGREEN RADIO (NAXI,Belgrade,Serbia, NAXI,Beograd,Srbija) - 128k - 128 kbit/s
+http://109.206.96.34:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549468102.jpg" group-title="OLDIES Radio - radio.pervii.com", Angel Radio - 96 kbit/s
 http://s6.viastreaming.net:7030/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403777756.png" group-title="OLDIES Radio - radio.pervii.com", 1 Gold (25 years of great music &apos;64-&apos;89) - 128 kbit/s
@@ -106,11 +106,11 @@ http://4483.cloudrad.io:8130/stream/1/
 http://easyrockparadise.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549686251.jpg" group-title="OLDIES Radio - radio.pervii.com", ** WRCW RADIO - HOME OF GUNSMOKE ** - 64 kbit/s
 http://107.181.227.250:8166/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403511635.png" group-title="OLDIES Radio - radio.pervii.com", Offshore Music Radio - 128 kbit/s
-http://bitsmitter.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634483.png" group-title="OLDIES Radio - radio.pervii.com", Radio Caroline 319 - Breskens NL - 320 - 320 kbit/s
 http://www.rcgoldserver.eu:8270/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634483.png" group-title="OLDIES Radio - radio.pervii.com", 57 Chevy Love Songs - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403511635.png" group-title="OLDIES Radio - radio.pervii.com", Offshore Music Radio - 128 kbit/s
+http://bitsmitter.com:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403511635.png" group-title="OLDIES Radio - radio.pervii.com", 57 Chevy Love Songs - 128 kbit/s
 http://listen.57fm.com/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103014.jpg" group-title="OLDIES Radio - radio.pervii.com", Maxi 80 Webradio France - 128 kbit/s
 http://5.135.188.130:8000/stream/1/
@@ -120,18 +120,18 @@ http://radio99.servradio.com:9336/stream/1/
 https://hazel.torontocast.com:3055/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550159051.jpg" group-title="OLDIES Radio - radio.pervii.com", OLDIES REQUEST RADIO - 128 kbit/s
 http://178.32.62.163:8769/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550159051.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio Dolomiti - 128 kbit/s
+http://streaming.radiodolomiti.com:8068/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550159051.jpg" group-title="OLDIES Radio - radio.pervii.com", 103.6fm Lincoln City Radio - 192 kbit/s
+http://streaming03.zfast.co.uk:8009/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436073235.png" group-title="OLDIES Radio - radio.pervii.com", Retro FM - Ukraina - 128 kbit/s
 http://cast.radiogroup.com.ua:8000/retro
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436073235.png" group-title="OLDIES Radio - radio.pervii.com", Radio Dolomiti - 128 kbit/s
-http://streaming.radiodolomiti.com:8068/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436073235.png" group-title="OLDIES Radio - radio.pervii.com", 103.6fm Lincoln City Radio - 192 kbit/s
-http://streaming03.zfast.co.uk:8009/stream.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436073235.png" group-title="OLDIES Radio - radio.pervii.com", Old Men&#039;s Radio - 192 kbit/s
 http://server-10.stream-server.nl:8140
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436073235.png" group-title="OLDIES Radio - radio.pervii.com", 4LobosPop&amp;OldiesRadioStation - 128 kbit/s
-http://listen.radionomy.com:80/4LobosPop-OldiesRadioStation
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552829733.jpg" group-title="OLDIES Radio - radio.pervii.com", GTFM - Pontypridd - 64 kbit/s
 http://radio.canstream.co.uk:8012/live.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552829733.jpg" group-title="OLDIES Radio - radio.pervii.com", 4LobosPop&amp;OldiesRadioStation - 128 kbit/s
+http://listen.radionomy.com:80/4LobosPop-OldiesRadioStation
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550033623.jpg" group-title="OLDIES Radio - radio.pervii.com", Crime Time Radio USA - 128 kbit/s
 http://67.212.238.178:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1572671495.jpg" group-title="OLDIES Radio - radio.pervii.com", Rewound Radio - 128 kbit/s
@@ -148,22 +148,22 @@ http://abf.net-radio.fr/m280-128.mp3
 http://85.25.217.30:80/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537695359.jpg" group-title="OLDIES Radio - radio.pervii.com", WHYL Carlisle, PA - 128 kbit/s
 http://50.78.91.214:8804/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550160051.jpg" group-title="OLDIES Radio - radio.pervii.com", Pop och Rock - 128 kbit/s
+http://stream.ueteknik.se:8000/stream/10/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549635100.jpg" group-title="OLDIES Radio - radio.pervii.com", The Doo-Wop Express - 128 kbit/s
 http://los.cdnstream.com/1136_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550054729.jpg" group-title="OLDIES Radio - radio.pervii.com", extra-radio - 128 kbit/s
 http://www.radionetz.de:8000/extra-radio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550975806.jpg" group-title="OLDIES Radio - radio.pervii.com", Stadsradio Vlaanderen - 256 kbit/s
 http://5.196.131.97:8330/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550160051.jpg" group-title="OLDIES Radio - radio.pervii.com", Pop och Rock - 128 kbit/s
-http://stream.ueteknik.se:8000/stream/10/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550160051.jpg" group-title="OLDIES Radio - radio.pervii.com", MPIR Old Time Radio - 24 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550975806.jpg" group-title="OLDIES Radio - radio.pervii.com", MPIR Old Time Radio - 24 kbit/s
 http://s4.voscast.com:7080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403710012.png" group-title="OLDIES Radio - radio.pervii.com", Jammin 105 - 24 kbit/s
+http://142.4.217.133:9274/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552645413.jpg" group-title="OLDIES Radio - radio.pervii.com", LocoFM Wezep Oldebroek - 24 kbit/s
+http://94.23.148.11:8158/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="OLDIES Radio - radio.pervii.com", 1 Oldies - 128 kbit/s
 http://stream.laut.fm/1-oldies
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403710012.png" group-title="OLDIES Radio - radio.pervii.com", Jammin 105 - 128 kbit/s
-http://142.4.217.133:9274/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552645413.jpg" group-title="OLDIES Radio - radio.pervii.com", LocoFM Wezep Oldebroek - 128 kbit/s
-http://94.23.148.11:8158/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="OLDIES Radio - radio.pervii.com", ABF LOVE [Propulsed by Frequence 3 & Powered by IKOULA] - 160 kbit/s
 http://abf.net-radio.fr/m2love-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="OLDIES Radio - radio.pervii.com", Michigan Dons Oldies 16 - 128 kbit/s
@@ -182,21 +182,21 @@ http://rs6-krk2.rmfstream.pl/rmf_gold
 http://81.169.185.241:8200/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574570456.jpg" group-title="OLDIES Radio - radio.pervii.com", Synthetic FM - The radio for the Synth lovers - 192 kbit/s
 http://stream.syntheticfm.com:8040/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406678.png" group-title="OLDIES Radio - radio.pervii.com", ORF Radio Niederoesterreich - 128 kbit/s
-https://orf-live.ors-shoutcast.at/noe-q1a
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406678.png" group-title="OLDIES Radio - radio.pervii.com", XHOI BLU-FM  92.3 Mhz - 56 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574570456.jpg" group-title="OLDIES Radio - radio.pervii.com", XHOI BLU-FM  92.3 Mhz - 56 kbit/s
 http://radio.promosat.com:8102
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406678.png" group-title="OLDIES Radio - radio.pervii.com", Energy FM - Old School Classics - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574570456.jpg" group-title="OLDIES Radio - radio.pervii.com", Energy FM - Old School Classics - 128 kbit/s
 http://162.244.80.106:8024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="OLDIES Radio - radio.pervii.com", M1.FM - Oldies - 128 kbit/s
 http://tuner.m1.fm/oldies.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406678.png" group-title="OLDIES Radio - radio.pervii.com", ORF Radio Niederoesterreich - 128 kbit/s
+https://orf-live.ors-shoutcast.at/noe-q1a
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406678.png" group-title="OLDIES Radio - radio.pervii.com", THE OLDIE STATION - 128 kbit/s
+http://theoldiestation.dyndns.org:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832353.png" group-title="OLDIES Radio - radio.pervii.com", Atlantica Oldies - 128 kbit/s
 http://40.89.141.247:8052/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403832353.png" group-title="OLDIES Radio - radio.pervii.com", THE OLDIE STATION - 128 kbit/s
-http://theoldiestation.dyndns.org:8010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537691003.jpg" group-title="OLDIES Radio - radio.pervii.com", 1260 KYA Golden Gate Great Oldies - 128 kbit/s
+http://psn1.prostreaming.net:8255/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1490539382.jpg" group-title="OLDIES Radio - radio.pervii.com", - - 128 kbit/s
 http://stream.zeno.fm/zx9h2b61u8quv
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="OLDIES Radio - radio.pervii.com", Seven Inch Soul: Vintage soul tracks from the original 45 RPM vinyl. [SomaFM] - 160 kbit/s
 http://ice1.somafm.com/7soul-128-mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1563175073.jpg" group-title="OLDIES Radio - radio.pervii.com", Yesterday 106.5 FM Phuket - 192 kbit/s
-http://103.246.18.8:4122/stream/1/

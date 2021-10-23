@@ -148,10 +148,10 @@ http://streamingecuador.net:8001/radiodisney.mp3
 http://radio.ukr.radio:8000/ur2-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/94236.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio NS - Kazahstan - 192 kbit/s
 http://89.219.35.26:8000/radions
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561783131.jpg" group-title="VARIOUS Radio - radio.pervii.com", FM GLOBO - 192 kbit/s
-http://158.69.219.162:8026/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561121703.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Miami - Ukraina Kiev 100,5 FM - 128 kbit/s
 http://62.80.190.246:8000/NRK128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561783131.jpg" group-title="VARIOUS Radio - radio.pervii.com", FM GLOBO - 128 kbit/s
+http://158.69.219.162:8026/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1572317282.jpg" group-title="VARIOUS Radio - radio.pervii.com", The Colorado Sound - 128 kbit/s
 http://kunc.streamguys1.com/kjac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561869467.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Liberdade - 128 kbit/s
@@ -164,10 +164,10 @@ https://radiohd.streaminghd.co:7406/stream
 http://46.20.3.230:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552622419.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio La Voz de Aiiech - 128 kbit/s
 http://streamingecuador.net:8009/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578025217.jpg" group-title="VARIOUS Radio - radio.pervii.com", Umnoe radio 107,0 FM - 128 kbit/s
-http://radio.sarov.info:8010/clever-radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553416790.jpg" group-title="VARIOUS Radio - radio.pervii.com", M1.FM - Hits - 128 kbit/s
 http://tuner.m1.fm/hits.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578025217.jpg" group-title="VARIOUS Radio - radio.pervii.com", Umnoe radio 107,0 FM - 128 kbit/s
+http://radio.sarov.info:8010/clever-radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561814975.jpg" group-title="VARIOUS Radio - radio.pervii.com", FMCapital - 32 kbit/s
 http://autodj.com.br:9072/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1576246045.jpg" group-title="VARIOUS Radio - radio.pervii.com", Extra FM - 192 kbit/s

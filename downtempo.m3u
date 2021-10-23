@@ -28,11 +28,11 @@ http://ice3.somafm.com/beatblender-128-mp3
 https://listen.openstream.co/6273/audio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Lounge Motion FM - MotionFM.com - 128 kbit/s
 https://vm.motionfm.com/motionthree_aacp?=1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/16373.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", nightline radio - 128 kbit/s
-http://www.nightline-radio.de:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550764659.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", Entranced.FM - A Chilled Mix of Ambient, Trance & World with Chat & Automated Requests - 128 kbit/s
 http://162.213.197.53:80
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550764659.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", ChillSide Radio - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/16373.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", nightline radio - 128 kbit/s
+http://www.nightline-radio.de:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/16373.jpg" group-title="DOWNTEMPO Radio - radio.pervii.com", ChillSide Radio - 192 kbit/s
 http://192.111.140.6:8021/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403656859.png" group-title="DOWNTEMPO Radio - radio.pervii.com", Youppala - 128 kbit/s
 http://sc4.mystreamserver.com:8012

@@ -86,10 +86,10 @@ http://195.23.85.126:9500/stream/1/
 http://radiostreamserver.de:80/wunschradio-top100.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1574572261.jpg" group-title=" Radio - radio.pervii.com", FREQUENCE 3 - Une rafale de tubes - French Webradio [Powered by IKOULA] - 128 kbit/s
 http://ice.stream.frequence3.net:80/frequence3-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403636594.png" group-title=" Radio - radio.pervii.com", Yes! 91,2 - www.yesradio.gr - 192 kbit/s
-http://5.9.17.142:8024/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403904450.png" group-title=" Radio - radio.pervii.com", CoolFm Hits 901 Philippines Pinoy - 64 kbit/s
 http://144.217.129.213:8938
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403636594.png" group-title=" Radio - radio.pervii.com", Yes! 91,2 - www.yesradio.gr - 192 kbit/s
+http://5.9.17.142:8024/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537613718.jpg" group-title=" Radio - radio.pervii.com", MUSIC CLUB 105,8 - 128 kbit/s
 http://192.227.85.169:4228/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554562352.jpg" group-title=" Radio - radio.pervii.com", ANTENA TOP 40 - 128 kbit/s
@@ -116,28 +116,28 @@ http://54.36.89.71:8742/stream/1/
 http://5.135.188.130:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1549943557.jpg" group-title=" Radio - radio.pervii.com", KAIRI FM - 128 kbit/s
 http://199.189.115.207:8000/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", my105 Charts - 128 kbit/s
-http://stream01.my105.ch/my105charts.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1578468955.jpg" group-title=" Radio - radio.pervii.com", RADIO TRANSILVANIA - 192 kbit/s
 http://92.61.114.191:9720
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", my105 Charts - 128 kbit/s
+http://stream01.my105.ch/my105charts.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", Radio Dolomiti - 128 kbit/s
+http://streaming.radiodolomiti.com:8068/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403609431.png" group-title=" Radio - radio.pervii.com", Top FM HQ West - 192 kbit/s
 http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403609431.png" group-title=" Radio - radio.pervii.com", Radio Dolomiti - 128 kbit/s
-http://streaming.radiodolomiti.com:8068/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1587873298.jpg" group-title=" Radio - radio.pervii.com", STAR FM 88.8 Kerkyra Corfu Greece - 128 kbit/s
 http://s1.onweb.gr:8800/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537502301.jpg" group-title=" Radio - radio.pervii.com", CENTER TOP 100 - 128 kbit/s
 http://stream.rockradio.si:9020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553531292.jpg" group-title=" Radio - radio.pervii.com", Top 104 FM - 128 kbit/s
 http://radios.viaflux.com:5500/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552784883.jpg" group-title=" Radio - radio.pervii.com", RadioMaxMusic Greatest Hits 256K Stream - 256 kbit/s
-http://nebula.shoutca.st:8016/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/93967.jpg" group-title=" Radio - radio.pervii.com", Bodrum Fm - 128 kbit/s
-http://178.62.244.27:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537460413.jpg" group-title=" Radio - radio.pervii.com", Top 100 Station - 128 kbit/s
 http://94.130.133.39/top100station.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403686310.png" group-title=" Radio - radio.pervii.com", FLOR FM COLMAR - 128 kbit/s
 http://stream.florfm.com:8000/florfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552784883.jpg" group-title=" Radio - radio.pervii.com", RadioMaxMusic Greatest Hits 256K Stream - 256 kbit/s
+http://nebula.shoutca.st:8016/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/93967.jpg" group-title=" Radio - radio.pervii.com", Bodrum Fm - 128 kbit/s
+http://178.62.244.27:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", my105 All The Hits - 128 kbit/s
 http://stream01.my105.ch/my105allthehits.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403732512.png" group-title=" Radio - radio.pervii.com", Original 94.4 - Greece - 128 kbit/s
@@ -162,8 +162,6 @@ http://www.katrafm.net:8000/live
 http://listen.011fm.com:80/stream18
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550286269.jpg" group-title=" Radio - radio.pervii.com", ! MAX FM - Jagodina ! 56k - 192 kbit/s
 http://85.25.73.243:7911/maxfm.aac?=1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550034445.jpg" group-title=" Radio - radio.pervii.com", Gomel FM | Slushay s udovolstviem! - 128 kbit/s
-http://s1.radioheart.ru:8001/radiogomelfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title=" Radio - radio.pervii.com", Radio Regenbogen Top40 - 128 kbit/s
 http://streams.regenbogen.de/rr-top40-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", my105 Oldschool - 128 kbit/s
@@ -172,6 +170,8 @@ http://stream01.my105.ch/my105oldschool.mp3
 http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403803827.png" group-title=" Radio - radio.pervii.com", Lav Radio Mix HD - Armenian Music Radio - 256 kbit/s
 http://163.172.7.220:8006/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550034445.jpg" group-title=" Radio - radio.pervii.com", Gomel FM | Slushay s udovolstviem! - 128 kbit/s
+http://s1.radioheart.ru:8001/radiogomelfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/83981.jpg" group-title=" Radio - radio.pervii.com", Zabavni Radio - 128 kbit/s
 http://217.172.184.117:8585/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1556692752.jpg" group-title=" Radio - radio.pervii.com", OnlineDJRadio - 192 kbit/s
@@ -194,9 +194,9 @@ http://78.46.149.16:8187/stream/3/
 http://live7.avf.ch:8000/ipmusicaacplus96
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1578468727.jpg" group-title=" Radio - radio.pervii.com", Radio Delta Lebanon - 128 kbit/s
 http://198.100.145.187:18408/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537502301.jpg" group-title=" Radio - radio.pervii.com", HITRADIO CENTER POP - 128 kbit/s
+http://stream.rockradio.si:8058/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1623137686.jpg" group-title=" Radio - radio.pervii.com", TOP FM oldies &gt;&gt; 50s, 60s, 70s, 80s - 128 kbit/s
 http://live.topfm.hu:8000/oldies.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title=" Radio - radio.pervii.com", IP music - MP3@320 Kb/s - 320 kbit/s
 http://live7.avf.ch:8000/ipmusic320
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537502301.jpg" group-title=" Radio - radio.pervii.com", HITRADIO CENTER POP - 128 kbit/s
-http://stream.rockradio.si:8058/stream/1/

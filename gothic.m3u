@@ -36,17 +36,17 @@ http://stream.laut.fm/promofabrik-radio
 http://server2.wfku.net:8000/mac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", laut.fm play 4 today - 128 kbit/s
 http://stream.laut.fm/play4today
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", Pangea - 128 kbit/s
+http://88.198.69.145:8010
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", streetfighter - 128 kbit/s
+http://stream.laut.fm/streetfighter
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="GOTHIC Radio - radio.pervii.com", Unspecified name - 160 kbit/s
 http://server2.wfku.net:8000/wfku.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="GOTHIC Radio - radio.pervii.com", Lord Lloigor`s Stream - 192 kbit/s
 http://liquiddoom.net:8000/lloigor
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="GOTHIC Radio - radio.pervii.com", Pangea - 128 kbit/s
-http://88.198.69.145:8010
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", streetfighter - 128 kbit/s
-http://stream.laut.fm/streetfighter
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", Radio Schwarze Welle - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="GOTHIC Radio - radio.pervii.com", Radio Schwarze Welle - 128 kbit/s
 http://www.schwarze-welle.de:7500
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", Gothic Rock - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="GOTHIC Radio - radio.pervii.com", Gothic Rock - 128 kbit/s
 http://streams.radiobob.de/gothic/mp3-128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="GOTHIC Radio - radio.pervii.com", BOBs Gothic - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403637350.png" group-title="GOTHIC Radio - radio.pervii.com", BOBs Gothic - 192 kbit/s
 http://streams.radiobob.de/gothic/mp3-192

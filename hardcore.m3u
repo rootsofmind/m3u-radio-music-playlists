@@ -14,12 +14,12 @@ http://mp3.stream.tb-group.fm:80/ct.mp3
 http://sc18.strictlyhosting.co.uk:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549707149.jpg" group-title="HARDCORE Radio - radio.pervii.com", Hardcorepower Radio - 192 kbit/s
 http://hardcorepower.shoutcaststream.com:8022
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1571553895.jpg" group-title="HARDCORE Radio - radio.pervii.com", Rude fm.com - 192 kbit/s
-http://78.129.228.187:8034
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119263.jpg" group-title="HARDCORE Radio - radio.pervii.com", 24/7 Drums.ro - Drum&Bass Online Radio Station - 128 kbit/s
 http://www.drums.ro:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119263.jpg" group-title="HARDCORE Radio - radio.pervii.com", Aggression @ Distortion Radio [www.distortionradio.com] - 64 kbit/s
 http://s1.distortionradio.com:80/aggression-64
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1571553895.jpg" group-title="HARDCORE Radio - radio.pervii.com", Rude fm.com - 64 kbit/s
+http://78.129.228.187:8034
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549704462.jpg" group-title="HARDCORE Radio - radio.pervii.com", HARDCORERADIO.NL - Hardcore radio - 24/7 Mainstream Hardcore & Gabber - 256 kbit/s
 http://81.18.165.235:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549704462.jpg" group-title="HARDCORE Radio - radio.pervii.com", UDMI Radio - 128 kbit/s
