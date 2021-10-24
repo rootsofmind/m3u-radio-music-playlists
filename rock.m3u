@@ -96,10 +96,10 @@ http://199.58.160.146:8006
 http://ic2.christiannetcast.com/kxta-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549639123.jpg" group-title="ROCK Radio - radio.pervii.com", Rockabilly Radio - 128 kbit/s
 http://209.9.238.6:6042
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549639123.jpg" group-title="ROCK Radio - radio.pervii.com", 100%PROGRESSIVEROCK - 128 kbit/s
-http://listen.radionomy.com/100-PROGRESSIVEROCK
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1576315820.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Nova Era FM - Porangatu GO - 128 kbit/s
 http://centova.radios.pt:9478
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1576315820.jpg" group-title="ROCK Radio - radio.pervii.com", 100%PROGRESSIVEROCK - 128 kbit/s
+http://listen.radionomy.com/100-PROGRESSIVEROCK
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="ROCK Radio - radio.pervii.com", wunschradio.fm Top100 - 320 kbit/s
 http://radiostreamserver.de:80/wunschradio-top100.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1550064542.jpg" group-title="ROCK Radio - radio.pervii.com", Austrian Rock Radio - 128 kbit/s
@@ -172,14 +172,16 @@ http://live.antenazagreb.hr:8019/stream/1/
 http://107.170.166.187:8300/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="ROCK Radio - radio.pervii.com", Klassik Radio Klassik Rock - 128 kbit/s
 http://stream.klassikradio.de/klassikrock/aac-64
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Sunce - 128 kbit/s
+http://shoutcast.pondi.hr:8002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4225.jpg" group-title="ROCK Radio - radio.pervii.com", Radio VHR - 128 kbit/s
 http://live.radio-vhr.de:80/radiovhr.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="ROCK Radio - radio.pervii.com", 011.FM - The Vault Classic Rock - 192 kbit/s
 http://listen.011fm.com:8014/stream08
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102296.jpg" group-title="ROCK Radio - radio.pervii.com", FREEZ FM - 192 kbit/s
 http://stream.freezfm.nl/freezfm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102296.jpg" group-title="ROCK Radio - radio.pervii.com", Radio Sunce - 192 kbit/s
-http://shoutcast.pondi.hr:8002/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102296.jpg" group-title="ROCK Radio - radio.pervii.com", 音乐之声 - 64 kbit/s
+http://ctt.rgd.com.cn/fm993
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549981065.jpg" group-title="ROCK Radio - radio.pervii.com", Radio MEFF Prilep - 128 kbit/s
 http://s32.myradiostream.com:16040/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1442040545.jpg" group-title="ROCK Radio - radio.pervii.com", Radio dlya dvoih - Sankt-Peterburg 90,6 FM - 128 kbit/s
@@ -190,8 +192,6 @@ http://ares5.radiochoice.net/1017_a0classicrockdecades64k
 http://ic2527.c972.fast-serv.com:80/spoonradio_aacp_96
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537547056.jpg" group-title="ROCK Radio - radio.pervii.com", 24-7 Rock &apos;n&apos; Roll - 128 kbit/s
 http://146.71.124.10:8130/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537547056.jpg" group-title="ROCK Radio - radio.pervii.com", 音乐之声 - 64 kbit/s
-http://ctt.rgd.com.cn/fm993
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403613381.png" group-title="ROCK Radio - radio.pervii.com", DylanRadio.com - 128 kbit/s
 http://144.217.203.226:8138
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403609431.png" group-title="ROCK Radio - radio.pervii.com", Top FM HQ West - 192 kbit/s

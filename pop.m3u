@@ -154,10 +154,10 @@ http://www.radiok.pro:8000/128
 http://s1.voscast.com:7986/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1550203561.jpg" group-title="POP Radio - radio.pervii.com", Kpop Replay - 128 kbit/s
 http://167.114.64.181:8325/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550756704.jpg" group-title="POP Radio - radio.pervii.com", LATINO FM EN DIRECTO (www.latinofm.es) MALAGA ANDALUCIA ESPANA SPAIN ESPANOL - 128 kbit/s
-http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537543609.jpg" group-title="POP Radio - radio.pervii.com", wunschradio.fm Schlager - 320 kbit/s
 http://radiostreamserver.de:80/wunschradio-schlager.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550756704.jpg" group-title="POP Radio - radio.pervii.com", LATINO FM EN DIRECTO (www.latinofm.es) MALAGA ANDALUCIA ESPANA SPAIN ESPANOL - 128 kbit/s
+http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537612889.jpg" group-title="POP Radio - radio.pervii.com", Hitrádio Zóna Lásky - 128 kbit/s
 http://ice.abradio.cz:80/hitzl128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550041685.jpg" group-title="POP Radio - radio.pervii.com", Dragon - 128 kbit/s
@@ -178,25 +178,25 @@ http://2stream.dyndns.org:8000/rsb
 http://stream.trendyradio.pl:8000/mi
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537585457.jpg" group-title="POP Radio - radio.pervii.com", Dolfijn FM - 192 kbit/s
 http://85.214.231.253:8080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 64 kbit/s
+http://online.volgogradfm.ru:8000/99i1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563255535.jpg" group-title="POP Radio - radio.pervii.com", Tamil894FM - 192 kbit/s
 http://31.14.40.150:9000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/20006.jpg" group-title="POP Radio - radio.pervii.com", I Love New Pop by ilovemusic.de - 128 kbit/s
 http://stream01.iloveradio.de/iloveradio11.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 64 kbit/s
-http://online.volgogradfm.ru:8000/99i1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/61445.jpg" group-title="POP Radio - radio.pervii.com", Bubamara Srbija - 128 kbit/s
-http://92.60.230.200:5010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555010146.jpg" group-title="POP Radio - radio.pervii.com", J-Pop Powerplay Kawaii - 128 kbit/s
 https://kathy.torontocast.com:3060/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/61445.jpg" group-title="POP Radio - radio.pervii.com", Bubamara Srbija - 128 kbit/s
+http://92.60.230.200:5010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403406664.png" group-title="POP Radio - radio.pervii.com", Radio Osttirol - 128 kbit/s
 http://85.195.88.149:28768/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550042034.jpg" group-title="POP Radio - radio.pervii.com", iFM Narodni Radio Topola Oplenac - 128 kbit/s
 http://91.228.254.120:7000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Arabella Ti Amo - 96 kbit/s
-http://arabella.stream.kapper.net:8007/arabellatiamo
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122176.jpg" group-title="POP Radio - radio.pervii.com", DOĞAN 21 FM - 128 kbit/s
 http://yayin1.yayindakiler.com:3024/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="POP Radio - radio.pervii.com", ANTENNE BAYERN Black Beatz - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Arabella Ti Amo - 96 kbit/s
+http://arabella.stream.kapper.net:8007/arabellatiamo
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="POP Radio - radio.pervii.com", ANTENNE BAYERN Black Beatz - 96 kbit/s
 http://mp3channels.webradio.antenne.de/black-beatz.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560904611.jpg" group-title="POP Radio - radio.pervii.com", Feel Good Radio - 192 kbit/s
 http://94.23.148.11:8344/stream/1/

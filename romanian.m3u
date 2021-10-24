@@ -54,10 +54,10 @@ http://stream2.srr.ro:8078/stream/1/
 http://hosting2.42netmedia.com:8961/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5151.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Romania Cultural - 256 kbit/s
 http://stream2.srr.ro:8012/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5151.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Romania Muzical - 256 kbit/s
-http://89.238.227.6:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556589309.jpg" group-title="ROMANIAN Radio - radio.pervii.com", West City Radio - 128 kbit/s
 http://live.westcityradio.ro:8000/mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/5151.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Romania Muzical - 256 kbit/s
+http://89.238.227.6:8022/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537588934.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Tequila Hip Hop Romania - wWw.RadioTequila.Ro - 128 kbit/s
 http://necenzurat.radiotequila.ro:7000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403790444.png" group-title="ROMANIAN Radio - radio.pervii.com", Radio EtnoVest Timisoara - 128 kbit/s
@@ -166,12 +166,12 @@ http://aripisprecer.ro:8127/stream/1/
 http://176.31.60.21:9999/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="ROMANIAN Radio - radio.pervii.com", RADIO CLASIC STRAUSS - 128 kbit/s
 http://clasicradio.ro:8100/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561866722.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Favorit FM - 128 kbit/s
+http://91.250.252.251:8001
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Crestin Aripi Spre Cer Predici - Christian Radio - 128 kbit/s
 http://www.aripisprecer.ro:8129/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1563682874.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Play 90&#039;s [Mobile] - 128 kbit/s
 http://live.playradio.org:9000/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1561866722.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Favorit FM - 128 kbit/s
-http://91.250.252.251:8001
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559891130.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Filadelfia Romania [mp3|128kbps] - 128 kbit/s
 http://93.113.171.240:8080/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1571841817.jpg" group-title="ROMANIAN Radio - radio.pervii.com", Radio Romanian Hip-Hop - 128 kbit/s
@@ -194,9 +194,9 @@ http://80.86.106.110:8000
 http://89.238.227.6:8354/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="ROMANIAN Radio - radio.pervii.com", RADIO CLASIC ROMANIA HD - 128 kbit/s
 http://clasicradio.ro:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403746142.png" group-title="ROMANIAN Radio - radio.pervii.com", Radio Traditional Manele - 128 kbit/s
-http://asculta.radiotraditional.ro:7000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403746142.png" group-title="ROMANIAN Radio - radio.pervii.com", WHMSonic AutoDJ - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="ROMANIAN Radio - radio.pervii.com", WHMSonic AutoDJ - 128 kbit/s
 http://176.31.60.23:8901/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549890245.jpg" group-title="ROMANIAN Radio - radio.pervii.com", ™  RADIO-ROMANTIK  ™ - 128 kbit/s
 http://5.196.244.141:1966
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403746142.png" group-title="ROMANIAN Radio - radio.pervii.com", Radio Traditional Manele - 128 kbit/s
+http://asculta.radiotraditional.ro:7000/stream/1/

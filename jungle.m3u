@@ -34,9 +34,9 @@ http://war.powerfm.org:8000/powerfm.aac
 http://www.partyvibe.com:8004/stream/2/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="JUNGLE Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
 http://dix393.de:9011
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="JUNGLE Radio - radio.pervii.com", Nautic Radio - Beats &#039;n Breaks - drum and bass,jungle,dubstep,breakcore,frenchcore,tekno,experimental,8bit,uk-hardcore,industrial,noise,hiphop,disco,hardcore - 320 kbit/s
-http://83.137.145.141:14280
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/104419.jpg" group-title="JUNGLE Radio - radio.pervii.com", #DNBRADIO - Fresh Drum and Bass, Jungle - 192 kbit/s
 http://fm.opentree.cz:80/dnbradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="JUNGLE Radio - radio.pervii.com", RadioC2 Message - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="JUNGLE Radio - radio.pervii.com", Nautic Radio - Beats &#039;n Breaks - drum and bass,jungle,dubstep,breakcore,frenchcore,tekno,experimental,8bit,uk-hardcore,industrial,noise,hiphop,disco,hardcore - 320 kbit/s
+http://83.137.145.141:14280
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="JUNGLE Radio - radio.pervii.com", RadioC2 Message - 320 kbit/s
 http://donleone.online:8448/drum_and_bass?testpass

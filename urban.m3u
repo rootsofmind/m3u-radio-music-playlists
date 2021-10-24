@@ -72,22 +72,22 @@ http://s5.voscast.com:7316/stream/1/
 http://81.169.196.110:8075/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555323991.jpg" group-title="URBAN Radio - radio.pervii.com", SWIGG 128 - 128 kbit/s
 http://broadcast.infomaniak.ch/start-adofm-high.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537503910.jpg" group-title="URBAN Radio - radio.pervii.com", SikhNet Radio - Channel 3 - Classical Raag Gurbani Kirtan - 32 kbit/s
-http://radio2.sikhnet.com:8014/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537503910.jpg" group-title="URBAN Radio - radio.pervii.com", SikhNet Radio - Channel 6 - The Classics - 32 kbit/s
 http://radio2.sikhnet.com:8501/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537503910.jpg" group-title="URBAN Radio - radio.pervii.com", Graffiti Urban Radio - 128 kbit/s
 http://80.82.229.202:8000/graffiti.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1553656107.jpg" group-title="URBAN Radio - radio.pervii.com", UrbanRadio-HipHop - 128 kbit/s
 http://listen.radionomy.com:80/UrbanRadio-HipHop
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537503910.jpg" group-title="URBAN Radio - radio.pervii.com", SikhNet Radio - Channel 3 - Classical Raag Gurbani Kirtan - 32 kbit/s
+http://radio2.sikhnet.com:8014/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1575731352.jpg" group-title="URBAN Radio - radio.pervii.com", xeya - 128 kbit/s
 http://192.187.112.50:8170/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="URBAN Radio - radio.pervii.com", 181.FM The Box (Urban) - 128 kbit/s
 http://208.84.155.82:8024
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550032975.jpg" group-title="URBAN Radio - radio.pervii.com", 106.6 FM - V Radio - 128 kbit/s
-http://202.147.199.100:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1551984372.jpg" group-title="URBAN Radio - radio.pervii.com", La Z Urbana - Medell - 128 kbit/s
 http://65.60.45.74:8072/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550032975.jpg" group-title="URBAN Radio - radio.pervii.com", 106.6 FM - V Radio - 128 kbit/s
+http://202.147.199.100:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549636942.jpg" group-title="URBAN Radio - radio.pervii.com", Radio Urbano Costa Rica - 96 kbit/s
 http://94.23.44.216:4236
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403715520.png" group-title="URBAN Radio - radio.pervii.com", Radio 808 - 256 kbit/s
@@ -96,20 +96,20 @@ http://stream.radio808.info:8003
 http://essentielradioing.streamakaci.com/essentielradio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550767870.jpg" group-title="URBAN Radio - radio.pervii.com", WJZD-FM JZ 94.5 - 128 kbit/s
 http://38.96.175.97:9124
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="URBAN Radio - radio.pervii.com", Z103.5 We Are Your Party Station - 128 kbit/s
-http://166.62.44.23:8006/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="URBAN Radio - radio.pervii.com", Hot 107.1 - 128 kbit/s
-http://192.99.34.205:8607/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="URBAN Radio - radio.pervii.com", Take it to the streets Tv - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550767870.jpg" group-title="URBAN Radio - radio.pervii.com", Take it to the streets Tv - 128 kbit/s
 http://eu8.fastcast4u.com:5616/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/118506.jpg" group-title="URBAN Radio - radio.pervii.com", 97.5 KEMET FM - 128 kbit/s
 http://109.169.26.139:8120/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="URBAN Radio - radio.pervii.com", Bongo Radio - Channel One :: Tanzania Best For Bongo Flava - 128 kbit/s
 http://173.244.208.77:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561114721.jpg" group-title="URBAN Radio - radio.pervii.com", flavor81 - 320 kbit/s
-http://192.99.17.12:4902/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="URBAN Radio - radio.pervii.com", Z103.5 We Are Your Party Station - 128 kbit/s
+http://166.62.44.23:8006/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1561645406.jpg" group-title="URBAN Radio - radio.pervii.com", Hot 107.1 - 128 kbit/s
+http://192.99.34.205:8607/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="URBAN Radio - radio.pervii.com", ABF WORLD [Propulsed by Frequence 3 & Powered by IKOULA - 128 kbit/s
 http://abf.net-radio.fr/m2hip-hop-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="URBAN Radio - radio.pervii.com", flavor81 - 320 kbit/s
+http://192.99.17.12:4902/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549632514.jpg" group-title="URBAN Radio - radio.pervii.com", Radio Punjab Today - 32 kbit/s
 http://mehramedia.com:8051
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/27402.jpg" group-title="URBAN Radio - radio.pervii.com", BarakaFM - 192 kbit/s
@@ -172,31 +172,31 @@ http://songcastradio.com:9038/stream/1/
 http://c1.hostingcentar.com:8202/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="URBAN Radio - radio.pervii.com", Yaadlinks Radio UK - 128 kbit/s
 http://176.31.111.65:14050/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="URBAN Radio - radio.pervii.com", STYL FM, NUMERO 1 EN RADIO - 128 kbit/s
-http://s2.nexuscast.com:8024/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="URBAN Radio - radio.pervii.com", UK Raw Radio - 192 kbit/s
+http://37.187.90.201:8014/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="URBAN Radio - radio.pervii.com", Frequence Orange - 192 kbit/s
+http://94.23.213.103:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", FREQUENCE 3 - URBAN [Powered by IKOULA] - 128 kbit/s
 http://ice.stream.frequence3.net:80/frequence3urban-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", SCMRADIO - 256 kbit/s
-http://192.99.35.215:5254/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", Force One Network Radio - 128 kbit/s
-http://37.59.38.180:5936/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", UK Raw Radio - 192 kbit/s
-http://37.187.90.201:8014/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", Tjks Radio - 192 kbit/s
-http://thassos.cdnstream.com:5485/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", Frequence Orange - 192 kbit/s
-http://94.23.213.103:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550467453.jpg" group-title="URBAN Radio - radio.pervii.com", FREQUENCY5FM - URBANO - 128 kbit/s
-http://192.99.4.210:3110/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", 91.8 We On Radio - 128 kbit/s
 http://74.82.59.197:8070/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", Force One Network Radio - 128 kbit/s
+http://37.59.38.180:5936/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", FamilyGH - 96 kbit/s
 http://5.135.154.69:8516/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", Tjks Radio - 192 kbit/s
+http://thassos.cdnstream.com:5485/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="URBAN Radio - radio.pervii.com", The Rap MIXX - 128 kbit/s
 http://ais-sa2.cdnstream1.com/1988_128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="URBAN Radio - radio.pervii.com", Heatholdersonline.com - 128 kbit/s
-http://149.56.175.167:5852/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="URBAN Radio - radio.pervii.com", Soulful Sounds - 128 kbit/s
-http://206.190.135.28:8094/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="URBAN Radio - radio.pervii.com", STYL FM - 128 kbit/s
-http://s2.nexuscast.com:8024
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553672903.jpg" group-title="URBAN Radio - radio.pervii.com", FREQUENCY5FM - URBANO - 128 kbit/s
+http://192.99.4.210:3110/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="URBAN Radio - radio.pervii.com", STYL FM, NUMERO 1 EN RADIO - 128 kbit/s
+http://s2.nexuscast.com:8024/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="URBAN Radio - radio.pervii.com", SCMRADIO - 256 kbit/s
+http://192.99.35.215:5254/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403693855.png" group-title="URBAN Radio - radio.pervii.com", Vibez Urban Xtra - 128 kbit/s
+http://109.169.54.86:8042
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", We On Radio - 128 kbit/s
+http://149.56.157.81:8728/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", Mix Radio One - 128 kbit/s
+http://149.56.157.81:8800/stream/1/

@@ -80,15 +80,15 @@ http://mega6.fast-serv.com:8038/
 http://stream.laut.fm/ondalatina
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1555354154.jpg" group-title="LATIN Radio - radio.pervii.com", DJ KOKO.com Radio - 128 kbit/s
 http://149.56.147.197:9538/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555328096.jpg" group-title="LATIN Radio - radio.pervii.com", LaEstacionDelAmor.Net - 128 kbit/s
-http://51.38.74.200:6142
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1556639857.jpg" group-title="LATIN Radio - radio.pervii.com", VIBRACION LATINA - 96 kbit/s
 http://romradio.stream2net.eu:8420/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1555080438.jpg" group-title="LATIN Radio - radio.pervii.com", Joven - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1555328096.jpg" group-title="LATIN Radio - radio.pervii.com", LaEstacionDelAmor.Net - 128 kbit/s
+http://51.38.74.200:6142
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1555080438.jpg" group-title="LATIN Radio - radio.pervii.com", Joven - 128 kbit/s
 http://200.24.229.253:8040/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1551302206.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Melodia 99.1 FM - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1551302206.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Melodia 99.1 FM - 128 kbit/s
 http://icecasthd.net:27148/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15838.jpg" group-title="LATIN Radio - radio.pervii.com", Estrella104 - The Latin Hits! - A Star104.net Station - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15838.jpg" group-title="LATIN Radio - radio.pervii.com", Estrella104 - The Latin Hits! - A Star104.net Station - 128 kbit/s
 http://hestia2.cdnstream.com:80/1072_64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", CALMRADIO.COM - Bossa Nova - 128 kbit/s
 http://23.82.11.88:10028/stream/1/
@@ -98,12 +98,12 @@ http://stream.laut.fm/radio-hot100
 http://178.33.115.87:9986
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="LATIN Radio - radio.pervii.com", YungNFresh - 96 kbit/s
 http://192.95.39.65:5553/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403733649.png" group-title="LATIN Radio - radio.pervii.com", Radio LaLaLa Italia by L&apos;Olgiata - 128 kbit/s
-http://188.165.192.5:8319/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1553334377.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Ecua Stereo HD - 128 kbit/s
 http://192.95.18.39:5848/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572746388.jpg" group-title="LATIN Radio - radio.pervii.com", Hard Salsa Bogotá - 128 kbit/s
 http://192.99.8.192:2126/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403733649.png" group-title="LATIN Radio - radio.pervii.com", Radio LaLaLa Italia by L&apos;Olgiata - 128 kbit/s
+http://188.165.192.5:8319/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423873.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO CLASIC LATINO - 128 kbit/s
 http://clasicradio.ro:8600/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403620342.png" group-title="LATIN Radio - radio.pervii.com", Delta 103 - 64 kbit/s
@@ -138,13 +138,11 @@ http://23.82.11.88:20028/stream/1/
 http://198.105.216.204:8082/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594745649.jpg" group-title="LATIN Radio - radio.pervii.com", La Fiesta Latina Fm - 128 kbit/s
 http://node-07.zeno.fm/8482yksb4y5tv
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572866598.jpg" group-title="LATIN Radio - radio.pervii.com", CoolPanama.com Panama 507 PTY CoolPanama.com Panama 507 PTY - 128 kbit/s
-http://66.55.145.43:7428/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572866598.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO VARIEDADES - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594745649.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO VARIEDADES - 128 kbit/s
 http://173.193.205.96:7055/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572866598.jpg" group-title="LATIN Radio - radio.pervii.com", MEDIATICA.FM - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594745649.jpg" group-title="LATIN Radio - radio.pervii.com", MEDIATICA.FM - 128 kbit/s
 http://192.99.8.170:9144/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572866598.jpg" group-title="LATIN Radio - radio.pervii.com", AutoDJ - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1594745649.jpg" group-title="LATIN Radio - radio.pervii.com", AutoDJ - 128 kbit/s
 http://192.95.39.65:5798/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/179138.jpg" group-title="LATIN Radio - radio.pervii.com", Reggaeton Radio FM - 128K - 128 kbit/s
 http://192.111.140.6:8224/stream/2/
@@ -152,8 +150,8 @@ http://192.111.140.6:8224/stream/2/
 http://37.59.37.139:13608/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", CALMRADIO.COM - Tango - 128 kbit/s
 http://23.82.11.88:9928/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", Que Onda Seattle Radio - 128 kbit/s
-http://192.99.4.210:3820/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572866598.jpg" group-title="LATIN Radio - radio.pervii.com", CoolPanama.com Panama 507 PTY CoolPanama.com Panama 507 PTY - 128 kbit/s
+http://66.55.145.43:7428/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550024873.jpg" group-title="LATIN Radio - radio.pervii.com", Acegua FM - Stream - 128 kbit/s
 http://ssl.aceguafm.com/aceguafm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550024873.jpg" group-title="LATIN Radio - radio.pervii.com", MasKeRadio Canarias - 192 kbit/s
@@ -168,35 +166,37 @@ http://5.39.82.219:8138/stream/1/
 http://songcastradio.com:9024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO CIELO FM - 100.3MHz - www.radiocielofm.promilweb.com - fmcielo@hotmail.com - 24 kbit/s
 http://200.112.233.19:80
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="LATIN Radio - radio.pervii.com", STYL FM, NUMERO 1 EN RADIO - 128 kbit/s
-http://s2.nexuscast.com:8024/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/115472.jpg" group-title="LATIN Radio - radio.pervii.com", Que Onda Seattle Radio - 128 kbit/s
+http://192.99.4.210:3820/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", CALMRADIO.COM - Merengue - 128 kbit/s
 http://23.82.11.88:9728/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", WebRadioLatinos 100% Caliente - 128 kbit/s
-http://94.23.26.193:9000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560960256.jpg" group-title="LATIN Radio - radio.pervii.com", Radio UAdeO - 128 kbit/s
-http://149.56.195.94:8169/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560960256.jpg" group-title="LATIN Radio - radio.pervii.com", Mega Atlanta Radio Digital - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", Mega Atlanta Radio Digital - 96 kbit/s
 http://37.187.90.196:9056/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", Frequence Orange - 192 kbit/s
+http://94.23.213.103:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", WebRadioLatinos 100% Caliente - 192 kbit/s
+http://94.23.26.193:9000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1560960256.jpg" group-title="LATIN Radio - radio.pervii.com", Radio UAdeO - 192 kbit/s
+http://149.56.195.94:8169/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559830605.jpg" group-title="LATIN Radio - radio.pervii.com", La Radio San Pedro 92.3 - 24 kbit/s
 http://190.12.103.160:8080/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559830605.jpg" group-title="LATIN Radio - radio.pervii.com", Frequence Orange - 192 kbit/s
-http://94.23.213.103:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559830605.jpg" group-title="LATIN Radio - radio.pervii.com", Portal Hidalgo - 64 kbit/s
 http://192.187.112.50:8194/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559830605.jpg" group-title="LATIN Radio - radio.pervii.com", Radical 101 Stream - 128 kbit/s
-http://67.227.220.171:8062/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559830605.jpg" group-title="LATIN Radio - radio.pervii.com", LA TREMENDA de Michigan - 128 kbit/s
-http://s6.voscast.com:9868/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="LATIN Radio - radio.pervii.com", STYL FM - 128 kbit/s
-http://s2.nexuscast.com:8024
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Radio Caprice - Latin Pop - 128 kbit/s
-http://79.111.119.111:9051
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="LATIN Radio - radio.pervii.com", Estereo Tributad A Jehova - 128 kbit/s
-http://67.227.220.171:8062/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1594913393.jpg" group-title="LATIN Radio - radio.pervii.com", RadioInternacionalflorida - 128 kbit/s
-http://s8.myradiostream.com:56524/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="LATIN Radio - radio.pervii.com", CALM RADIO - LATIN - Sampler - 128 kbit/s
-http://23.82.11.88:5428/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/12789.jpg" group-title="LATIN Radio - radio.pervii.com", ABF WORLD [Propulsed by Frequence 3 & Powered by IKOULA - 192 kbit/s
-http://abf.net-radio.fr/m2caliente-128.mp3?
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="LATIN Radio - radio.pervii.com", STYL FM, NUMERO 1 EN RADIO - 128 kbit/s
+http://s2.nexuscast.com:8024/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559814085.jpg" group-title="LATIN Radio - radio.pervii.com", HOT101.NET - 320 kbit/s
+http://usa12.fastcast4u.com:5160/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1426449734.jpg" group-title="LATIN Radio - radio.pervii.com", latino - 192 kbit/s
+http://strm112.1.fm/latino_mobile_mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1560865330.jpg" group-title="LATIN Radio - radio.pervii.com", R&#195;&#161;dio Sertanejos - 192 kbit/s
+https://cast.mgtradio.net/radio/8000/aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1560865330.jpg" group-title="LATIN Radio - radio.pervii.com", RUMBAATLANTA - 128 kbit/s
+http://167.114.131.90:5882/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559915152.jpg" group-title="LATIN Radio - radio.pervii.com", RADIO UNO CHABAS - 128 kbit/s
+http://server1.dainusradio.com:9884/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561113734.jpg" group-title="LATIN Radio - radio.pervii.com", ME GUSTA FM - 128 kbit/s
+http://streaming.hdserver.biz:9434/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="LATIN Radio - radio.pervii.com", Radio UDG Ocotlan - 128 kbit/s
+http://148.202.148.5:4040/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="LATIN Radio - radio.pervii.com", Lautar - 128 kbit/s
+http://190.3.169.87:9820
