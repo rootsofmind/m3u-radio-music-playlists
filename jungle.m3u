@@ -24,10 +24,10 @@ http://stream.psychoradio.org:8000
 http://www.drums.ro:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650071.png" group-title="JUNGLE Radio - radio.pervii.com", DB9Radio - 320 kbit/s
 http://eu6.fastcast4u.com:5195/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403650071.png" group-title="JUNGLE Radio - radio.pervii.com", powerfm.org - VBR Stream - 320 kbit/s
+http://eu.ec2.powerfm.org:8000/powerfm48k.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="JUNGLE Radio - radio.pervii.com", PARTY VIBE RADIO : JUNGLE - 320 kbit/s
 http://www.partyvibe.com:8004/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="JUNGLE Radio - radio.pervii.com", powerfm.org - VBR Stream - 320 kbit/s
-http://eu.ec2.powerfm.org:8000/powerfm48k.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="JUNGLE Radio - radio.pervii.com", Nautic Radio - Beats &#039;n Breaks - drum and bass,jungle,dubstep,breakcore,frenchcore,tekno,experimental,8bit,uk-hardcore,industrial,noise,hiphop,disco,hardcore - 320 kbit/s
 http://83.137.145.141:14280
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="JUNGLE Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s

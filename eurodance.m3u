@@ -30,16 +30,12 @@ http://79.137.37.8/stream/1/
 http://79.120.39.202:9003
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559903485.jpg" group-title="EURODANCE Radio - radio.pervii.com", Hitradio (Twoje radio, Twoje przeboje) - 128 kbit/s
 http://51.255.8.139:9090
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559903485.jpg" group-title="EURODANCE Radio - radio.pervii.com", RADIO.IPIP.CZ: FreestyleFM - 128 kbit/s
-http://sc.ipip.cz:8044
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559903485.jpg" group-title="EURODANCE Radio - radio.pervii.com", hitradio.pl - 128 kbit/s
-http://51.255.8.139:9090/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="EURODANCE Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
 http://donleone.online:8448/classic_eurodance?testpass
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EURODANCE Radio - radio.pervii.com", laut.fm life lands station - 128 kbit/s
-http://stream.laut.fm/lifelandsstation
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/74349.jpg" group-title="EURODANCE Radio - radio.pervii.com", FFH EURODANCE - 128 kbit/s
-http://mp3.ffh.de/ffhchannels/hqeurodance.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="EURODANCE Radio - radio.pervii.com", RADIO.IPIP.CZ: FreestyleFM - 128 kbit/s
+http://sc.ipip.cz:8044
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="EURODANCE Radio - radio.pervii.com", hitradio.pl - 128 kbit/s
+http://51.255.8.139:9090/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1468605501.jpg" group-title="EURODANCE Radio - radio.pervii.com", 90s Eurodance - 128 kbit/s
 http://listen1.myradio24.com:9000/5967
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1582170066.jpg" group-title="EURODANCE Radio - radio.pervii.com", Radio Eurodance Classic - 128 kbit/s
@@ -48,3 +44,7 @@ http://hazel.torontocast.com:1310/stream
 http://88.198.10.229:9500
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1630122261.jpg" group-title="EURODANCE Radio - radio.pervii.com", Eurodance 90's Best - 128 kbit/s
 http://stream.zeno.fm/pdgmg8eu8k0uv.m3u
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="EURODANCE Radio - radio.pervii.com", laut.fm life lands station - 128 kbit/s
+http://stream.laut.fm/lifelandsstation
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/74349.jpg" group-title="EURODANCE Radio - radio.pervii.com", FFH EURODANCE - 128 kbit/s
+http://mp3.ffh.de/ffhchannels/hqeurodance.mp3

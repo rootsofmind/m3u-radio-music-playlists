@@ -116,10 +116,10 @@ http://prdonline.prd.go.th:8210
 http://radiojackie.com:12614
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403591248.png" group-title="TALK Radio - radio.pervii.com", Free Talk Live - 64k - 64 kbit/s
 http://198.178.123.14:7736/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549468148.jpg" group-title="TALK Radio - radio.pervii.com", Sputnik - Rossiya Segodnya - Golos Rossii - 128 kbit/s
-http://audio1.video.ria.ru/voicerus
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA TANZANIA - 32 kbit/s
 http://dreamsiteradiocp2.com:8034/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549468148.jpg" group-title="TALK Radio - radio.pervii.com", Sputnik - Rossiya Segodnya - Golos Rossii - 128 kbit/s
+http://audio1.video.ria.ru/voicerus
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA PANAMA - 64 kbit/s
 http://dreamsiteradiocp.com:8082/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", Radio Dolomiti - 128 kbit/s
@@ -136,14 +136,14 @@ http://fantasyradioru.no-ip.biz:8008
 http://ic1.sslstream.com/wjab-am
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537612129.jpg" group-title="TALK Radio - radio.pervii.com", KTOX 1340AM - 64 kbit/s
 http://streaming.rubinbroadcasting.com:80/ktox
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537612129.jpg" group-title="TALK Radio - radio.pervii.com", wntk - 64 kbit/s
-http://159.89.0.23:8000/wntk
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537456583.jpg" group-title="TALK Radio - radio.pervii.com", Bestfriend FM - 64 kbit/s
-http://178.32.62.172:8217/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403410275.png" group-title="TALK Radio - radio.pervii.com", Radio Cluj - 128 kbit/s
 http://89.238.227.6:8384/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA EL SALVADOR - 32 kbit/s
 http://dreamsiteradiocp2.com:8086/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", wntk - 64 kbit/s
+http://159.89.0.23:8000/wntk
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537456583.jpg" group-title="TALK Radio - radio.pervii.com", Bestfriend FM - 64 kbit/s
+http://178.32.62.172:8217/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549685764.jpg" group-title="TALK Radio - radio.pervii.com", Strange Radio - Science Fiction &amp; Horror - Old Time Radio  (Pumpkin FM OTRN) - 128 kbit/s
 http://149.255.59.164:8067/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1572314874.jpg" group-title="TALK Radio - radio.pervii.com", WNPR-FM - 64 kbit/s
@@ -154,18 +154,18 @@ http://peace.str3am.com:6350
 http://87.117.193.13:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/114761.jpg" group-title="TALK Radio - radio.pervii.com", TWiT.am - 128 kbit/s
 http://twit.am:80/listen
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555316730.jpg" group-title="TALK Radio - radio.pervii.com", yourmmstation.com - 128 kbit/s
+http://184.95.62.170:9158
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1593431420.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA USA - ITALIAN - 32 kbit/s
 http://dreamsiteradiocp2.com:8016
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="TALK Radio - radio.pervii.com", radio-metalkultur - 128 kbit/s
 http://stream.laut.fm/radio-metalkultur
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537446859.jpg" group-title="TALK Radio - radio.pervii.com", RTBF - VivaCité Namur/Brabant Wallon - 128 kbit/s
 http://212.3.234.219:8080/stream/94/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1555316730.jpg" group-title="TALK Radio - radio.pervii.com", yourmmstation.com - 128 kbit/s
-http://184.95.62.170:9158
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/78625.jpg" group-title="TALK Radio - radio.pervii.com", WKSU - 128 kbit/s
-http://wksu1.streamguys.com:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553490930.jpg" group-title="TALK Radio - radio.pervii.com", WYSL-AM - 64 kbit/s
 http://sc03.warpradio.com:8566
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/78625.jpg" group-title="TALK Radio - radio.pervii.com", WKSU - 128 kbit/s
+http://wksu1.streamguys.com:8010
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/92154.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA USA - NYC AMIGOS - 32 kbit/s
 http://dreamsiteradiocp2.com:8020/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA GUATEMALA - 32 kbit/s
@@ -176,16 +176,8 @@ http://118.21.141.67:8000/stream/1/
 https://playerservices.streamtheworld.com/api/livestream-redirect/WUSFFM.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403809665.png" group-title="TALK Radio - radio.pervii.com", Drugaya Astrahan - 64 kbit/s
 http://89.179.72.53:8090
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537456812.jpg" group-title="TALK Radio - radio.pervii.com", Tony Basilio Show - 64 kbit/s
-http://ic2.christiannetcast.com/basilio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549685764.jpg" group-title="TALK Radio - radio.pervii.com", 1940s Radio - Home Service - Old Time Radio - UK 1930s 1940s 1950s (Pumpkin FM OTRN) - 128 kbit/s
-http://149.255.59.164:8090/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1575891523.jpg" group-title="TALK Radio - radio.pervii.com", Republic Broadcasting - 128 kbit/s
-http://216.240.133.177:2007/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403628141.png" group-title="TALK Radio - radio.pervii.com", Radio Oastea Domnului - 128 kbit/s
 http://86.123.160.19:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102766.jpg" group-title="TALK Radio - radio.pervii.com", Talk 790 - 64 kbit/s
-http://208.85.240.2:8310
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8620.jpg" group-title="TALK Radio - radio.pervii.com", RADIO MARIA BURUNDI - 32 kbit/s
 http://dreamsiteradiocp2.com:8082/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559579365.jpg" group-title="TALK Radio - radio.pervii.com", NewsTalk 1450 KBKW - 32 kbit/s
@@ -194,9 +186,17 @@ http://173.193.205.96:7000/stream
 http://live.kdkr.org:8000/kdkr
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1563164463.jpg" group-title="TALK Radio - radio.pervii.com", talkSPORT 2 World - 128 kbit/s
 http://radio.talksport.com/stream2
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/96781.jpg" group-title="TALK Radio - radio.pervii.com", NEWS/TALK WSIC FM 100.7  FM 105.9 AM 1400   TV 25-2  www.WSICWEB.com - 64 kbit/s
-http://s3.voscast.com:9900/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537456812.jpg" group-title="TALK Radio - radio.pervii.com", Tony Basilio Show - 128 kbit/s
+http://ic2.christiannetcast.com/basilio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1575891523.jpg" group-title="TALK Radio - radio.pervii.com", Republic Broadcasting - 128 kbit/s
+http://216.240.133.177:2007/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1549685764.jpg" group-title="TALK Radio - radio.pervii.com", 1940s Radio - Home Service - Old Time Radio - UK 1930s 1940s 1950s (Pumpkin FM OTRN) - 128 kbit/s
+http://149.255.59.164:8090/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102766.jpg" group-title="TALK Radio - radio.pervii.com", Talk 790 - 64 kbit/s
+http://208.85.240.2:8310
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572737558.jpg" group-title="TALK Radio - radio.pervii.com", LRN.FM - 64k - The Liberty Radio Network - 64 kbit/s
 http://s2.voscast.com:7392/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/96781.jpg" group-title="TALK Radio - radio.pervii.com", NEWS/TALK WSIC FM 100.7  FM 105.9 AM 1400   TV 25-2  www.WSICWEB.com - 64 kbit/s
+http://s3.voscast.com:9900/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553702261.jpg" group-title="TALK Radio - radio.pervii.com", Genesis Communications Network: Channel 2 - 128 kbit/s
 http://gcnplayer.gcnlive.com/channel2-hi.mp3

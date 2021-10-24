@@ -30,10 +30,10 @@ http://realserver3.hdm-stuttgart.de:8080/horads
 http://ice1.somafm.com/poptron-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", laut.fm eins - 128 kbit/s
 http://stream.laut.fm/eins
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", SomaFM presents: Indie Pop Rocks! [SomaFM] - 128 kbit/s
-http://ice3.somafm.com/indiepop-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", Folk Forward: Indie Folk, Alt-folk and the occasional folk classics. [SomaFM] - 128 kbit/s
 http://ice1.somafm.com/folkfwd-128-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", SomaFM presents: Indie Pop Rocks! [SomaFM] - 128 kbit/s
+http://ice3.somafm.com/indiepop-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1607733476.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Petrecere Romania - 128 kbit/s
 https://radio.ascultatare.ro/8123/fmradiomanele
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1607733476.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Shadow Rock Mix - 128 kbit/s
@@ -106,12 +106,16 @@ http://stream.laut.fm/indie_experience
 http://79.111.14.76:9117
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559957920.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Regenbogen Indie-Rock - 128 kbit/s
 http://streams.regenbogen.de/rr-indierock-128-mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", royalfm - 128 kbit/s
+http://stream.laut.fm/royalfm
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662011.png" group-title="INDIE Radio - radio.pervii.com", ** Hot 107 Jamz** - 128 kbit/s
+http://149.56.157.81:8788/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Caprice - Indie&#47;Twee Pop - 128 kbit/s
 http://79.111.119.111:9031
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Caprice - Indie Electronic - 128 kbit/s
-http://79.111.119.111:9111
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403414537.png" group-title="INDIE Radio - radio.pervii.com", WPTS-FM Live (20bps mono) - 128 kbit/s
 http://audio.wpts.pitt.edu:8000/wpts_live_20m.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="INDIE Radio - radio.pervii.com", Radio Caprice - Indie Electronic - 128 kbit/s
+http://79.111.119.111:9111
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="INDIE Radio - radio.pervii.com", We On Radio - 128 kbit/s
 http://149.56.157.81:8728/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="INDIE Radio - radio.pervii.com", Wswo Fresh Flow Radio - 64 kbit/s
@@ -122,11 +126,13 @@ http://79.120.39.202:9033
 http://149.56.157.81:8800/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403833258.png" group-title="INDIE Radio - radio.pervii.com", K-Rock Europe - 128 kbit/s
 http://37.59.37.6:7958/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", royalfm - 128 kbit/s
-http://stream.laut.fm/royalfm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662011.png" group-title="INDIE Radio - radio.pervii.com", ** Hot 107 Jamz** - 128 kbit/s
-http://149.56.157.81:8788/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403662011.png" group-title="INDIE Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403833258.png" group-title="INDIE Radio - radio.pervii.com", MakeAVoice Radio AAC - 96 kbit/s
+http://87.117.193.47:8060
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403833258.png" group-title="INDIE Radio - radio.pervii.com", WLFC-FM - 128 kbit/s
+http://206.244.84.72:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", XRQK Bakersfield - Fresno - Ridgecrest - 128 kbit/s
+http://162.244.80.139:8062
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", Club-Radio GrandPa - 128 kbit/s
 http://dix393.de:9011
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", laut.fm pop101 - 128 kbit/s
 http://stream.laut.fm/pop101
@@ -142,16 +148,12 @@ http://107.181.227.250:8046/stream/1/
 http://162.244.80.106:8120
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561035065.jpg" group-title="INDIE Radio - radio.pervii.com", Kiyi Muzik - 320 kbit/s
 http://178.32.62.163:8223/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561035065.jpg" group-title="INDIE Radio - radio.pervii.com", MakeAVoice Radio AAC - 96 kbit/s
-http://87.117.193.47:8060
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561035065.jpg" group-title="INDIE Radio - radio.pervii.com", WLFC-FM - 128 kbit/s
-http://206.244.84.72:8000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", XRQK Bakersfield - Fresno - Ridgecrest - 128 kbit/s
-http://162.244.80.139:8062
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1572055660.jpg" group-title="INDIE Radio - radio.pervii.com", Indie Rock - 128 kbit/s
-http://listen.radionomy.com:80/LaParrandera
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", caroline_now - 128 kbit/s
+http://stream.laut.fm/caroline_now
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="INDIE Radio - radio.pervii.com", 1RadioFM - Alternative - Rock - Punk Rock - 128 kbit/s
 http://192.232.192.96:9982/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1559958975.jpg" group-title="INDIE Radio - radio.pervii.com", Indie Rock - 128 kbit/s
+http://listen.radionomy.com:80/LaParrandera
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", Indie Pop Rocks! [SomaFM] - 128 kbit/s
 http://ice3.somafm.com/indiepop-64-aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="INDIE Radio - radio.pervii.com", KNJO Thousand Oaks - 128 kbit/s
@@ -172,8 +174,8 @@ http://144.217.203.229:80
 http://162.244.80.139:8075
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", schallgrenzen - 128 kbit/s
 http://stream.laut.fm/schallgrenzen
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", caroline_now - 128 kbit/s
-http://stream.laut.fm/caroline_now
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537517064.jpg" group-title="INDIE Radio - radio.pervii.com", Soundstorm-radio.com Relax Radio - Electronic Pop Indie World - 128 kbit/s
+http://stream.soundstorm-radio.com:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1563710311.jpg" group-title="INDIE Radio - radio.pervii.com", IndieRewind - 128 kbit/s
 http://listen.radionomy.com/A1Indie-Radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1553400973.jpg" group-title="INDIE Radio - radio.pervii.com", Radio City Freedom - 128 kbit/s
@@ -186,5 +188,3 @@ http://prclive1.listenon.in:8888/Electronica
 http://stream.laut.fm/popklub
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="INDIE Radio - radio.pervii.com", audimaxx - 128 kbit/s
 http://stream.laut.fm/audimaxx
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537517064.jpg" group-title="INDIE Radio - radio.pervii.com", Soundstorm-radio.com Relax Radio - Electronic Pop Indie World - 128 kbit/s
-http://stream.soundstorm-radio.com:8000
