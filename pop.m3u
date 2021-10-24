@@ -192,11 +192,11 @@ https://kathy.torontocast.com:3060/stream/1/
 http://85.195.88.149:28768/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1550042034.jpg" group-title="POP Radio - radio.pervii.com", iFM Narodni Radio Topola Oplenac - 128 kbit/s
 http://91.228.254.120:7000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122176.jpg" group-title="POP Radio - radio.pervii.com", DOĞAN 21 FM - 128 kbit/s
-http://yayin1.yayindakiler.com:3024/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Arabella Ti Amo - 96 kbit/s
 http://arabella.stream.kapper.net:8007/arabellatiamo
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="POP Radio - radio.pervii.com", ANTENNE BAYERN Black Beatz - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/122176.jpg" group-title="POP Radio - radio.pervii.com", DOĞAN 21 FM - 128 kbit/s
+http://yayin1.yayindakiler.com:3024/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1302921396.jpg" group-title="POP Radio - radio.pervii.com", ANTENNE BAYERN Black Beatz - 128 kbit/s
 http://mp3channels.webradio.antenne.de/black-beatz.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1560904611.jpg" group-title="POP Radio - radio.pervii.com", Feel Good Radio - 192 kbit/s
 http://94.23.148.11:8344/stream/1/

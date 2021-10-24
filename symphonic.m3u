@@ -16,10 +16,10 @@ http://23.82.11.88:30928/stream1
 http://158.69.224.10:8004/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1561046045.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Italy Classical Radio - 128 kbit/s
 http://176.31.107.8:8204/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Klassik Radio Pure Mozart - 128 kbit/s
-http://stream.klassikradio.de/mozart/aac-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549783303.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Klassik Radio Piano - 128 kbit/s
 http://stream.klassikradio.de/piano/mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1578197770.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Klassik Radio Pure Mozart - 128 kbit/s
+http://stream.klassikradio.de/mozart/aac-64
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/20971.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Adagio.FM - Timeless Classical Music from Medieval to Modern with Chat & Automated Requests - 128 kbit/s
 http://hi5.adagio.fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", GotRadio - Piano Perfect - 128 kbit/s
@@ -52,10 +52,10 @@ http://us2.internet-radio.com:8046/stream/1/
 http://149.255.59.162:8018
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1586873458.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Just playing Haydn - 192 kbit/s
 http://198.245.50.150:8020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice Classical Piano - 192 kbit/s
-http://79.120.39.202:9069
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Piano Jazz&#47;Strade - 128 kbit/s
 http://79.111.119.111:9059
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice Classical Piano - 128 kbit/s
+http://79.120.39.202:9069
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537514678.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Whisperings: Solo Piano Radio - 64 kbit/s
 http://pianosolo.streamguys.net/iphone
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537514678.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", RadioSon.ru: Radio Mozart Classical channel. - 128 kbit/s
@@ -66,10 +66,10 @@ http://149.255.59.3:8029/stream/1/
 http://23.82.11.88:1228/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Symphony - 128 kbit/s
 http://79.111.14.76:9079
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice Symphonic Rock - 128 kbit/s
-http://79.120.39.202:9067
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", CALMRADIO.COM - Jazz Piano - 128 kbit/s
 http://23.82.11.88:30728/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice Symphonic Rock - 128 kbit/s
+http://79.120.39.202:9067
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Radio Caprice - Symphonic Black Metal - 128 kbit/s
 http://79.111.119.111:9005
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Piano Di Notte - 128 kbit/s
@@ -80,12 +80,12 @@ http://pureplay.cdnstream1.com/6060_64.aac
 http://23.82.11.88:25028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1586878092.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", Bru Zane Classical Radio Italy - Rediscovering French Romantic Music - 128 kbit/s
 http://5.196.98.236:80/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", solopiano - 192 kbit/s
-http://88.99.44.26:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", 011.FM - Holiday Piano - 192 kbit/s
 http://listen.011fm.com:80/stream32
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1553409376.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", RadioC2 Message - 64 kbit/s
 http://donleone.online:8448/symphonic_metal?testpass
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537514554.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", solopiano - 192 kbit/s
+http://88.99.44.26:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", CALM RADIO - MOZART - Sampler - 128 kbit/s
 http://23.82.11.88:7328/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/78095.jpg" group-title="SYMPHONIC Radio - radio.pervii.com", ABCPiano - 128 kbit/s

@@ -62,10 +62,10 @@ http://188.165.11.30:8200/oldies.mp3
 http://listen.57fm.com/stream/9/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549686251.jpg" group-title="OLDIES Radio - radio.pervii.com", ** WRCW RADIO - HOME OF GUNSMOKE ** - 64 kbit/s
 http://107.181.227.250:8166/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549686251.jpg" group-title="OLDIES Radio - radio.pervii.com", Gaveromroep Deerlijk - 192 kbit/s
+http://91.121.155.140:18192/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559524510.jpg" group-title="OLDIES Radio - radio.pervii.com", Radio Valencia 105 mHz FM vanuit Meer - 128 kbit/s
 http://37.59.195.28:8140/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1559524510.jpg" group-title="OLDIES Radio - radio.pervii.com", Gaveromroep Deerlijk - 192 kbit/s
-http://91.121.155.140:18192/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1455422314.jpg" group-title="OLDIES Radio - radio.pervii.com", radio + - 192 kbit/s
 http://91.121.162.224:9073/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403813949.png" group-title="OLDIES Radio - radio.pervii.com", Solid Gold Gem AM - 192 kbit/s
@@ -104,12 +104,12 @@ http://162.213.197.50:80
 http://5.135.188.130:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1551936169.jpg" group-title="OLDIES Radio - radio.pervii.com", Oldies 100 - 128 kbit/s
 http://142.4.217.133:9199/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/112891.jpg" group-title="OLDIES Radio - radio.pervii.com", Relic Radio On The Air - 48 kbit/s
-http://s8.voscast.com:7372/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403634483.png" group-title="OLDIES Radio - radio.pervii.com", Radio Caroline 319 - Breskens NL - 320 - 320 kbit/s
 http://www.rcgoldserver.eu:8270/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/110510.jpg" group-title="OLDIES Radio - radio.pervii.com", Oldies Radio 104 - 128 kbit/s
 http://176.31.248.14:15696/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/112891.jpg" group-title="OLDIES Radio - radio.pervii.com", Relic Radio On The Air - 48 kbit/s
+http://s8.voscast.com:7372/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1549635100.jpg" group-title="OLDIES Radio - radio.pervii.com", The Doo-Wop Express - 128 kbit/s
 http://los.cdnstream.com/1136_128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1553415257.jpg" group-title="OLDIES Radio - radio.pervii.com", 1 Oldies Paradise - 128 kbit/s
@@ -140,10 +140,10 @@ http://149.255.59.3:8098/stream/1/
 http://cast.radiogroup.com.ua:8000/retro
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436073235.png" group-title="OLDIES Radio - radio.pervii.com", 57 Chevy Love Songs - 128 kbit/s
 http://listen.57fm.com/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1551702632.jpg" group-title="OLDIES Radio - radio.pervii.com", Nostalgie Radio Belgrade - 105,2 Mhz - 128 kbit/s
-http://193.243.169.34:9250
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1576389451.jpg" group-title="OLDIES Radio - radio.pervii.com", Oldies Internet Radio - 128 kbit/s
 http://162.244.81.98:8140/listen
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1551702632.jpg" group-title="OLDIES Radio - radio.pervii.com", Nostalgie Radio Belgrade - 105,2 Mhz - 128 kbit/s
+http://193.243.169.34:9250
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="OLDIES Radio - radio.pervii.com", Jukebox - 128 kbit/s
 http://stream.laut.fm/jukebox
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="OLDIES Radio - radio.pervii.com", antenne-sauerland - 128 kbit/s
@@ -168,12 +168,12 @@ http://5.196.131.97:8330/stream/1/
 http://stream.ueteknik.se:8000/stream/10/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1574570456.jpg" group-title="OLDIES Radio - radio.pervii.com", Synthetic FM - The radio for the Synth lovers - 192 kbit/s
 http://stream.syntheticfm.com:8040/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="OLDIES Radio - radio.pervii.com", Radio Ahaus - 128 kbit/s
-http://stream.laut.fm/radio-ahaus
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552645413.jpg" group-title="OLDIES Radio - radio.pervii.com", LocoFM Wezep Oldebroek - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1552645413.jpg" group-title="OLDIES Radio - radio.pervii.com", LocoFM Wezep Oldebroek - 192 kbit/s
 http://94.23.148.11:8158/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="OLDIES Radio - radio.pervii.com", 1 Oldies - 128 kbit/s
 http://stream.laut.fm/1-oldies
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="OLDIES Radio - radio.pervii.com", Radio Ahaus - 128 kbit/s
+http://stream.laut.fm/radio-ahaus
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="OLDIES Radio - radio.pervii.com", ABF LOVE [Propulsed by Frequence 3 & Powered by IKOULA] - 160 kbit/s
 http://abf.net-radio.fr/m2love-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550163743.jpg" group-title="OLDIES Radio - radio.pervii.com", CKAY - 128 kbit/s
