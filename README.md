@@ -1,4 +1,4 @@
-## Collection of m3u Radio Playlists, Updated every 6 hours (automatically)
+## Collection of m3u Radio Playlists, Updated daily (manually)
 this repo now includes two extra streams made by me, `---everyhting.m3u` and `---randomized.m3u`
 
 `---everyhting.m3u` combines all of the streams sorted by name
