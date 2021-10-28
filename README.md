@@ -43,3 +43,6 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 
 ### Where did you find these?
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
+
+### why did i stopped the automatic updates
+i did a two week test run of updating this repo automatically every 6 hours but from the git stats i've seen it didn't get enough clones to warrant such updating frequency, i will keep the updates to once or twice every day for the time being and see what happenes.
