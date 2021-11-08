@@ -45,7 +45,9 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
 
 ### How do i push updates?
-at first this process was manual but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here in case someone who was interested in it can find it.
+if you just want to listen to music you won't need to keep reading but if you are interested to know how i do this keep reading
+
+at first this process was manuall but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
 
 1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change this so after this one line command we don't need to repeat this frist ever again and save these links to a text file
 ```
