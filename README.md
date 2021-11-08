@@ -49,7 +49,7 @@ if you just want to listen to music you won't need to keep reading but if you ar
 
 at first this process was manuall but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
 
-1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change this so after this one line command we don't need to repeat this frist ever again and save these links to a text file
+1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change so after this one line command we don't need to repeat this frist step ever again and we can save these links to a text file for future downloads
 ```
 lynx --dump --listonly --nonumbers https://www.radio.pervii.com/en/online-playlists-m3u.htm | grep ".m3u" | grep "top_radio" > list.txt
 ```
@@ -89,7 +89,7 @@ cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
 ```
 
-7rd, 8rd and last step: add, commit and push to your repo
+last step: add, commit and push to your repo
 ```
 git -C ~/Music/m3u-radio-music-playlists add .
 git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
