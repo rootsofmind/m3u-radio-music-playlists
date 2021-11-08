@@ -36,6 +36,8 @@ http://streaming-dc.mundoclasicaupa.com:8020/radioelmundo
 http://23.237.150.178:9002/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", Radio Crestin Aripi Spre Cer Instrumental - 128 kbit/s
 http://aripisprecer.ro:8135/stream/1/
+#EXTINF:-1 tvg-logo="https://jaquearnoux.de/radio.jpeg" group-title="INSTRUMENTAL Radio - jaquearnoux.de", Arnold Schiller Radio - 128 kbit/s
+http://5.189.132.61:8000/musik.ogg
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", SanFM.ru Drum and bass - 128 kbit/s
 http://sanfm.ru:8000/drum_nonstop
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914124019.jpg" group-title="INSTRUMENTAL Radio - radio.pervii.com", SanFM.ru Alternative - 96 kbit/s
