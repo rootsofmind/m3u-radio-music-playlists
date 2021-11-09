@@ -1,4 +1,6 @@
 ## Collection of m3u Radio Playlists, Updated daily (manually)
+this repo now includes a radio.m3u station with various streams collected over time by many people, thanks to [ArnoldSchiller](https://github.com/ArnoldSchiller) for his merge request, this stream is not part of my usall stream updates and won't get updated as often but it's contents are getting included in my 2 own made streams listed below
+
 this repo now includes two extra streams made by me, `---everyhting.m3u` and `---randomized.m3u`
 
 `---everyhting.m3u` combines all of the streams sorted by name
