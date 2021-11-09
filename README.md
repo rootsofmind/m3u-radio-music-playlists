@@ -43,3 +43,70 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 
 ### Where did you find these?
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
+
+### How do i push updates?
+if you just want to listen to music you won't need to keep reading but if you are interested to know how i do this keep reading
+
+at first this process was manuall but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
+
+1st step: we need to get the links from the website [here](https://www.radio.pervii.com/en/online-playlists-m3u.htm) these files are automatically updated and sorted by popularity but the links themselves never change so after this one line command we don't need to repeat this frist step ever again and we can save these links to a text file for future downloads
+```
+lynx --dump --listonly --nonumbers https://www.radio.pervii.com/en/online-playlists-m3u.htm | grep ".m3u" | grep "top_radio" > list.txt
+```
+now for the explanation of what we did: 
+
+lynx is a terminal web browser that doesn't load any kind of media and only shows links, text and stylings, we use it's `--dump` flag to save all the text and links from the website
+
+grep is a powerful program that takes strings of characters and grep them to assist us in finding the stuff we need we used a pipe `|` to take the information lynx gave us and send it to grep, we first look for every `.m3u` file in the page and then further filter these links by `top_radio` in the next grep command to only get the file links we need, finnaly use `>` to write all of these information to the `list.txt` in the current directory we are in
+
+2nd step: we use aria2 to download these files to our preffered directory in our case `~/Music/bare_m3u/`
+```
+/usr/bin/aria2c -x 16 -j 4 -i ~/Music/list.txt -d ~/Music/bare_m3u/
+```
+note that every time we use a program in a script we want to avoid using `cd` (change directory) and always want to use the full path of every program we use, for finding where a program is just do which and then the name of the program like this: ``which aria2c`` which gives us this ``/usr/bin/aria2c``
+
+the flags we used with aria2 is as follows: `-x 16` tells aria2 to use 16 connections to download every file (this makes the download faster), `-j 4` makes it that aria2 download 4 files at a time, `-i` takes our input txt file we made in the first step and `-d` tells aria2 to download to that specific directory
+
+3rd step: remove the top_radio_ prefix from every file since it's not needed for our use case
+```
+for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
+```
+
+4rd step: make the ---everyhting.m3u out of our downloaded m3u files
+```
+ls ~/Music/bare_m3u/*.m3u -v | xargs cat | sed -n '/^#/!p' > ~/Music/bare_m3u/---everyhting.m3u
+```
+because `cat` doesn't list alphabetically we use `ls` in tandom with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream
+
+5rd step: make the ---randomized.m3u stream by shuffeling the contents of ---everyhting.m3u
+```
+cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+```
+`shuf` does the shuffeling for us
+
+6rd step: move everything to our repos git directory, all the git stuff happens here, the move command overwrites everything that was there before
+```
+mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
+```
+
+last step: add, commit and push to your repo
+```
+git -C ~/Music/m3u-radio-music-playlists add .
+git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
+git -C ~/Music/m3u-radio-music-playlists push
+```
+you will need a personal access token for repeat pushes to your repo from the terminal, look [here](https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password) for more information about it 
+
+now for the complete script, save it to a file and give it `.sh` extension and run ``chmod +x script.sh`` on it and it's ready to use, next time you want to push an update just do ``script.sh`` in your terminal
+```
+#!/bin/bash
+
+/usr/bin/aria2c -i ~/Music/list.txt -d ~/Music/bare_m3u/
+for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
+ls ~/Music/bare_m3u/*.m3u -v | xargs cat | sed -n '/^#/!p' > ~/Music/bare_m3u/---everyhting.m3u
+cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
+mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
+git -C ~/Music/m3u-radio-music-playlists add .
+git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
+git -C ~/Music/m3u-radio-music-playlists push
+```
