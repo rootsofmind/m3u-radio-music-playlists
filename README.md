@@ -108,7 +108,7 @@ now for the complete script, save it to a file and give it `.sh` extension and r
 ```
 #!/bin/bash
 
-/usr/bin/aria2c -i ~/Music/list.txt -d ~/Music/bare_m3u/
+/usr/bin/aria2c -x 16 -j 4 -i ~/Music/list.txt -d ~/Music/bare_m3u/
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
 ls ~/Music/bare_m3u/*.m3u -v | xargs cat | sed -n '/^#/!p' > ~/Music/bare_m3u/---everyhting.m3u
 cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
