@@ -99,7 +99,7 @@ git -C ~/Music/m3u-radio-music-playlists push
 ```
 you will need a personal access token for repeat pushes to your repo from the terminal, look [here](https://docs.github.com/en/get-started/getting-started-with-git/why-is-git-always-asking-for-my-password) for more information about it 
 
-if you are the only person who uses your computer you can set git to always remember you password using this command on your repo:
+if you are the only person who uses your computer you can set git to always remember your username & password using this command on your repos local folder:
 ```
 git config credential.helper store
 ```
