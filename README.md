@@ -103,6 +103,7 @@ if you are the only person who uses your computer you can set git to always reme
 ```
 git config credential.helper store
 ```
+the next time you put your username and password git is going to remember it and never ask for it again
 
 now for the complete script, save it to a file and give it `.sh` extension and run ``chmod +x script.sh`` on it and it's ready to use, next time you want to push an update just do ``script.sh`` in your terminal
 ```
