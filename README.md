@@ -47,7 +47,10 @@ use the [auto-generated zip](https://github.com/junguler/m3u-radio-music-playlis
 from [this page](https://www.radio.pervii.com/en/online-playlists-m3u.htm)
 
 ### How do i push updates?
-if you just want to listen to music you won't need to keep reading but if you are interested to know how i do this keep reading
+if you just want to listen to music you won't need to keep reading but if you are interested to know how i do this then click below
+<details>
+  <summary>click me to read</summary>
+  
 
 at first this process was manuall but i finally got around to write a simple bash script to make this process fast and easy, i'll go over each step here one by one
 
@@ -118,3 +121,5 @@ git -C ~/Music/m3u-radio-music-playlists add .
 git -C ~/Music/m3u-radio-music-playlists commit -m "updating"
 git -C ~/Music/m3u-radio-music-playlists push
 ```
+
+</details>
