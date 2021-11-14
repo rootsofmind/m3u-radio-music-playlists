@@ -26,7 +26,6 @@ put these in your mpv.conf, this is a auto-profile for all audio files
 [audio-only]
 profile-cond=(get('estimated-frame-count',math.huge)<2)
 profile-restore=copy
-autofit-larger=376x210
 vf-add=rgbashift=rh=-4:bv=+4
 vf-add=drawbox=w=iw:h=ih:color=00FFFF@0.5
 vf-add=drawbox=x=3:y=3:w=iw-6:h=ih-6:color=00FF00@0.5
