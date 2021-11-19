@@ -7,7 +7,7 @@ this repo now includes two extra streams made by me, `---everyhting.m3u` and `--
 
 `---randomized.m3u` is exactly like the everything stream but every line was shuffled and randomized
 
-both files have had extra info, cover images and duplicate links removed to make them smaller and easier to download and load into a player, every time i push an update these two files will also get updated and the randomized stream will also get shuffled again
+both files have had extra info, cover images and duplicate links removed to make them smaller and easier to download/load into a player, every time i push an update these two files will also get updated and the randomized stream will also get shuffled again
 
 ### How to listen to these?
 in the terminal, do this:
