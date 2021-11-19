@@ -130,12 +130,12 @@ http://192.99.8.192:3154/stream/1/
 http://stream.radioreklama.bg/energy-90s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563255535.jpg" group-title="POP Radio - radio.pervii.com", Tamil894FM - 192 kbit/s
 http://31.14.40.150:9000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549789725.jpg" group-title="POP Radio - radio.pervii.com", More Radio Worthing - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550040955.jpg" group-title="POP Radio - radio.pervii.com", Radio Jura - 96 kbit/s
+http://stream2.radio90.pl:8000/jura_96kbps_stereo.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549789725.jpg" group-title="POP Radio - radio.pervii.com", More Radio Worthing - 96 kbit/s
 http://5.39.68.114:8096/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537585457.jpg" group-title="POP Radio - radio.pervii.com", Dolfijn FM - 192 kbit/s
 http://85.214.231.253:8080/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550040955.jpg" group-title="POP Radio - radio.pervii.com", Radio Jura - 96 kbit/s
-http://stream2.radio90.pl:8000/jura_96kbps_stereo.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Arabella Oberösterreich live - 128 kbit/s
 http://arabella.stream.kapper.net:8002/arabellaooe
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Internet Radio Lele Male - 128 kbit/s
@@ -166,10 +166,10 @@ http://server-24.stream-server.nl:8800/stream/1/
 http://www.radiok.pro:8000/128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1549550142.jpg" group-title="POP Radio - radio.pervii.com", Hitrádio City (Praha) - 128 kbit/s
 http://ice.abradio.cz:80/cityfm128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1594262677.jpg" group-title="POP Radio - radio.pervii.com", Elmag Radio - 128 kbit/s
-http://radio.elmag.me/elmag.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537584943.jpg" group-title="POP Radio - radio.pervii.com", LiteFavorites.com - Today&#039;s Hits &amp; Yesterday&#039;s Favorites - 128 kbit/s
 http://naxos.cdnstream.com/1255_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1594262677.jpg" group-title="POP Radio - radio.pervii.com", Elmag Radio - 128 kbit/s
+http://radio.elmag.me/elmag.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1559901882.jpg" group-title="POP Radio - radio.pervii.com", DeeJay 97.5 Corfu Greece - 192 kbit/s
 https://sh.onweb.gr:7083/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Melodie - 96 kbit/s

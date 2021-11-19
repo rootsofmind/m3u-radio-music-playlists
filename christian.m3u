@@ -84,10 +84,10 @@ http://segenswelle.de:8000/plautdietsch
 https://rdamchp1-lh.akamaihd.net/i/rdamchp_1_0@193678/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550681587.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Evangelism Radio - 128 kbit/s
 http://stream.radio.co/s1820bbaf2/listen
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573980853.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", RADIO MARIA FRANCE - 128 kbit/s
-http://dreamsiteradiocp4.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549635221.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Latvian Christian Radio - 128 kbit/s
 http://91.228.7.124:7007/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1573980853.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", RADIO MARIA FRANCE - 128 kbit/s
+http://dreamsiteradiocp4.com:8056/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549691895.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Quran Coran - www.coran.tk - 64 kbit/s
 http://92.222.103.13:8005/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1578245036.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", - - 128 kbit/s
@@ -96,14 +96,14 @@ http://node-19.zeno.fm/a6vdrkrx9s5tv
 http://ic1.sslstream.com/wfgb-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403593792.png" group-title="CHRISTIAN Radio - radio.pervii.com", Abiding Radio - Sacred - 128 kbit/s
 http://streams.abidingradio.org:7820/1_autodj
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537527496.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Power of Worship Radio - 128 kbit/s
-https://s4.radio.co/s325d5f1a1/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/109857.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Radio Verite - 128 kbit/s
 http://198.101.12.86:9990/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/109857.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Ave Maria Radio - 128 kbit/s
 http://ic2.mainstreamnetwork.com/wdeo-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537544294.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", New Life Radio - Radio Novaya Zhizn - 128 kbit/s
 http://ic2.christiannetcast.com/nlradio
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1537527496.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Power of Worship Radio - 128 kbit/s
+https://s4.radio.co/s325d5f1a1/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/8367.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Radio Muslim - 96 kbit/s
 http://128.199.156.6:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403448523.png" group-title="CHRISTIAN Radio - radio.pervii.com", KJON 850AM - 64 kbit/s
@@ -162,12 +162,12 @@ http://212.227.248.87:6801
 http://aripisprecer.ro:8125/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Lluvias Radio - 128 kbit/s
 http://stream1.emisorasvirtuales.com:8077
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561970750.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Radio Estereo Vision - 64 kbit/s
-http://server2.watahosting.com:8004/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561970750.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", This is my server name - 64 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1555074883.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", This is my server name - 128 kbit/s
 http://ic2.christiannetcast.com/waxj-fm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259346.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", GospelStarRadioOnline - 320 kbit/s
 http://eu5.fastcast4u.com:5093
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561970750.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", Radio Estereo Vision - 64 kbit/s
+http://server2.watahosting.com:8004/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403664576.png" group-title="CHRISTIAN Radio - radio.pervii.com", Vallamaiyin Alaikal - Tamil Christian Radio - 256 kbit/s
 http://74.208.24.178:80/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/117123.jpg" group-title="CHRISTIAN Radio - radio.pervii.com", ASEDA RADIO - 128 kbit/s

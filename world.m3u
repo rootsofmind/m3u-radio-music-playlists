@@ -42,25 +42,25 @@ http://162.244.81.145:1935/rtnh01/livestream/playlist.m3u8
 http://omegaingenieria.com:8034/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549957638.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Paradisagasy - www.radioparadisagasy.com - 64 kbit/s
 http://163.172.29.170:8020
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="WORLD Radio - radio.pervii.com", American Tamil Radio - 128 kbit/s
+http://69.46.24.226:7188/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="WORLD Radio - radio.pervii.com", Suvidha Radio - 128 kbit/s
+https://my.ssl-stream.com/Suvidha_Radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537444514.jpg" group-title="WORLD Radio - radio.pervii.com", LOLLIRADIO DANCE - Dance & House Hits - Italy Italia - 128 kbit/s
 https://dance.lolliradio.net
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="WORLD Radio - radio.pervii.com", shalimar - 128 kbit/s
 http://stream.laut.fm/shalimar
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="WORLD Radio - radio.pervii.com", laut.fm radio pdm - 128 kbit/s
 http://stream.laut.fm/radio-pdm
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="WORLD Radio - radio.pervii.com", American Tamil Radio - 128 kbit/s
-http://69.46.24.226:7188/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550158986.jpg" group-title="WORLD Radio - radio.pervii.com", Suvidha Radio - 128 kbit/s
-https://my.ssl-stream.com/Suvidha_Radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1555244395.jpg" group-title="WORLD Radio - radio.pervii.com", Test - 128 kbit/s
 http://stream.bubamara.com.mk/live-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/21589.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Danz - the world&apos;s pure dance channel! - 128 kbit/s
+http://server1.radiodanz.com:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553490822.jpg" group-title="WORLD Radio - radio.pervii.com", FREQUENCE 3 - WORLD [BACKUP] - 160 kbit/s
 http://abf.net-radio.fr/m2chillout-256.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/32032.jpg" group-title="WORLD Radio - radio.pervii.com", Reggae Empire Radio Worldwide - 192 kbit/s
 http://192.99.8.192:3106/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/21589.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Danz - the world&apos;s pure dance channel! - 192 kbit/s
-http://server1.radiodanz.com:8010/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/21589.jpg" group-title="WORLD Radio - radio.pervii.com", Petőfi Rádió (mp3) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/32032.jpg" group-title="WORLD Radio - radio.pervii.com", Petőfi Rádió (mp3) - 128 kbit/s
 http://stream002.radio.hu:80/mr2.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1537590849.jpg" group-title="WORLD Radio - radio.pervii.com", 96.9 The Oasis - The World&apos;s Smooth Jazz Place - 192 kbit/s
 http://192.211.51.158:5014/stream/1/
@@ -92,12 +92,12 @@ http://148.218.66.38:8000/stream/1/
 http://abf.net-radio.fr/m2funk-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="WORLD Radio - radio.pervii.com", RockWorld24.com - 320 kbit/s
 http://eu7.fastcast4u.com:6249/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Flamenco - 128 kbit/s
-http://23.82.11.88:4928/stream1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554014989.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Moris - 128 kbit/s
 http://cc.radiomoris.com:80/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALM RADIO - INDIA - Sampler - 128 kbit/s
 http://23.82.11.88:5328/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Flamenco - 128 kbit/s
+http://23.82.11.88:4928/stream1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALM RADIO - FLAMENCO - Sampler - 128 kbit/s
 http://23.82.11.88:4928/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1554014989.jpg" group-title="WORLD Radio - radio.pervii.com", RadioMoris Live - 128 kbit/s
@@ -124,10 +124,6 @@ http://23.82.11.88:15628/stream1
 http://188.165.192.5:8287/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="WORLD Radio - radio.pervii.com", FREQUENCE 3 WORLD [Powered by IKOULA] - 160 kbit/s
 http://abf.net-radio.fr/m2jazz-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403700619.png" group-title="WORLD Radio - radio.pervii.com", Hi On Line World Radio - 320 kbit/s
-http://mediaserv38.live-streams.nl:8027/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/114704.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Stand By - 192 kbit/s
-http://188.165.206.81:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403590993.png" group-title="WORLD Radio - radio.pervii.com", Hitz Fm - 192 kbit/s
 http://s8.voscast.com:8224/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1550716646.jpg" group-title="WORLD Radio - radio.pervii.com", Afriradio - 128 kbit/s
@@ -136,28 +132,30 @@ http://s6.mediastreaming.it:9056
 http://abf.net-radio.fr/m2sunshine-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Native Flute - 128 kbit/s
 http://23.82.11.88:3428/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403700619.png" group-title="WORLD Radio - radio.pervii.com", Hi On Line World Radio - 320 kbit/s
+http://mediaserv38.live-streams.nl:8027/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/114704.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Stand By - 192 kbit/s
+http://188.165.206.81:8010/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/100941.jpg" group-title="WORLD Radio - radio.pervii.com", TORi-Live-8000 - 64 kbit/s
 http://173.203.133.187:9700/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/100941.jpg" group-title="WORLD Radio - radio.pervii.com", TORi-Live - 64 kbit/s
 http://173.203.133.187:9156
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550678009.jpg" group-title="WORLD Radio - radio.pervii.com", Nicky FM Stream - 256 kbit/s
 http://213.202.241.199:8272/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALM RADIO - NATIVE - Sampler - 128 kbit/s
-http://23.82.11.88:3428/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553702261.jpg" group-title="WORLD Radio - radio.pervii.com", The Alex Jones Show - High Bitrate - 128 kbit/s
-http://flow01.gcnlive.com/alexJones-hi.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/21589.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Danz - the world&#039;s pure dance channel! - 128 kbit/s
 http://107.182.231.253:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="WORLD Radio - radio.pervii.com", RadioCaster Stream - 160 kbit/s
 http://abf.net-radio.fr/m2jazz-256.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1562176219.jpg" group-title="WORLD Radio - radio.pervii.com", LoveWorld Internet Radio - 64 kbit/s
 http://198.178.123.14:8208/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALM RADIO - NATIVE - Sampler - 128 kbit/s
+http://23.82.11.88:3428/stream
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553702261.jpg" group-title="WORLD Radio - radio.pervii.com", The Alex Jones Show - High Bitrate - 128 kbit/s
+http://flow01.gcnlive.com/alexJones-hi.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1555291882.jpg" group-title="WORLD Radio - radio.pervii.com", ABF WORLD [Propulsed by Frequence 3 & Powered by IKOULA - 128 kbit/s
 http://abf.net-radio.fr/m2hip-hop-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Orient - 128 kbit/s
 http://23.82.11.88:3628/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Mach5 Rete 1 ON AIR  FM 94.6 - 128 kbit/s
-http://94.23.6.107:8183/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Dj arno - 192 kbit/s
 http://95.211.190.230:8012
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/71908.jpg" group-title="WORLD Radio - radio.pervii.com", WFMU Freeform Radio - 128 kbit/s
@@ -166,22 +164,16 @@ http://stream0.wfmu.org/freeform-128k
 http://162.213.197.53:80
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Arabic - 128 kbit/s
 http://23.82.11.88:5228/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Mach5 Rete 1 ON AIR  FM 94.6 - 128 kbit/s
+http://94.23.6.107:8183/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Shakuhachi - 128 kbit/s
+http://23.82.11.88:20328/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561650811.jpg" group-title="WORLD Radio - radio.pervii.com", Drum And Bass Worldwide - 320 kbit/s
 http://176.58.99.7:8000/dnbww.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561650811.jpg" group-title="WORLD Radio - radio.pervii.com", RADIO MED-OSLO - 128 kbit/s
 http://78.129.232.226:8211/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561650811.jpg" group-title="WORLD Radio - radio.pervii.com", Asterisco Radio - 128 kbit/s
 http://91.121.118.99:8588
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Shakuhachi - 128 kbit/s
-http://23.82.11.88:20328/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - India - 128 kbit/s
-http://23.82.11.88:5328/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Ideas Radio - 128 kbit/s
-http://192.99.44.11:8964/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Lichtstad Radio - 192 kbit/s
-http://streamserv3.digipal.nl:8012
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549899138.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Mojdeh - Iranian Farsi/Persian Christian music and talk - 128 kbit/s
-http://ic2326.c1261.fast-serv.com:80/rm128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Fado - 128 kbit/s
 http://23.82.11.88:15528/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1571971496.jpg" group-title="WORLD Radio - radio.pervii.com", Clapas - 128 kbit/s
@@ -192,11 +184,19 @@ http://23.82.11.88:20028/stream/1/
 http://ice1.somafm.com/brfm-128-mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552392752.jpg" group-title="WORLD Radio - radio.pervii.com", BEYAZFIRIN - 128 kbit/s
 http://46.20.3.227:80
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - India - 128 kbit/s
+http://23.82.11.88:5328/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Ideas Radio - 128 kbit/s
+http://192.99.44.11:8964/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", Lichtstad Radio - 192 kbit/s
+http://streamserv3.digipal.nl:8012
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549899138.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Mojdeh - Iranian Farsi/Persian Christian music and talk - 128 kbit/s
+http://ic2326.c1261.fast-serv.com:80/rm128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1435600096.jpg" group-title="WORLD Radio - radio.pervii.com", BeirutNights.com Radio: Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
 http://68.68.109.106:6626
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", CALMRADIO.COM - Bollywood - 128 kbit/s
 http://23.82.11.88:7028/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403503599.png" group-title="WORLD Radio - radio.pervii.com", Radio FM Faleria - 128 kbit/s
-http://94.23.67.172:9209/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403503599.png" group-title="WORLD Radio - radio.pervii.com", Amulragal Fm - 128 kbit/s
-http://78.129.159.25:8169/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="WORLD Radio - radio.pervii.com", 2REM fm Albury-Wodonga - 64 kbit/s
+http://198.74.51.37:8233/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1572768561.jpg" group-title="WORLD Radio - radio.pervii.com", Radio Gbg Sevdah - 128 kbit/s
+http://62.210.188.38:8050/stream/4/
