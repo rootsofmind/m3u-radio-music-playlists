@@ -21,12 +21,10 @@ http://134.29.211.155:8004/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/18293.jpg" group-title="POLKA Radio - radio.pervii.com", kleine piraat internetradio www.kleinepiraat.nl altijd in de lucht - 128 kbit/s
 http://kleinepiraat.ic-stream.nl:7030
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561196094.jpg" group-title="POLKA Radio - radio.pervii.com", Oude Piratenhits - 192 kbit/s
-http://194.88.105.64:8528/stream/1/
+http://194.88.105.64:8528
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1555251035.jpg" group-title="POLKA Radio - radio.pervii.com", Depiratenfamilie.nl , we wensen u veel luisterplezier - 192 kbit/s
 http://stream1.icehosting.nl:8492/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561196094.jpg" group-title="POLKA Radio - radio.pervii.com", Oude Piraten Hits via www.oudepiratenhits.nl - 192 kbit/s
 http://server-67.stream-server.nl:8910/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1448372452.jpg" group-title="POLKA Radio - radio.pervii.com", Radio Jodlerwirt 1 - 128 kbit/s
 www.radionomy.com/radio-jodlerwirt1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1596182677.jpg" group-title="POLKA Radio - radio.pervii.com", radioacacia.nl - 192 kbit/s
-http://95.211.206.80:8000
