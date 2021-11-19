@@ -148,14 +148,16 @@ http://92.222.155.230:7207/stream/1/
 http://s1.radioheart.ru:8001/radiogomelfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1554048843.jpg" group-title=" Radio - radio.pervii.com", IP music - aacPlus@96 Kb/s - 128 kbit/s
 http://live7.avf.ch:8000/ipmusicaacplus96
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553476441.jpg" group-title=" Radio - radio.pervii.com", 89.9 TheLight - 128 kbit/s
+http://27.131.74.8:8138/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1576246435.jpg" group-title=" Radio - radio.pervii.com", European Hit Radio - 192 kbit/s
 http://82.135.234.195:8000/ehr.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1553476441.jpg" group-title=" Radio - radio.pervii.com", 89.9 TheLight - 192 kbit/s
-http://27.131.74.8:8138/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1552792182.jpg" group-title=" Radio - radio.pervii.com", 011.FM - Top 40 - 192 kbit/s
 http://listen.011fm.com:80/stream18
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1572836535.jpg" group-title=" Radio - radio.pervii.com", Radio Zote - 64 kbit/s
 http://192.99.41.102:5664/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", my105 Charts - 128 kbit/s
+http://stream01.my105.ch/my105charts.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/83981.jpg" group-title=" Radio - radio.pervii.com", Zabavni Radio - 128 kbit/s
 http://genf196.server4you.de:8585/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537502301.jpg" group-title=" Radio - radio.pervii.com", CENTER FRESH POP - 128 kbit/s
@@ -164,8 +166,6 @@ http://stream.rockradio.si:8058/stream/1/
 http://85.25.73.243:7911/maxfm.aac?=1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1576143436.jpg" group-title=" Radio - radio.pervii.com", Radio Guyana International - Playing the Best In | Soca | Chutney | Reggae | Bollywood and Top 40. - 128 kbit/s
 http://51.15.152.81:8905/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1552147960.jpg" group-title=" Radio - radio.pervii.com", my105 Charts - 128 kbit/s
-http://stream01.my105.ch/my105charts.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/7420.jpg" group-title=" Radio - radio.pervii.com", Sunshine Radio - 128 kbit/s
 http://sunshineradio.ice.infomaniak.ch/sunshineradio-128.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1571882968.jpg" group-title=" Radio - radio.pervii.com", TOP FM Belgrade - 106,8 MHz - 128 kbit/s

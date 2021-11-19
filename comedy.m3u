@@ -20,14 +20,14 @@ http://live.radyotvonline.com:9030/stream/1/
 http://stream.beatradar.com:8007/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1572619598.jpg" group-title="COMEDY Radio - radio.pervii.com", Oxide Radio Live - 128 kbit/s
 http://109.74.196.76:8032/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556692200.jpg" group-title="COMEDY Radio - radio.pervii.com", RADIO POPIZZ  (Pop-Hits) - 128 kbit/s
-http://nr11.newradio.it:8116/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="COMEDY Radio - radio.pervii.com", radio-norderney - 128 kbit/s
 http://stream.laut.fm/radio-norderney
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="COMEDY Radio - radio.pervii.com", SteelCage Rock Radio - 320 kbit/s
-http://198.27.66.225:8096/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556692200.jpg" group-title="COMEDY Radio - radio.pervii.com", RADIO POPIZZ  (Pop-Hits) - 128 kbit/s
+http://nr11.newradio.it:8116/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1596038312.jpg" group-title="COMEDY Radio - radio.pervii.com", Radio van de Lach - 128 kbit/s
 http://45.155.156.199:8000/live.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1596038312.jpg" group-title="COMEDY Radio - radio.pervii.com", SteelCage Rock Radio - 320 kbit/s
+http://198.27.66.225:8096/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1596038312.jpg" group-title="COMEDY Radio - radio.pervii.com", ADR 104 LOL RADIO - 64 kbit/s
 http://144.217.115.101:8054/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1556550736.jpg" group-title="COMEDY Radio - radio.pervii.com", JOKE FM - 128 kbit/s

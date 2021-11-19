@@ -130,12 +130,12 @@ http://192.99.8.192:3154/stream/1/
 http://stream.radioreklama.bg/energy-90s
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563255535.jpg" group-title="POP Radio - radio.pervii.com", Tamil894FM - 192 kbit/s
 http://31.14.40.150:9000/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550040955.jpg" group-title="POP Radio - radio.pervii.com", Radio Jura - 96 kbit/s
-http://stream2.radio90.pl:8000/jura_96kbps_stereo.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549789725.jpg" group-title="POP Radio - radio.pervii.com", More Radio Worthing - 96 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549789725.jpg" group-title="POP Radio - radio.pervii.com", More Radio Worthing - 192 kbit/s
 http://5.39.68.114:8096/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1537585457.jpg" group-title="POP Radio - radio.pervii.com", Dolfijn FM - 192 kbit/s
 http://85.214.231.253:8080/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550040955.jpg" group-title="POP Radio - radio.pervii.com", Radio Jura - 96 kbit/s
+http://stream2.radio90.pl:8000/jura_96kbps_stereo.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Radio Arabella Oberösterreich live - 128 kbit/s
 http://arabella.stream.kapper.net:8002/arabellaooe
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537454161.jpg" group-title="POP Radio - radio.pervii.com", Internet Radio Lele Male - 128 kbit/s
@@ -194,9 +194,9 @@ http://hd.lagrosseradio.info:8000/lagrosseradio-rock-192.mp3
 http://185.23.192.118:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="POP Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 128 kbit/s
 http://online.volgogradfm.ru:8000/99i1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="POP Radio - radio.pervii.com", playmystic - 128 kbit/s
-http://stream.laut.fm/playmystic
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537542971.jpg" group-title="POP Radio - radio.pervii.com", I Love New Pop by ilovemusic.de - 128 kbit/s
 http://138.201.252.232:80/iloveradio11.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/61445.jpg" group-title="POP Radio - radio.pervii.com", Bubamara Srbija - 128 kbit/s
 http://92.60.230.200:5010/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="POP Radio - radio.pervii.com", playmystic - 128 kbit/s
+http://stream.laut.fm/playmystic

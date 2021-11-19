@@ -38,12 +38,12 @@ http://91.143.83.37:12000
 http://81.169.223.8/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537527011.jpg" group-title="SOUL Radio - radio.pervii.com", GENERATION SOUL DISCO FUNK RADIO [AAC] - 128 kbit/s
 http://91.121.104.123:8000/stream/2/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103420.jpg" group-title="SOUL Radio - radio.pervii.com", Diva Radio Funk - 160 kbit/s
-http://radiart.eu:10111/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1575731352.jpg" group-title="SOUL Radio - radio.pervii.com", Stereo95 - 128 kbit/s
 http://192.187.112.50:8091/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549712648.jpg" group-title="SOUL Radio - radio.pervii.com", SOUL GOLD RADIO WXRU-LP 107.9FM - 128 kbit/s
 http://cassini.shoutca.st:8277/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/103420.jpg" group-title="SOUL Radio - radio.pervii.com", Diva Radio Funk - 160 kbit/s
+http://radiart.eu:10111/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1575731352.jpg" group-title="SOUL Radio - radio.pervii.com", xhnh - 128 kbit/s
 http://192.187.112.50:8091
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403853628.png" group-title="SOUL Radio - radio.pervii.com", The FunkStation - 128 kbit/s
@@ -76,20 +76,20 @@ http://ice1.somafm.com/fluid-128-mp3
 http://centauri.shoutca.st:9049/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914192517.jpg" group-title="SOUL Radio - radio.pervii.com", 1radio.mk - The Wave Smooth Jazz (Smoothjazztampabay.com) - 128 kbit/s
 http://hestia.cdnstream.com/1256_128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914192517.jpg" group-title="SOUL Radio - radio.pervii.com", Danceradio - 192 kbit/s
+http://stream.danceradio.nl:9920
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0914192517.jpg" group-title="SOUL Radio - radio.pervii.com", Funk soul &amp; much more - 128 kbit/s
+http://67.212.165.106:8013/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403712463.png" group-title="SOUL Radio - radio.pervii.com", KIEE 88.3 FM - 128 kbit/s
 http://45.34.6.204:8005/KIEE
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Motion FM &gt; Smooth - MotionFM.com - 128 kbit/s
 https://vm.motionfm.com/motiontwo_aacp?=1
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Danceradio - 192 kbit/s
-http://stream.danceradio.nl:9920
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1561691364.jpg" group-title="SOUL Radio - radio.pervii.com", Funk soul &amp; much more - 128 kbit/s
-http://67.212.165.106:8013/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553270088.jpg" group-title="SOUL Radio - radio.pervii.com", Radio 94,3 - 192 kbit/s
 http://81.94.175.226:8000/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1553270088.jpg" group-title="SOUL Radio - radio.pervii.com", Jamm FM Radio Costa del Sol - 320 kbit/s
-http://81.169.196.110:8075/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", soulschmalz - 128 kbit/s
 http://stream.laut.fm/soulschmalz
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="SOUL Radio - radio.pervii.com", Jamm FM Radio Costa del Sol - 320 kbit/s
+http://81.169.196.110:8075/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="SOUL Radio - radio.pervii.com", www.bmradio.de - 24/7 The finest in Black Music - 128 kbit/s
 http://pluto.bmradio.de:8002/bmradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25818.jpg" group-title="SOUL Radio - radio.pervii.com", Deep Space Radio - 128 kbit/s
@@ -104,14 +104,14 @@ http://stream.laut.fm/rockandrollradio
 http://stream.radio0511.com:8880/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561118183.jpg" group-title="SOUL Radio - radio.pervii.com", Art &amp; Fashion Radio - 256 kbit/s
 http://178.33.251.97:8080/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403740512.png" group-title="SOUL Radio - radio.pervii.com", RADIO SERVICE - 320 kbit/s
-http://serveur2.wanastream.com:46100/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550157623.jpg" group-title="SOUL Radio - radio.pervii.com", 1 ABL Scotland69am - 320 kbit/s
-https://eu7.fastcast4u.com/proxy/1alba?mp=/1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1556543990.jpg" group-title="SOUL Radio - radio.pervii.com", Radio TSOP - 128 kbit/s
 http://85.195.88.149:28212/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537590741.jpg" group-title="SOUL Radio - radio.pervii.com", *** STRICTLY HOUSE - TECH CHANNEL *** - 128 kbit/s
 http://radio.strictly.house:9505/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403740512.png" group-title="SOUL Radio - radio.pervii.com", RADIO SERVICE - 320 kbit/s
+http://serveur2.wanastream.com:46100/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550157623.jpg" group-title="SOUL Radio - radio.pervii.com", 1 ABL Scotland69am - 320 kbit/s
+https://eu7.fastcast4u.com/proxy/1alba?mp=/1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556691794.jpg" group-title="SOUL Radio - radio.pervii.com", SOULANDFUNKMUSIC.COM Back To The OldSchool - 128 kbit/s
 http://bttos.soulandfunkmusic.com:8443/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1556691794.jpg" group-title="SOUL Radio - radio.pervii.com", WUVS 103.7 FM Muskegon, Mi - 96 kbit/s
