@@ -54,14 +54,14 @@ https://vm.motionfm.com/motionthree_aacp?=1
 http://chi-net.cdn.eurozet.pl:8900
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403802696.png" group-title="CHILLOUT Radio - radio.pervii.com", Chill Out Zone - 320 kbit/s
 http://air.chillout.zone:8000/radio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403802696.png" group-title="CHILLOUT Radio - radio.pervii.com", White Noise Radio - 64 kbit/s
-http://109.74.196.48:8267/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403802696.png" group-title="CHILLOUT Radio - radio.pervii.com", LFOD - Pi Radio - 128 kbit/s
 http://radio.lfod.online:3140/mpd
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403802696.png" group-title="CHILLOUT Radio - radio.pervii.com", RadioSon.ru: Ambient Chillout Radio channel. - 128 kbit/s
 http://www.radioson.ru:8009/ChilloutAnten.Radioson.ru.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403802696.png" group-title="CHILLOUT Radio - radio.pervii.com", Radio Uri 32 Chillout - 192 kbit/s
 http://217.147.162.239:8000/stream.ogg
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403802696.png" group-title="CHILLOUT Radio - radio.pervii.com", White Noise Radio - 64 kbit/s
+http://109.74.196.48:8267/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/82832.jpg" group-title="CHILLOUT Radio - radio.pervii.com", TDI Radio Chillout MP3 - 128 kbit/s
 http://streaming11.tdiradio.com:8000/chillout.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/98616.jpg" group-title="CHILLOUT Radio - radio.pervii.com", Toksyna.FM Chillout &amp; More - 128 kbit/s

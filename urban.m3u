@@ -184,10 +184,10 @@ http://192.111.140.11:8069/stream/1/
 http://37.187.146.76:9100/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", 91.8 We On Radio - 128 kbit/s
 http://74.82.59.197:8070/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1560907474.jpg" group-title="URBAN Radio - radio.pervii.com", FamilyGH - 96 kbit/s
-http://5.135.154.69:8516/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403616209.png" group-title="URBAN Radio - radio.pervii.com", SikhNet Radio - Channel 12 - Hacienda de Guru Ram Das - 96 kbit/s
 http://radio2.sikhnet.com:8024/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403616209.png" group-title="URBAN Radio - radio.pervii.com", FamilyGH - 96 kbit/s
+http://5.135.154.69:8516/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403616209.png" group-title="URBAN Radio - radio.pervii.com", DR FEELGOOD RADIO - 128 kbit/s
 http://149.56.175.167:5820/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403677180.png" group-title="URBAN Radio - radio.pervii.com", Urban SociaLites, LLC Stream - Powered by Shoutcheap.com - 96 kbit/s

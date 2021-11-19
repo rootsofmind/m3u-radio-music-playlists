@@ -40,10 +40,10 @@ http://radiok.pro:8000/128
 http://online.volgogradfm.ru:8000/99i1
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403667572.png" group-title="RUSSIAN Radio - radio.pervii.com", Dorozhnoe radio - Moskva 96.0 FM - 64 kbit/s
 http://dor2server.streamr.ru:8000/dor_64_no
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403693894.png" group-title="RUSSIAN Radio - radio.pervii.com", Radio Kontinental (Chelyabinsk 100,4 FM) - 128 kbit/s
-http://stream01.radiocon.ru:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1439098397.png" group-title="RUSSIAN Radio - radio.pervii.com", Evropa Plyus - Moskva 106.2 FM - 128 kbit/s
 http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403693894.png" group-title="RUSSIAN Radio - radio.pervii.com", Radio Kontinental (Chelyabinsk 100,4 FM) - 128 kbit/s
+http://stream01.radiocon.ru:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403628116.png" group-title="RUSSIAN Radio - radio.pervii.com", Staroe Radio - 128 kbit/s
 http://staroeradio.ru:8000/ices128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1443541015.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Shtorm.FM Klubnyy - 128 kbit/s
@@ -56,10 +56,10 @@ http://online.volgogradfm.ru:8000/sputnik107_aacplus
 http://radio.sarov.info:8010/clever-radio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550034225.jpg" group-title="RUSSIAN Radio - radio.pervii.com", DEEP ONE radio - 96 kbit/s
 http://stream.deep1.ru:8000/deep1mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403409742.png" group-title="RUSSIAN Radio - radio.pervii.com", Radio Yuniton - 96 kbit/s
-http://online.uniton.ru:8300/RadioUniton128?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1578023322.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Romantika Moskva 98,8 FM  - 96 kbit/s
 https://pub0302.101.ru:8443/stream/air/aac/64/101
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403409742.png" group-title="RUSSIAN Radio - radio.pervii.com", Radio Yuniton - 96 kbit/s
+http://online.uniton.ru:8300/RadioUniton128?
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1537544294.jpg" group-title="RUSSIAN Radio - radio.pervii.com", New Life Radio - Radio Novaya Zhizn - 96 kbit/s
 http://ic2.christiannetcast.com/nlradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403829477.png" group-title="RUSSIAN Radio - radio.pervii.com", Noise FM - Modern Electronic Radio - 256 kbit/s
@@ -70,10 +70,10 @@ http://gmedia54.fvds.ru:8000/rusradio_nsk_low
 http://listen.vedaradio.fm:8000/high
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561222161.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Krasnoyarsk FM, 96.2 FM - 128 kbit/s
 http://online.krasnoyarskfm.ru:8000/krasnoyarskfm_mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561222161.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Love City FM - 128 kbit/s
-http://radio.lovecity3d.com:8130
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1478990611.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Monte Carlo 2 - 128 kbit/s
 http://icecast.unitedradio.it/RMC.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1478990611.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Love City FM - 128 kbit/s
+http://radio.lovecity3d.com:8130
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1436065484.jpg" group-title="RUSSIAN Radio - radio.pervii.com", ROCK-FM 95.2 FM - 64 kbit/s
 http://nashe1.hostingradio.ru/rock-64.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403628116.png" group-title="RUSSIAN Radio - radio.pervii.com", Staroe Radio - Muzyka - 128 kbit/s
@@ -94,6 +94,10 @@ http://animeradio.su:8000
 http://emgspb.hostingradio.ru/eldoradio64.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/29055.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Russkoe raio - Orenburg - 128 kbit/s
 http://radio.omg56.ru:8000/Russkoe_Oren
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554861291.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Kunel radio - Naberezhnye Chelny - 128 kbit/s
+http://live.kunelradio.ru:8000/128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403628116.png" group-title="RUSSIAN Radio - radio.pervii.com", Detskoe Radio - 128 kbit/s
+http://staroeradio.ru:8000/detskoe128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1419724220.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Zaycev FM - Raznoe - 256 kbit/s
 http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_256.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/29024.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Maksimum - Moskva 103.7 FM - 256 kbit/s
@@ -102,10 +106,6 @@ http://maximum.hostingradio.ru/maximum96.aacp
 http://213.59.4.27:8000/stream48.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1563080240.jpg" group-title="RUSSIAN Radio - radio.pervii.com", MDS Station - Model dlya sborki - 128 kbit/s
 http://stream.mds-station.com:8000/01-mds
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554861291.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Kunel radio - Naberezhnye Chelny - 128 kbit/s
-http://live.kunelradio.ru:8000/128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403628116.png" group-title="RUSSIAN Radio - radio.pervii.com", Detskoe Radio - 128 kbit/s
-http://staroeradio.ru:8000/detskoe128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1433629785.png" group-title="RUSSIAN Radio - radio.pervii.com", Rock Arsenal, Ekaterinburg, 104.5 FM - 128 kbit/s
 http://online.volgogradfm.ru:8000/rockarsenal
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1540383695.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Svoboda - Rossiya - 128 kbit/s

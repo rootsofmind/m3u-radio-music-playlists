@@ -20,10 +20,10 @@ http://streamer2.rightclickitservices.com:1128/stream/1/
 http://eco.onestreaming.com:8109
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1457892621.jpg" group-title="GREEK Radio - radio.pervii.com", Music Factory | Athens | Greece - 128 kbit/s
 https://i4.streams.ovh/sc/musicfactory/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1457892621.jpg" group-title="GREEK Radio - radio.pervii.com", BESTGREEK - 128 kbit/s
-http://bestgreek.info:8292/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1587873298.jpg" group-title="GREEK Radio - radio.pervii.com", STAR FM 88.8 Kerkyra Corfu Greece - 128 kbit/s
 http://s1.onweb.gr:8800/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1587873298.jpg" group-title="GREEK Radio - radio.pervii.com", BESTGREEK - 128 kbit/s
+http://bestgreek.info:8292/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1587873298.jpg" group-title="GREEK Radio - radio.pervii.com", Diva Fm 106.1 - Greece - 320 kbit/s
 http://divafm.yourstreaming.gr:9996
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/102397.jpg" group-title="GREEK Radio - radio.pervii.com", paros fm (Greece) - 32 kbit/s

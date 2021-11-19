@@ -76,17 +76,17 @@ http://199.195.194.140:8369/stream/1/
 http://ur58.lorini.net:50004/EXITOS1031FM.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403669769.png" group-title="RETRO Radio - radio.pervii.com", RadioSon.ru - your radio plays here! Radio Retro channel. - 128 kbit/s
 http://www.radioson.ru:8009/retro-fm.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403669769.png" group-title="RETRO Radio - radio.pervii.com", MFM RETRO ZOUK - 128 kbit/s
-http://163.172.16.107:5008
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1587052375.jpg" group-title="RETRO Radio - radio.pervii.com", Retro Hits Good Time Oldies - 128 kbit/s
 http://149.56.183.178:8300/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", RetroMusic San Justo(SF) - 96 kbit/s
 http://178.32.146.184:5938
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", EKR - RETRO ROCK (East Kent Radio Digital Network) - 96 kbit/s
-http://149.255.59.3:8081/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1594669130.jpg" group-title="RETRO Radio - radio.pervii.com", MFM RETRO ZOUK - 128 kbit/s
+http://163.172.16.107:5008
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1595551955.jpg" group-title="RETRO Radio - radio.pervii.com", Radio Momentos desde Santiago de Chile - 128 kbit/s
 http://5.9.65.9:8168
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537546401.jpg" group-title="RETRO Radio - radio.pervii.com", Retro Soul Radio London - 128 kbit/s
 http://46.28.49.164:7504/autodj
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537546401.jpg" group-title="RETRO Radio - radio.pervii.com", EKR - RETRO ROCK (East Kent Radio Digital Network) - 128 kbit/s
+http://149.255.59.3:8081/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1549423953.jpg" group-title="RETRO Radio - radio.pervii.com", Radio FG Vlaanderen - 128 kbit/s
 http://radiofg.impek.com/fga

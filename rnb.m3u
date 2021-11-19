@@ -32,10 +32,10 @@ http://192.99.35.215:5354/stream/1/
 http://89.39.189.53:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1554564682.jpg" group-title="RNB Radio - radio.pervii.com", Radio Kampus 97,1 FM - 128 kbit/s
 http://193.0.98.66:8005/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/26164.jpg" group-title="RNB Radio - radio.pervii.com", Bassdrive - Worldwide Drum and Bass Radio - 128 kbit/s
-http://144.217.129.213:8702/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/259339.jpg" group-title="RNB Radio - radio.pervii.com", Hip Hop Request # 1 In Hip-Hop and RnB - 128 kbit/s
 http://149.56.175.167:5461/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/26164.jpg" group-title="RNB Radio - radio.pervii.com", Bassdrive - Worldwide Drum and Bass Radio - 128 kbit/s
+http://144.217.129.213:8702/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1564807838.jpg" group-title="RNB Radio - radio.pervii.com", DnBRadio.com - 192 kbit/s
 http://195.201.98.51:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/25975.jpg" group-title="RNB Radio - radio.pervii.com", Big Blue Swing.com-64Kbit: Playing music for  Lindy Hop,  Charleston,  Balboa,  Swing, and  Blues - 64 kbit/s
@@ -70,10 +70,10 @@ http://listen.kboo.fm:8000/high
 http://live.radiointens.ro:8070/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1553656107.jpg" group-title="RNB Radio - radio.pervii.com", UrbanRadio New RnB - 128 kbit/s
 http://hydra.cdnstream.com/1531_128
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563162515.jpg" group-title="RNB Radio - radio.pervii.com", OnlineDJRadio - 192 kbit/s
-http://play.onlinedjradio.com:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1550032975.jpg" group-title="RNB Radio - radio.pervii.com", 106.6 FM - V Radio - 128 kbit/s
 http://202.147.199.100:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1563162515.jpg" group-title="RNB Radio - radio.pervii.com", OnlineDJRadio - 192 kbit/s
+http://play.onlinedjradio.com:8000/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1588001196.jpg" group-title="RNB Radio - radio.pervii.com", - - 128 kbit/s
 http://stream.zeno.fm/8kmzhnyv78quv
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1555307405.jpg" group-title="RNB Radio - radio.pervii.com", Radio Bandit - 128 kbit/s
@@ -106,10 +106,10 @@ http://176.31.98.109:8838/stream/1/
 http://184.164.135.70:8133
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="RNB Radio - radio.pervii.com", GotRadio - RnB Classics - 128 kbit/s
 http://gr02.cdnstream.com:8390
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1552224195.jpg" group-title="RNB Radio - radio.pervii.com", Vanilla Drum and Bass - 128 kbit/s
-http://vanilladnb.co.ua:8000/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553429775.jpg" group-title="RNB Radio - radio.pervii.com", Radio Expert Romania - www.RadioExpert.ro - 128 kbit/s
 http://live1.radioexpert.ro:8889/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553429775.jpg" group-title="RNB Radio - radio.pervii.com", Vanilla Drum and Bass - 128 kbit/s
+http://vanilladnb.co.ua:8000/stream
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1553531292.jpg" group-title="RNB Radio - radio.pervii.com", CEDRO FM - 128 kbit/s
 http://radios.viaflux.com:5555/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1554825206.jpg" group-title="RNB Radio - radio.pervii.com", SubsonicRadio.com - Disney Theme Park Music | Everything and Requestable - 128 kbit/s

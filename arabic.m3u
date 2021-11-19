@@ -54,24 +54,24 @@ http://23.82.11.88:5228/stream/1/
 http://198.178.123.11:8068/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550934618.jpg" group-title="ARABIC Radio - radio.pervii.com", Islamic Lectures Centre - 128 kbit/s
 http://91.121.113.129:8600/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1435600096.jpg" group-title="ARABIC Radio - radio.pervii.com", BeirutNights.com Radio: Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
-http://68.68.109.106:6626
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1435600096.jpg" group-title="ARABIC Radio - radio.pervii.com", BeirutNights.com Radio (AAC RELAY) Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
 http://s2.byblosnights.com:6190
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/127237.jpg" group-title="ARABIC Radio - radio.pervii.com", Radio Izlam - 128 kbit/s
 http://66.45.232.133:9998
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537503811.jpg" group-title="ARABIC Radio - radio.pervii.com", Drdchati Radio - 96 kbit/s
 http://s2.radio.co/s79d5660a8/listen
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1435600096.jpg" group-title="ARABIC Radio - radio.pervii.com", BeirutNights.com Radio: Mediterranean Dance EUrodance Italo Trance Lebanese Arabic Greek etc - 128 kbit/s
+http://68.68.109.106:6626
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1551452893.jpg" group-title="ARABIC Radio - radio.pervii.com", TaksimFM - Arabic - 64 kbit/s
 http://cast1.taksim.fm:8006
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549466348.jpg" group-title="ARABIC Radio - radio.pervii.com", Arabica - 128 kbit/s
-http://listen.radionomy.com:80/Arabica
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119047.jpg" group-title="ARABIC Radio - radio.pervii.com", Islam2Day Radio, CH.3 [ Islamic Songs- Nasheeds ] - 96 kbit/s
 http://islam2day.tv:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/119047.jpg" group-title="ARABIC Radio - radio.pervii.com", True Life in God Radio Arabic - 128 kbit/s
 http://46.28.49.164:7726/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1561645518.jpg" group-title="ARABIC Radio - radio.pervii.com", FM91 Pakistan - Islamabad - 192 kbit/s
 http://172.93.237.106:8191/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1549466348.jpg" group-title="ARABIC Radio - radio.pervii.com", Arabica - 128 kbit/s
+http://listen.radionomy.com:80/Arabica
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="ARABIC Radio - radio.pervii.com", Radio Caprice Arabic Pop Music - 128 kbit/s
 http://79.120.39.202:9087
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1560869727.jpg" group-title="ARABIC Radio - radio.pervii.com", RadioSama - 128 kbit/s
