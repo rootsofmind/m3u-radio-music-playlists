@@ -36,10 +36,10 @@ http://quraan.us:9890
 http://quraan.us:9844
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Hungarian by EDC - 128 kbit/s
 http://quraan.us:9980
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in French by EDC - 128 kbit/s
-http://quraan.us:9988
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in English by EDC - 128 kbit/s
 http://server2.quraan.us:9990
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in French by EDC - 128 kbit/s
+http://quraan.us:9988
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Kurdish by EDC - 128 kbit/s
 http://quraan.us:9970
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/127237.jpg" group-title="QURAN Radio - radio.pervii.com", Radio Izlam - 128 kbit/s
@@ -86,9 +86,9 @@ http://quraan.us:9860
 http://quraan.us:9954
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", Quran in Sinhala by EDC - 128 kbit/s
 http://quraan.us:9962
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403745724.png" group-title="QURAN Radio - radio.pervii.com", Radio Quraan - 128 kbit/s
-http://66.45.232.131:9994
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403745724.png" group-title="QURAN Radio - radio.pervii.com", UnitedInIslam Radio :Quran Recitation With English Translation - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1550415099.jpg" group-title="QURAN Radio - radio.pervii.com", UnitedInIslam Radio :Quran Recitation With English Translation - 128 kbit/s
 mms://unitedinislam.com:8002
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1537516438.jpg" group-title="QURAN Radio - radio.pervii.com", Brume 90.7 FM - 128 kbit/s
 http://ice1.impek.com:80/radiobrume
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403745724.png" group-title="QURAN Radio - radio.pervii.com", Radio Quraan - 128 kbit/s
+http://66.45.232.131:9994

@@ -20,10 +20,10 @@ http://212.71.250.12:8151/stream/1/
 http://rascast.podzone.org:8006/conciousradio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/6/1576143436.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Guyana International HD - 128 kbit/s
 http://51.15.152.81:8905/stream
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="REGGAE Radio - radio.pervii.com", Soca Addicts Radio - 128 kbit/s
-http://37.187.90.196:8989/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1561121351.jpg" group-title="REGGAE Radio - radio.pervii.com", Sensimedia Roots Reggae Radio - 192 kbit/s
 http://144.217.129.213:9878/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1550334357.jpg" group-title="REGGAE Radio - radio.pervii.com", Soca Addicts Radio - 128 kbit/s
+http://37.187.90.196:8989/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550324930.jpg" group-title="REGGAE Radio - radio.pervii.com", Black Roots Radio - 128 kbit/s
 http://178.32.62.154:10156/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/32032.jpg" group-title="REGGAE Radio - radio.pervii.com", Reggae Empire Radio Worldwide - 192 kbit/s
@@ -138,23 +138,27 @@ http://real2.streaming-co.com:8007
 http://www.partyvibe.com:8000/stream/3/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="REGGAE Radio - radio.pervii.com", 808Reggaecast - 192 kbit/s
 http://66.225.205.5:80/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="REGGAE Radio - radio.pervii.com", TDK RADIO GUYANA - 192 kbit/s
+http://96.31.83.86:8126/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550734038.jpg" group-title="REGGAE Radio - radio.pervii.com", JR.FM Latin Beats Radio - 320 kbit/s
+http://149.56.157.81:8267/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403762287.png" group-title="REGGAE Radio - radio.pervii.com", Big Chune Radio - 192 kbit/s
 http://91.121.205.70:15414/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403762287.png" group-title="REGGAE Radio - radio.pervii.com", GloballyRelaxed Stream - 128 kbit/s
 http://perseus.shoutca.st:8775/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403762287.png" group-title="REGGAE Radio - radio.pervii.com", Hertz Stereo Radio - 128 kbit/s
+http://195.154.133.107:8462/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403756389.png" group-title="REGGAE Radio - radio.pervii.com", Reggaewave Radio - 128 kbit/s
 http://rascast.podzone.org:8040/reggaewave.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403756389.png" group-title="REGGAE Radio - radio.pervii.com", Hertz Stereo Radio - 128 kbit/s
-http://195.154.133.107:8462/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/123126.jpg" group-title="REGGAE Radio - radio.pervii.com", Nayda Maroc by Yabiladi.com - 128 kbit/s
 http://37.187.146.76:9100/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="REGGAE Radio - radio.pervii.com", 181.FM Reggae Roots - 128 kbit/s
 http://208.84.155.87:8096
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="REGGAE Radio - radio.pervii.com", TDK RADIO GUYANA - 192 kbit/s
-http://96.31.83.86:8126/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="REGGAE Radio - radio.pervii.com", JR.FM Latin Beats Radio - 320 kbit/s
-http://149.56.157.81:8267/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/4855.jpg" group-title="REGGAE Radio - radio.pervii.com", AmbianceReggae - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Caprice - Roots Reggae - 128 kbit/s
+http://79.111.119.111:9047
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Yaadlinks Radio UK - 128 kbit/s
+http://176.31.111.65:14050/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", AmbianceReggae - 128 kbit/s
 http://listen.radionomy.com/Ambiance-Reggae
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/15818.jpg" group-title="REGGAE Radio - radio.pervii.com", Retter-Radio.de Plattenkiste - 128 kbit/s
 http://www.retter-radio.de:8000
@@ -170,13 +174,17 @@ http://listen.radioking.com/radio/16769/stream/49487
 http://94.23.26.193:9000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/116873.jpg" group-title="REGGAE Radio - radio.pervii.com", Rastapuls - 192 kbit/s
 http://radio.rastapuls.com:8000/rastapuls
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio Caprice - Roots Reggae - 128 kbit/s
-http://79.111.119.111:9047
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Yaadlinks Radio UK - 128 kbit/s
-http://176.31.111.65:14050/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Imperial Voice Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", Faymus Radio - 320 kbit/s
+http://212.71.250.12:8078/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Armageddeon Musik - 256 kbit/s
+https://s5.voscast.com:9263/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Hollings ON AIR - 128 kbit/s
+http://198.58.106.133:8070/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", WHAT?! Island - 128 kbit/s
+http://162.144.106.6:8118/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Imperial Voice Radio - 128 kbit/s
 http://radio.canstream.co.uk:8100/live.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="REGGAE Radio - radio.pervii.com", Fullforce Radio - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Fullforce Radio - 128 kbit/s
 http://176.31.120.92:11558/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="REGGAE Radio - radio.pervii.com", Radio UDG Colotlan - 128 kbit/s
 http://148.202.77.155:8000/stream/1/
@@ -192,11 +200,3 @@ http://s1.nexuscast.com:8117
 http://dhoytt.com:8030/320kbps
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="REGGAE Radio - radio.pervii.com", Seriousfunjamz.com - 320 kbit/s
 http://5.135.154.69:13472/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1555136191.jpg" group-title="REGGAE Radio - radio.pervii.com", qtv562rrs1duv - 128 kbit/s
-http://stream.radiojar.com/qtv562rrs1duv
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561049453.jpg" group-title="REGGAE Radio - radio.pervii.com", Faymus Radio - 320 kbit/s
-http://212.71.250.12:8078/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Armageddeon Musik - 256 kbit/s
-https://s5.voscast.com:9263/live
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1556671639.jpg" group-title="REGGAE Radio - radio.pervii.com", Hollings ON AIR - 128 kbit/s
-http://198.58.106.133:8070/stream/1/

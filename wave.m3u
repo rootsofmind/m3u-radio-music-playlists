@@ -46,10 +46,10 @@ http://hestia.cdnstream.com/1256_128
 http://83.170.89.19:9866/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1563084571.jpg" group-title="WAVE Radio - radio.pervii.com", The Mix - The New Wave Alternative - 192 kbit/s
 http://46.105.126.68:7304
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1563084571.jpg" group-title="WAVE Radio - radio.pervii.com", Wave Farm&#039;s WGXC 90.7-FM - 128 kbit/s
+http://audio.wavefarm.org:8000/wgxc.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553567085.jpg" group-title="WAVE Radio - radio.pervii.com", GrooveWave - Hot Groove - 128 kbit/s
 http://stm31.srvstm.com:8914/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1553567085.jpg" group-title="WAVE Radio - radio.pervii.com", Wave Farm&#039;s WGXC 90.7-FM - 128 kbit/s
-http://audio.wavefarm.org:8000/wgxc.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403554005.png" group-title="WAVE Radio - radio.pervii.com", radio-headshot - 128 kbit/s
 http://stream.laut.fm/radio-headshot
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="WAVE Radio - radio.pervii.com", DI Radio Digital Impulse - New Wave &apos;80s - 320 kbit/s
@@ -58,8 +58,6 @@ http://orion.shoutca.st:8123/stream/1/
 http://37.59.38.180:10352/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1553670714.jpg" group-title="WAVE Radio - radio.pervii.com", DJ Digital K-Pop Wave - 128 kbit/s
 http://167.114.64.181:8818/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1551148550.jpg" group-title="WAVE Radio - radio.pervii.com", 80sRadio (MRG.fm) - 128 kbit/s
-http://62.149.196.16:8089/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="WAVE Radio - radio.pervii.com", Radio Caprice - Darkwave - 128 kbit/s
 http://79.111.14.76:9073
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1562988670.jpg" group-title="WAVE Radio - radio.pervii.com", KMJY-LP Solomon Kansas - The Smooth Jazz Smooth Wave - 128 kbit/s
@@ -70,7 +68,9 @@ http://192.99.170.8:5722/stream/1/
 http://107.155.111.170:8340
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/98616.jpg" group-title="WAVE Radio - radio.pervii.com", Toksyna FM NEW ROMANTIC,NEW WAVE,SYNTH,GOTIC - 128 kbit/s
 http://s01.toksyna.fm:8020/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/98616.jpg" group-title="WAVE Radio - radio.pervii.com", Radio Cardiowave - 256 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1551148550.jpg" group-title="WAVE Radio - radio.pervii.com", 80sRadio (MRG.fm) - 128 kbit/s
+http://62.149.196.16:8089/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1551148550.jpg" group-title="WAVE Radio - radio.pervii.com", Radio Cardiowave - 256 kbit/s
 http://91.206.30.79:8000/CW256
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403756389.png" group-title="WAVE Radio - radio.pervii.com", Reggaewave Radio - 128 kbit/s
 http://rascast.podzone.org:8040/reggaewave.mp3

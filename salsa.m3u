@@ -36,10 +36,10 @@ http://188.165.206.81:8100/stream/1/
 http://176.31.120.166:4450/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1572746388.jpg" group-title="SALSA Radio - radio.pervii.com", Hard Salsa Bogotá - 128 kbit/s
 http://192.99.8.192:2126/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1560868728.jpg" group-title="SALSA Radio - radio.pervii.com", PuertoSalsa radio Chile - 128 kbit/s
-https://sonic.portalfoxmix.cl:7028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/113519.jpg" group-title="SALSA Radio - radio.pervii.com", Radio TROPIC 84 - 128 kbit/s
 http://94.23.209.107:8016
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1560868728.jpg" group-title="SALSA Radio - radio.pervii.com", PuertoSalsa radio Chile - 128 kbit/s
+https://sonic.portalfoxmix.cl:7028/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1550070253.jpg" group-title="SALSA Radio - radio.pervii.com", ElBachaRengue.Net - 64 kbit/s
 http://195.154.33.87:9998
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", CALMRADIO.COM - Samba Brazil - 128 kbit/s
@@ -52,6 +52,8 @@ http://node-32.zeno.fm/dm3g457s6yzuv
 http://192.95.39.65:5798/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", CALMRADIO.COM - Salsa - 128 kbit/s
 http://23.82.11.88:9628/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", CARIBE SPORTS Radio - 128 kbit/s
+http://62.210.141.243:8348/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", Soneros de Siempre - 128 kbit/s
 http://212.83.146.67:9500
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", Radio Expreso Latino - 128 kbit/s
@@ -62,8 +64,6 @@ http://s9.voscast.com:8496/stream/1/
 http://94.23.26.193:9000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", Radio Salsa Superior - 128 kbit/s
 http://209.95.56.179:8274/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", CARIBE SPORTS Radio - 128 kbit/s
-http://62.210.141.243:8348/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549710295.jpg" group-title="SALSA Radio - radio.pervii.com", ChanteZouk Guadeloupe: les Plus Belles Chansons antillaises - 128 kbit/s
 http://195.114.19.178:8018/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1551052627.jpg" group-title="SALSA Radio - radio.pervii.com", Radio Caprice Salsa - 128 kbit/s

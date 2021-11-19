@@ -70,10 +70,10 @@ http://pnj-01.stream101.com:9035/live
 http://188.165.11.30:8200/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561801570.jpg" group-title="VARIOUS Radio - radio.pervii.com", DOMINICA BROADCASING CORPORATION - 96 kbit/s
 http://38.96.148.26:6930/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", KNVBC - Revival Radio - 96 kbit/s
+http://stream.knvbc.com:8000/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552390309.jpg" group-title="VARIOUS Radio - radio.pervii.com", CRo Zurnal - 128 kbit/s
 http://icecast8.play.cz:80/cro1-128.mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", KNVBC - Revival Radio - 128 kbit/s
-http://stream.knvbc.com:8000/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1560950567.jpg" group-title="VARIOUS Radio - radio.pervii.com", Laza RÃ¡diÃ³ - 192 kbit/s
 http://stream.lazaradio.com:8100/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1560950567.jpg" group-title="VARIOUS Radio - radio.pervii.com", 90rakthai - 128 kbit/s
@@ -84,10 +84,10 @@ http://phileradio.com:8193/sfera
 http://mcrscast.mcr.iol.pt/smoothfm
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1537521875.jpg" group-title="VARIOUS Radio - radio.pervii.com", Mix FM - 128 kbit/s
 http://live3.istoikona.com:8127/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561869467.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Liberdade - 128 kbit/s
-http://cast4.audiostream.com.br:8655/aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403596890.png" group-title="VARIOUS Radio - radio.pervii.com", Radio Reyna - 64 kbit/s
 http://icecasthd.net:25720/radioreyna
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1561869467.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio Liberdade - 64 kbit/s
+http://cast4.audiostream.com.br:8655/aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1537527092.jpg" group-title="VARIOUS Radio - radio.pervii.com", KXT 91.7 128kbps MP3 - 192 kbit/s
 http://kera-ice.streamguys.us/kxtlive128
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1561911793.jpg" group-title="VARIOUS Radio - radio.pervii.com", Caicara - 96 kbit/s

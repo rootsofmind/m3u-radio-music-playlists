@@ -66,9 +66,11 @@ http://war.powerfm.org:8000/powerfm.mp3
 http://198.15.94.34:8012/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/60020.jpg" group-title="DRUM Radio - radio.pervii.com", Rise-FM 92.2 - 192 kbit/s
 http://5.19.139.83:8000
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/60020.jpg" group-title="DRUM Radio - radio.pervii.com", FII COOL - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", Scream London : Broadcasting the best in Drum N Bass, Jungle, Dubstep, House and Old Skool - 24/7 365 - 128 kbit/s
+http://198.178.123.5:8074/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", FII COOL - 128 kbit/s
 http://89.238.227.6:8374/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549982229.jpg" group-title="DRUM Radio - radio.pervii.com", TeaTime.FM - 24h Happy Hardcore, Drum and Bass, UK Dance and More - 192 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1549982229.jpg" group-title="DRUM Radio - radio.pervii.com", TeaTime.FM - 24h Happy Hardcore, Drum and Bass, UK Dance and More - 128 kbit/s
 http://aach.stream.tb-group.fm:80/tt-high.aac
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403576934.png" group-title="DRUM Radio - radio.pervii.com", Nautic Radio - Beats &#039;n Breaks - drum and bass,jungle,dubstep,breakcore,frenchcore,tekno,experimental,8bit,uk-hardcore,industrial,noise,hiphop,disco,hardcore - 320 kbit/s
 http://83.137.145.141:14280
@@ -76,23 +78,21 @@ http://83.137.145.141:14280
 http://fullspectrumradio.com:8000
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="DRUM Radio - radio.pervii.com", dbFM Radio - 320 kbit/s
 http://51.38.39.244:8010/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", Scream London : Broadcasting the best in Drum N Bass, Jungle, Dubstep, House and Old Skool - 24/7 365 - 128 kbit/s
-http://198.178.123.5:8074/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", powerfm.org - aac Stream - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="DRUM Radio - radio.pervii.com", powerfm.org - aac Stream - 320 kbit/s
 http://war.powerfm.org:8000/powerfm.aac
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", Boosh.FM - 256 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="DRUM Radio - radio.pervii.com", Boosh.FM - 256 kbit/s
 http://stream.boosh.fm:8000/boosh256mp3
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", JR.FM Trance Radio - 320 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="DRUM Radio - radio.pervii.com", JR.FM Trance Radio - 320 kbit/s
 http://149.56.157.81:5096/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403738052.png" group-title="DRUM Radio - radio.pervii.com", FIX-FM (dnb) - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="DRUM Radio - radio.pervii.com", PirateRevival AutoDJ - 128 kbit/s
+http://87.117.201.160:8400
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403701784.png" group-title="DRUM Radio - radio.pervii.com", FIX-FM (dnb) - 128 kbit/s
 http://85.10.198.55:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403671199.png" group-title="DRUM Radio - radio.pervii.com", The Pain Dealers Radio - 128 kbit/s
 http://www.paindealers.org:7777
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/104419.jpg" group-title="DRUM Radio - radio.pervii.com", #DNBRADIO - Fresh Drum and Bass, Jungle - 192 kbit/s
 http://fm.opentree.cz:80/dnbradio
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/104419.jpg" group-title="DRUM Radio - radio.pervii.com", PirateRevival AutoDJ - 128 kbit/s
-http://87.117.201.160:8400
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="DRUM Radio - radio.pervii.com", RadioC2 Message - 128 kbit/s
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1553407440.jpg" group-title="DRUM Radio - radio.pervii.com", RadioC2 Message - 192 kbit/s
 http://donleone.online:8448/drum_and_bass?testpass
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/9789.jpg" group-title="DRUM Radio - radio.pervii.com", sunshine live - Drum ’n’ Bass - 128 kbit/s
 http://stream.sunshine-live.de/dnb/mp3-128

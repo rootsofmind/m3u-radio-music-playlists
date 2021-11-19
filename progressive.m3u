@@ -24,10 +24,10 @@ http://62.210.114.63:8010/stream/1/
 http://mp3.stream.tb-group.fm:80/trb.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1584983885.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Hand of Doom Radio - 128 kbit/s
 http://158.69.114.190:8042/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1584983885.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", P.R.O.G.ProgressiveRockRadio - 128 kbit/s
-http://listen.radionomy.com:80/PROGProgressiveRockRadio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1584983885.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", BEST Radio (128Kbps) - 128 kbit/s
 http://stream.radiobest.eu:8000/128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1584983885.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", P.R.O.G.ProgressiveRockRadio - 128 kbit/s
+http://listen.radionomy.com:80/PROGProgressiveRockRadio
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1584983885.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", StarDust Space Radio - http://www.stardustradio.space/ - 128 kbit/s
 http://cast.stardustradio.space:8000/autodj
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/8/1550201628.jpg" group-title="PROGRESSIVE Radio - radio.pervii.com", Midlands Metalheads Radio - 192 kbit/s
