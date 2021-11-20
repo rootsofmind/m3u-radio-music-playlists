@@ -70,10 +70,10 @@ http://pnj-01.stream101.com:9035/live
 http://188.165.11.30:8200/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1561801570.jpg" group-title="VARIOUS Radio - radio.pervii.com", DOMINICA BROADCASING CORPORATION - 96 kbit/s
 http://38.96.148.26:6930/stream/1/
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", KNVBC - Revival Radio - 96 kbit/s
-http://stream.knvbc.com:8000/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/9/1552390309.jpg" group-title="VARIOUS Radio - radio.pervii.com", CRo Zurnal - 128 kbit/s
 http://icecast8.play.cz:80/cro1-128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403663565.png" group-title="VARIOUS Radio - radio.pervii.com", KNVBC - Revival Radio - 128 kbit/s
+http://stream.knvbc.com:8000/listen
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1560950567.jpg" group-title="VARIOUS Radio - radio.pervii.com", Laza RÃ¡diÃ³ - 192 kbit/s
 http://stream.lazaradio.com:8100/live.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1560950567.jpg" group-title="VARIOUS Radio - radio.pervii.com", 90rakthai - 128 kbit/s
@@ -164,10 +164,10 @@ http://stream3.nadaje.com:9116/radiokrakow
 http://war.str3am.com:7180/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549632055.jpg" group-title="VARIOUS Radio - radio.pervii.com", Party 97.1 - 128 kbit/s
 http://s1.onweb.gr:8824/stream/1/
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/5/1549632055.jpg" group-title="VARIOUS Radio - radio.pervii.com", Bo Guia 88.9 FM - 128 kbit/s
+http://whooshserver.net:9880/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1549635817.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio ItsyBitsy - 128 kbit/s
 http://live.itsybitsy.ro:8000/itsybitsy
-#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/7/1549635817.jpg" group-title="VARIOUS Radio - radio.pervii.com", Bo Guia 88.9 FM - 128 kbit/s
-http://whooshserver.net:9880/live
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/4/1574516284.jpg" group-title="VARIOUS Radio - radio.pervii.com", La N 103.5 FM - 128 kbit/s
 http://rgradio.net:10100/lan103.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537445973.jpg" group-title="VARIOUS Radio - radio.pervii.com", Radio La Suprema Estacion HD - 128 kbit/s
