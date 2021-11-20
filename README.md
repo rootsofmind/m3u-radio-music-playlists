@@ -80,9 +80,9 @@ for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_
 
 4rd step: make the ---everyhting.m3u out of our downloaded m3u files
 ```
-ls ~/Music/bare_m3u/*.m3u -v | xargs cat | sed -n '/^#/!p' > ~/Music/bare_m3u/---everyhting.m3u
+cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everyhting.m3u
 ```
-because `cat` doesn't list alphabetically we use `ls` in tandom with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream
+because `cat` doesn't list alphabetically we use `ls` in tandom with it, use `sed` to remove every line that starts with `#` to make the final file smaller and write everything to the final m3u stream and `awk` here remove duplicate lines
 
 5rd step: make the ---randomized.m3u stream by shuffeling the contents of ---everyhting.m3u
 ```
@@ -115,7 +115,7 @@ now for the complete script, save it to a file and give it `.sh` extension and r
 
 /usr/bin/aria2c -x 16 -j 4 -i ~/Music/list.txt -d ~/Music/bare_m3u/
 for f in ~/Music/bare_m3u/*.m3u ; do mv "$f" "$(echo "$f" | sed -e 's/top_radio_//g')"; done
-ls ~/Music/bare_m3u/*.m3u -v | xargs cat | sed -n '/^#/!p' > ~/Music/bare_m3u/---everyhting.m3u
+cat $( ls ~/Music/bare_m3u/*.m3u -v ) | sed -n '/^#/!p' | awk '!seen[$0]++' > ~/Music/bare_m3u/---everyhting.m3u
 cat ~/Music/bare_m3u/---everyhting.m3u | shuf > ~/Music/bare_m3u/---randomized.m3u
 mv ~/Music/bare_m3u/*.m3u ~/Music/m3u-radio-music-playlists
 git -C ~/Music/m3u-radio-music-playlists add .
